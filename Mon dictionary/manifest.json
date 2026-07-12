@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "files": [
+    "Mon dictionary/suggestions/emoji.json",
+    "Mon dictionary/suggestions/english.json",
+    "Mon dictionary/suggestions/mon.json",
+    "Mon dictionary/suggestions/myanmar.json",
+    "Mon dictionary/suggestions/thai.json",
+
+    "Mon dictionary/dictionary/eng_mon.json",
+    "Mon dictionary/dictionary/mon_eng_mya_pali.json",
+    "Mon dictionary/dictionary/mon_thai_eng_mya.json"
+  ]
+}
