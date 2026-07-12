@@ -1,6962 +1,6958 @@
 [
   {
-    "A1": "keyword",
-    "B1": "emoji"
+    "keyword": "မ္ၚဵုရ",
+    "emoji": "🙏"
   },
   {
-    "A1": "မ္ၚဵုရ",
-    "B1": "🙏"
+    "keyword": "မ္ၚဵုရအဴ",
+    "emoji": "🙏"
   },
   {
-    "A1": "မ္ၚဵုရအဴ",
-    "B1": "🙏"
+    "keyword": "တင်ဂုဏ်",
+    "emoji": "🙏"
   },
   {
-    "A1": "တင်ဂုဏ်",
-    "B1": "🙏"
+    "keyword": "မင်္ဂလာပါ",
+    "emoji": "🙏"
   },
   {
-    "A1": "မင်္ဂလာပါ",
-    "B1": "🙏"
+    "keyword": "ကျေးဇူးတင်ပါတယ်",
+    "emoji": "🙏"
   },
   {
-    "A1": "ကျေးဇူးတင်ပါတယ်",
-    "B1": "🙏"
+    "keyword": "สวัสดี",
+    "emoji": "🙏"
   },
   {
-    "A1": "สวัสดี",
-    "B1": "🙏"
+    "keyword": "ขอบคุณ",
+    "emoji": "🙏"
   },
   {
-    "A1": "ขอบคุณ",
-    "B1": "🙏"
+    "keyword": "hello",
+    "emoji": "🙏"
   },
   {
-    "A1": "hello",
-    "B1": "🙏"
+    "keyword": "thanks",
+    "emoji": "🙏"
   },
   {
-    "A1": "thanks",
-    "B1": "🙏"
+    "keyword": "please",
+    "emoji": "🙏"
   },
   {
-    "A1": "please",
-    "B1": "🙏"
+    "keyword": "မေတ္တာ",
+    "emoji": "❤️"
   },
   {
-    "A1": "မေတ္တာ",
-    "B1": "❤️"
+    "keyword": "သ္ဍိုက်",
+    "emoji": "❤️"
   },
   {
-    "A1": "သ္ဍိုက်",
-    "B1": "❤️"
+    "keyword": "ဆာန်",
+    "emoji": "❤️"
   },
   {
-    "A1": "ဆာန်",
-    "B1": "❤️"
+    "keyword": "ချစ်တယ်",
+    "emoji": "❤️"
   },
   {
-    "A1": "ချစ်တယ်",
-    "B1": "❤️"
+    "keyword": "အချစ်",
+    "emoji": "❤️"
   },
   {
-    "A1": "အချစ်",
-    "B1": "❤️"
+    "keyword": "รัก",
+    "emoji": "❤️"
   },
   {
-    "A1": "รัก",
-    "B1": "❤️"
+    "keyword": "หัวใจ",
+    "emoji": "❤️"
   },
   {
-    "A1": "หัวใจ",
-    "B1": "❤️"
+    "keyword": "love",
+    "emoji": "❤️"
   },
   {
-    "A1": "love",
-    "B1": "❤️"
+    "keyword": "heart",
+    "emoji": "❤️"
   },
   {
-    "A1": "heart",
-    "B1": "❤️"
+    "keyword": "sweet",
+    "emoji": "❤️"
   },
   {
-    "A1": "sweet",
-    "B1": "❤️"
+    "keyword": "မိပ်",
+    "emoji": "😊"
   },
   {
-    "A1": "မိပ်",
-    "B1": "😊"
+    "keyword": "မိပ်စိုတ်",
+    "emoji": "😊"
   },
   {
-    "A1": "မိပ်စိုတ်",
-    "B1": "😊"
+    "keyword": "အီ",
+    "emoji": "😊"
   },
   {
-    "A1": "အီ",
-    "B1": "😊"
+    "keyword": "အီတ္ၚက်",
+    "emoji": "😊"
   },
   {
-    "A1": "အီတ္ၚက်",
-    "B1": "😊"
+    "keyword": "ပျော်တယ်",
+    "emoji": "😊"
   },
   {
-    "A1": "ပျော်တယ်",
-    "B1": "😊"
+    "keyword": "ပြုံးတယ်",
+    "emoji": "😊"
   },
   {
-    "A1": "ပြုံးတယ်",
-    "B1": "😊"
+    "keyword": "ดีใจ",
+    "emoji": "😊"
   },
   {
-    "A1": "ดีใจ",
-    "B1": "😊"
+    "keyword": "ยิ้ม",
+    "emoji": "😊"
   },
   {
-    "A1": "ยิ้ม",
-    "B1": "😊"
+    "keyword": "happy",
+    "emoji": "😊"
   },
   {
-    "A1": "happy",
-    "B1": "😊"
+    "keyword": "smile",
+    "emoji": "😊"
   },
   {
-    "A1": "smile",
-    "B1": "😊"
+    "keyword": "joy",
+    "emoji": "😊"
   },
   {
-    "A1": "joy",
-    "B1": "😊"
+    "keyword": "သုင်",
+    "emoji": "☕"
   },
   {
-    "A1": "သုင်",
-    "B1": "☕"
+    "keyword": "ကော်ဖဳ",
+    "emoji": "☕"
   },
   {
-    "A1": "ကော်ဖဳ",
-    "B1": "☕"
+    "keyword": "သောက်",
+    "emoji": "☕"
   },
   {
-    "A1": "သောက်",
-    "B1": "☕"
+    "keyword": "ကော်ဖီ",
+    "emoji": "☕"
   },
   {
-    "A1": "ကော်ဖီ",
-    "B1": "☕"
+    "keyword": "ดื่ม",
+    "emoji": "☕"
   },
   {
-    "A1": "ดื่ม",
-    "B1": "☕"
+    "keyword": "กาแฟ",
+    "emoji": "☕"
   },
   {
-    "A1": "กาแฟ",
-    "B1": "☕"
+    "keyword": "drink",
+    "emoji": "☕"
   },
   {
-    "A1": "drink",
-    "B1": "☕"
+    "keyword": "coffee",
+    "emoji": "☕"
   },
   {
-    "A1": "coffee",
-    "B1": "☕"
+    "keyword": "tea",
+    "emoji": "☕"
   },
   {
-    "A1": "tea",
-    "B1": "☕"
+    "keyword": "ပ္ကဴ",
+    "emoji": "🌸"
   },
   {
-    "A1": "ပ္ကဴ",
-    "B1": "🌸"
+    "keyword": "ပန်း",
+    "emoji": "🌸"
   },
   {
-    "A1": "ပန်း",
-    "B1": "🌸"
+    "keyword": "ดอกไม้",
+    "emoji": "🌸"
   },
   {
-    "A1": "ดอกไม้",
-    "B1": "🌸"
+    "keyword": "flower",
+    "emoji": "🌸"
   },
   {
-    "A1": "flower",
-    "B1": "🌸"
+    "keyword": "rose",
+    "emoji": "🌸"
   },
   {
-    "A1": "rose",
-    "B1": "🌸"
+    "keyword": "bloom",
+    "emoji": "🌸"
   },
   {
-    "A1": "bloom",
-    "B1": "🌸"
+    "keyword": "သ္ၚိ",
+    "emoji": "🏠"
   },
   {
-    "A1": "သ္ၚိ",
-    "B1": "🏠"
+    "keyword": "အိမ်",
+    "emoji": "🏠"
   },
   {
-    "A1": "အိမ်",
-    "B1": "🏠"
+    "keyword": "บ้าน",
+    "emoji": "🏠"
   },
   {
-    "A1": "บ้าน",
-    "B1": "🏠"
+    "keyword": "home",
+    "emoji": "🏠"
   },
   {
-    "A1": "home",
-    "B1": "🏠"
+    "keyword": "house",
+    "emoji": "🏠"
   },
   {
-    "A1": "house",
-    "B1": "🏠"
+    "keyword": "ကွာန်",
+    "emoji": "🏡"
   },
   {
-    "A1": "ကွာန်",
-    "B1": "🏡"
+    "keyword": "ရွာ",
+    "emoji": "🏡"
   },
   {
-    "A1": "ရွာ",
-    "B1": "🏡"
+    "keyword": "หมู่บ้าน",
+    "emoji": "🏡"
   },
   {
-    "A1": "หมู่บ้าน",
-    "B1": "🏡"
+    "keyword": "village",
+    "emoji": "🏡"
   },
   {
-    "A1": "village",
-    "B1": "🏡"
+    "keyword": "hometown",
+    "emoji": "🏡"
   },
   {
-    "A1": "hometown",
-    "B1": "🏡"
+    "keyword": "စ",
+    "emoji": "🍛"
   },
   {
-    "A1": "စ",
-    "B1": "🍛"
+    "keyword": "ပုင်",
+    "emoji": "🍛"
   },
   {
-    "A1": "ပုင်",
-    "B1": "🍛"
+    "keyword": "စား",
+    "emoji": "🍛"
   },
   {
-    "A1": "စား",
-    "B1": "🍛"
+    "keyword": "ထမင်း",
+    "emoji": "🍛"
   },
   {
-    "A1": "ထမင်း",
-    "B1": "🍛"
+    "keyword": "กิน",
+    "emoji": "🍛"
   },
   {
-    "A1": "กิน",
-    "B1": "🍛"
+    "keyword": "ข้าว",
+    "emoji": "🍛"
   },
   {
-    "A1": "ข้าว",
-    "B1": "🍛"
+    "keyword": "eat",
+    "emoji": "🍛"
   },
   {
-    "A1": "eat",
-    "B1": "🍛"
+    "keyword": "food",
+    "emoji": "🍛"
   },
   {
-    "A1": "food",
-    "B1": "🍛"
+    "keyword": "rice",
+    "emoji": "🍛"
   },
   {
-    "A1": "rice",
-    "B1": "🍛"
+    "keyword": "meal",
+    "emoji": "🍛"
   },
   {
-    "A1": "meal",
-    "B1": "🍛"
+    "keyword": "တိက်",
+    "emoji": "😴"
   },
   {
-    "A1": "တိက်",
-    "B1": "😴"
+    "keyword": "အိပ်",
+    "emoji": "😴"
   },
   {
-    "A1": "အိပ်",
-    "B1": "😴"
+    "keyword": "นอน",
+    "emoji": "😴"
   },
   {
-    "A1": "นอน",
-    "B1": "😴"
+    "keyword": "sleep",
+    "emoji": "😴"
   },
   {
-    "A1": "sleep",
-    "B1": "😴"
+    "keyword": "night",
+    "emoji": "😴"
   },
   {
-    "A1": "night",
-    "B1": "😴"
+    "keyword": "dream",
+    "emoji": "😴"
   },
   {
-    "A1": "dream",
-    "B1": "😴"
+    "keyword": "bed",
+    "emoji": "😴"
   },
   {
-    "A1": "bed",
-    "B1": "😴"
+    "keyword": "ဘာ",
+    "emoji": "🏫"
   },
   {
-    "A1": "ဘာ",
-    "B1": "🏫"
+    "keyword": "ကျောင်း",
+    "emoji": "🏫"
   },
   {
-    "A1": "ကျောင်း",
-    "B1": "🏫"
+    "keyword": "โรงเรียน",
+    "emoji": "🏫"
   },
   {
-    "A1": "โรงเรียน",
-    "B1": "🏫"
+    "keyword": "school",
+    "emoji": "🏫"
   },
   {
-    "A1": "school",
-    "B1": "🏫"
+    "keyword": "study",
+    "emoji": "🏫"
   },
   {
-    "A1": "study",
-    "B1": "🏫"
+    "keyword": "learn",
+    "emoji": "🏫"
   },
   {
-    "A1": "learn",
-    "B1": "🏫"
+    "keyword": "class",
+    "emoji": "🏫"
   },
   {
-    "A1": "class",
-    "B1": "🏫"
+    "keyword": "ကျာ်",
+    "emoji": "🛕"
   },
   {
-    "A1": "ကျာ်",
-    "B1": "🛕"
+    "keyword": "စေတဳ",
+    "emoji": "🛕"
   },
   {
-    "A1": "စေတဳ",
-    "B1": "🛕"
+    "keyword": "ဘုရား",
+    "emoji": "🛕"
   },
   {
-    "A1": "ဘုရား",
-    "B1": "🛕"
+    "keyword": "စေတီ",
+    "emoji": "🛕"
   },
   {
-    "A1": "စေတီ",
-    "B1": "🛕"
+    "keyword": "วัด",
+    "emoji": "🛕"
   },
   {
-    "A1": "วัด",
-    "B1": "🛕"
+    "keyword": "เจดีย์",
+    "emoji": "🛕"
   },
   {
-    "A1": "เจดีย์",
-    "B1": "🛕"
+    "keyword": "pagoda",
+    "emoji": "🛕"
   },
   {
-    "A1": "pagoda",
-    "B1": "🛕"
+    "keyword": "temple",
+    "emoji": "🛕"
   },
   {
-    "A1": "temple",
-    "B1": "🛕"
+    "keyword": "shrine",
+    "emoji": "🛕"
   },
   {
-    "A1": "shrine",
-    "B1": "🛕"
+    "keyword": "ဗ္ဂဲ",
+    "emoji": "🐱"
   },
   {
-    "A1": "ဗ္ဂဲ",
-    "B1": "🐱"
+    "keyword": "ကြောင်",
+    "emoji": "🐱"
   },
   {
-    "A1": "ကြောင်",
-    "B1": "🐱"
+    "keyword": "แมว",
+    "emoji": "🐱"
   },
   {
-    "A1": "แมว",
-    "B1": "🐱"
+    "keyword": "cat",
+    "emoji": "🐱"
   },
   {
-    "A1": "cat",
-    "B1": "🐱"
+    "keyword": "kitty",
+    "emoji": "🐱"
   },
   {
-    "A1": "kitty",
-    "B1": "🐱"
+    "keyword": "meow",
+    "emoji": "🐱"
   },
   {
-    "A1": "meow",
-    "B1": "🐱"
+    "keyword": "ကၠဵု",
+    "emoji": "🐶"
   },
   {
-    "A1": "ကၠဵု",
-    "B1": "🐶"
+    "keyword": "ခွေး",
+    "emoji": "🐶"
   },
   {
-    "A1": "ခွေး",
-    "B1": "🐶"
+    "keyword": "หมา",
+    "emoji": "🐶"
   },
   {
-    "A1": "หมา",
-    "B1": "🐶"
+    "keyword": "สุนัข",
+    "emoji": "🐶"
   },
   {
-    "A1": "สุนัข",
-    "B1": "🐶"
+    "keyword": "dog",
+    "emoji": "🐶"
   },
   {
-    "A1": "dog",
-    "B1": "🐶"
+    "keyword": "puppy",
+    "emoji": "🐶"
   },
   {
-    "A1": "puppy",
-    "B1": "🐶"
+    "keyword": "woof",
+    "emoji": "🐶"
   },
   {
-    "A1": "woof",
-    "B1": "🐶"
+    "keyword": "တ္ၚဲ",
+    "emoji": "☀️"
   },
   {
-    "A1": "တ္ၚဲ",
-    "B1": "☀️"
+    "keyword": "နေ",
+    "emoji": "☀️"
   },
   {
-    "A1": "နေ",
-    "B1": "☀️"
+    "keyword": "แดด",
+    "emoji": "☀️"
   },
   {
-    "A1": "แดด",
-    "B1": "☀️"
+    "keyword": "พระอาทิตย์",
+    "emoji": "☀️"
   },
   {
-    "A1": "พระอาทิตย์",
-    "B1": "☀️"
+    "keyword": "sun",
+    "emoji": "☀️"
   },
   {
-    "A1": "sun",
-    "B1": "☀️"
+    "keyword": "hot",
+    "emoji": "☀️"
   },
   {
-    "A1": "hot",
-    "B1": "☀️"
+    "keyword": "day",
+    "emoji": "☀️"
   },
   {
-    "A1": "day",
-    "B1": "☀️"
+    "keyword": "sunny",
+    "emoji": "☀️"
   },
   {
-    "A1": "sunny",
-    "B1": "☀️"
+    "keyword": "ဂိတု",
+    "emoji": "🌙"
   },
   {
-    "A1": "ဂိတု",
-    "B1": "🌙"
+    "keyword": "လ",
+    "emoji": "🌙"
   },
   {
-    "A1": "လ",
-    "B1": "🌙"
+    "keyword": "พระจันทร์",
+    "emoji": "🌙"
   },
   {
-    "A1": "พระจันทร์",
-    "B1": "🌙"
+    "keyword": "moon",
+    "emoji": "🌙"
   },
   {
-    "A1": "moon",
-    "B1": "🌙"
+    "keyword": "dark",
+    "emoji": "🌙"
   },
   {
-    "A1": "dark",
-    "B1": "🌙"
+    "keyword": "ပၟတ်",
+    "emoji": "🔥"
   },
   {
-    "A1": "ပၟတ်",
-    "B1": "🔥"
+    "keyword": "မီး",
+    "emoji": "🔥"
   },
   {
-    "A1": "မီး",
-    "B1": "🔥"
+    "keyword": "ไฟ",
+    "emoji": "🔥"
   },
   {
-    "A1": "ไฟ",
-    "B1": "🔥"
+    "keyword": "fire",
+    "emoji": "🔥"
   },
   {
-    "A1": "fire",
-    "B1": "🔥"
+    "keyword": "burn",
+    "emoji": "🔥"
   },
   {
-    "A1": "burn",
-    "B1": "🔥"
+    "keyword": "ပိုက်",
+    "emoji": "💰"
   },
   {
-    "A1": "ပိုက်",
-    "B1": "💰"
+    "keyword": "သြန်",
+    "emoji": "💰"
   },
   {
-    "A1": "သြန်",
-    "B1": "💰"
+    "keyword": "ပိုက်ဆံ",
+    "emoji": "💰"
   },
   {
-    "A1": "ပိုက်ဆံ",
-    "B1": "💰"
+    "keyword": "ငွေ",
+    "emoji": "💰"
   },
   {
-    "A1": "ငွေ",
-    "B1": "💰"
+    "keyword": "เงิน",
+    "emoji": "💰"
   },
   {
-    "A1": "เงิน",
-    "B1": "💰"
+    "keyword": "money",
+    "emoji": "💰"
   },
   {
-    "A1": "money",
-    "B1": "💰"
+    "keyword": "cash",
+    "emoji": "💰"
   },
   {
-    "A1": "cash",
-    "B1": "💰"
+    "keyword": "rich",
+    "emoji": "💰"
   },
   {
-    "A1": "rich",
-    "B1": "💰"
+    "keyword": "ထဝ်",
+    "emoji": "🥇"
   },
   {
-    "A1": "ထဝ်",
-    "B1": "🥇"
+    "keyword": "ရွှေ",
+    "emoji": "🥇"
   },
   {
-    "A1": "ရွှေ",
-    "B1": "🥇"
+    "keyword": "ทอง",
+    "emoji": "🥇"
   },
   {
-    "A1": "ทอง",
-    "B1": "🥇"
+    "keyword": "gold",
+    "emoji": "🥇"
   },
   {
-    "A1": "gold",
-    "B1": "🥇"
+    "keyword": "win",
+    "emoji": "🥇"
   },
   {
-    "A1": "win",
-    "B1": "🥇"
+    "keyword": "first",
+    "emoji": "🥇"
   },
   {
-    "A1": "first",
-    "B1": "🥇"
+    "keyword": "ကွဳ",
+    "emoji": "🚗"
   },
   {
-    "A1": "ကွဳ",
-    "B1": "🚗"
+    "keyword": "ကား",
+    "emoji": "🚗"
   },
   {
-    "A1": "ကား",
-    "B1": "🚗"
+    "keyword": "รถ",
+    "emoji": "🚗"
   },
   {
-    "A1": "รถ",
-    "B1": "🚗"
+    "keyword": "car",
+    "emoji": "🚗"
   },
   {
-    "A1": "car",
-    "B1": "🚗"
+    "keyword": "drive",
+    "emoji": "🚗"
   },
   {
-    "A1": "drive",
-    "B1": "🚗"
+    "keyword": "road",
+    "emoji": "🚗"
   },
   {
-    "A1": "road",
-    "B1": "🚗"
+    "keyword": "ဖုင်",
+    "emoji": "📱"
   },
   {
-    "A1": "ဖုင်",
-    "B1": "📱"
+    "keyword": "ဖုန်း",
+    "emoji": "📱"
   },
   {
-    "A1": "ဖုန်း",
-    "B1": "📱"
+    "keyword": "โทรศัพท์",
+    "emoji": "📱"
   },
   {
-    "A1": "โทรศัพท์",
-    "B1": "📱"
+    "keyword": "phone",
+    "emoji": "📱"
   },
   {
-    "A1": "phone",
-    "B1": "📱"
+    "keyword": "mobile",
+    "emoji": "📱"
   },
   {
-    "A1": "mobile",
-    "B1": "📱"
+    "keyword": "call",
+    "emoji": "📱"
   },
   {
-    "A1": "call",
-    "B1": "📱"
+    "keyword": "စက်",
+    "emoji": "💻"
   },
   {
-    "A1": "စက်",
-    "B1": "💻"
+    "keyword": "ကွန်ပျူတာ",
+    "emoji": "💻"
   },
   {
-    "A1": "ကွန်ပျူတာ",
-    "B1": "💻"
+    "keyword": "คอมพิวเตอร์",
+    "emoji": "💻"
   },
   {
-    "A1": "คอมพิวเตอร์",
-    "B1": "💻"
+    "keyword": "computer",
+    "emoji": "💻"
   },
   {
-    "A1": "computer",
-    "B1": "💻"
+    "keyword": "laptop",
+    "emoji": "💻"
   },
   {
-    "A1": "laptop",
-    "B1": "💻"
+    "keyword": "work",
+    "emoji": "💻"
   },
   {
-    "A1": "work",
-    "B1": "💻"
+    "keyword": "ဂြိပ်",
+    "emoji": "🏃‍♂️"
   },
   {
-    "A1": "ဂြိပ်",
-    "B1": "🏃‍♂️"
+    "keyword": "အာ",
+    "emoji": "🏃‍♂️"
   },
   {
-    "A1": "အာ",
-    "B1": "🏃‍♂️"
+    "keyword": "ပြေး",
+    "emoji": "🏃‍♂️"
   },
   {
-    "A1": "ပြေး",
-    "B1": "🏃‍♂️"
+    "keyword": "ไป",
+    "emoji": "🏃‍♂️"
   },
   {
-    "A1": "ไป",
-    "B1": "🏃‍♂️"
+    "keyword": "วิ่ง",
+    "emoji": "🏃‍♂️"
   },
   {
-    "A1": "วิ่ง",
-    "B1": "🏃‍♂️"
+    "keyword": "run",
+    "emoji": "🏃‍♂️"
   },
   {
-    "A1": "run",
-    "B1": "🏃‍♂️"
+    "keyword": "go",
+    "emoji": "🏃‍♂️"
   },
   {
-    "A1": "go",
-    "B1": "🏃‍♂️"
+    "keyword": "move",
+    "emoji": "🏃‍♂️"
   },
   {
-    "A1": "move",
-    "B1": "🏃‍♂️"
+    "keyword": "ကၠုင်",
+    "emoji": "🚶‍♂️"
   },
   {
-    "A1": "ကၠုင်",
-    "B1": "🚶‍♂️"
+    "keyword": "လာ",
+    "emoji": "🚶‍♂️"
   },
   {
-    "A1": "လာ",
-    "B1": "🚶‍♂️"
+    "keyword": "เดิน",
+    "emoji": "🚶‍♂️"
   },
   {
-    "A1": "เดิน",
-    "B1": "🚶‍♂️"
+    "keyword": "มา",
+    "emoji": "🚶‍♂️"
   },
   {
-    "A1": "มา",
-    "B1": "🚶‍♂️"
+    "keyword": "walk",
+    "emoji": "🚶‍♂️"
   },
   {
-    "A1": "walk",
-    "B1": "🚶‍♂️"
+    "keyword": "come",
+    "emoji": "🚶‍♂️"
   },
   {
-    "A1": "come",
-    "B1": "🚶‍♂️"
+    "keyword": "ခိုဟ်",
+    "emoji": "👍"
   },
   {
-    "A1": "ခိုဟ်",
-    "B1": "👍"
+    "keyword": "ဒး",
+    "emoji": "👍"
   },
   {
-    "A1": "ဒး",
-    "B1": "👍"
+    "keyword": "ကောင်းတယ်",
+    "emoji": "👍"
   },
   {
-    "A1": "ကောင်းတယ်",
-    "B1": "👍"
+    "keyword": "ဟုတ်တယ်",
+    "emoji": "👍"
   },
   {
-    "A1": "ဟုတ်တယ်",
-    "B1": "👍"
+    "keyword": "ดี",
+    "emoji": "👍"
   },
   {
-    "A1": "ดี",
-    "B1": "👍"
+    "keyword": "ใช่",
+    "emoji": "👍"
   },
   {
-    "A1": "ใช่",
-    "B1": "👍"
+    "keyword": "good",
+    "emoji": "👍"
   },
   {
-    "A1": "good",
-    "B1": "👍"
+    "keyword": "ok",
+    "emoji": "👍"
   },
   {
-    "A1": "ok",
-    "B1": "👍"
+    "keyword": "yes",
+    "emoji": "👍"
   },
   {
-    "A1": "yes",
-    "B1": "👍"
+    "keyword": "cool",
+    "emoji": "👍"
   },
   {
-    "A1": "cool",
-    "B1": "👍"
+    "keyword": "ပရေံ",
+    "emoji": "👎"
   },
   {
-    "A1": "ပရေံ",
-    "B1": "👎"
+    "keyword": "ဟွံခိုဟ်",
+    "emoji": "👎"
   },
   {
-    "A1": "ဟွံခိုဟ်",
-    "B1": "👎"
+    "keyword": "မကောင်းဘူး",
+    "emoji": "👎"
   },
   {
-    "A1": "မကောင်းဘူး",
-    "B1": "👎"
+    "keyword": "ဟင့်အင်း",
+    "emoji": "👎"
   },
   {
-    "A1": "ဟင့်အင်း",
-    "B1": "👎"
+    "keyword": "ไม่ดี",
+    "emoji": "👎"
   },
   {
-    "A1": "ไม่ดี",
-    "B1": "👎"
+    "keyword": "แย่",
+    "emoji": "👎"
   },
   {
-    "A1": "แย่",
-    "B1": "👎"
+    "keyword": "bad",
+    "emoji": "👎"
   },
   {
-    "A1": "bad",
-    "B1": "👎"
+    "keyword": "no",
+    "emoji": "👎"
   },
   {
-    "A1": "no",
-    "B1": "👎"
+    "keyword": "စိုတ်",
+    "emoji": "💡"
   },
   {
-    "A1": "စိုတ်",
-    "B1": "💡"
+    "keyword": "ဉာဏ်",
+    "emoji": "💡"
   },
   {
-    "A1": "ဉာဏ်",
-    "B1": "💡"
+    "keyword": "စိတ်ကူး",
+    "emoji": "💡"
   },
   {
-    "A1": "စိတ်ကူး",
-    "B1": "💡"
+    "keyword": "ไอเดีย",
+    "emoji": "💡"
   },
   {
-    "A1": "ไอเดีย",
-    "B1": "💡"
+    "keyword": "ความคิด",
+    "emoji": "💡"
   },
   {
-    "A1": "ความคิด",
-    "B1": "💡"
+    "keyword": "idea",
+    "emoji": "💡"
   },
   {
-    "A1": "idea",
-    "B1": "💡"
+    "keyword": "think",
+    "emoji": "💡"
   },
   {
-    "A1": "think",
-    "B1": "💡"
+    "keyword": "smart",
+    "emoji": "💡"
   },
   {
-    "A1": "smart",
-    "B1": "💡"
+    "keyword": "ဝေင်",
+    "emoji": "🎮"
   },
   {
-    "A1": "ဝေင်",
-    "B1": "🎮"
+    "keyword": "ဆော့",
+    "emoji": "🎮"
   },
   {
-    "A1": "ဆော့",
-    "B1": "🎮"
+    "keyword": "ကစား",
+    "emoji": "🎮"
   },
   {
-    "A1": "ကစား",
-    "B1": "🎮"
+    "keyword": "เล่น",
+    "emoji": "🎮"
   },
   {
-    "A1": "เล่น",
-    "B1": "🎮"
+    "keyword": "game",
+    "emoji": "🎮"
   },
   {
-    "A1": "game",
-    "B1": "🎮"
+    "keyword": "play",
+    "emoji": "🎮"
   },
   {
-    "A1": "play",
-    "B1": "🎮"
+    "keyword": "ကၠောန်",
+    "emoji": "🛠️"
   },
   {
-    "A1": "ကၠောန်",
-    "B1": "🛠️"
+    "keyword": "အလုပ်",
+    "emoji": "🛠️"
   },
   {
-    "A1": "အလုပ်",
-    "B1": "🛠️"
+    "keyword": "လုပ်",
+    "emoji": "🛠️"
   },
   {
-    "A1": "လုပ်",
-    "B1": "🛠️"
+    "keyword": "ทำงาน",
+    "emoji": "🛠️"
   },
   {
-    "A1": "ทำงาน",
-    "B1": "🛠️"
+    "keyword": "build",
+    "emoji": "🛠️"
   },
   {
-    "A1": "build",
-    "B1": "🛠️"
+    "keyword": "tool",
+    "emoji": "🛠️"
   },
   {
-    "A1": "tool",
-    "B1": "🛠️"
+    "keyword": "ဒးဂြိုင်",
+    "emoji": "🤣"
   },
   {
-    "A1": "ဒးဂြိုင်",
-    "B1": "🤣"
+    "keyword": "ရယ်",
+    "emoji": "🤣"
   },
   {
-    "A1": "ရယ်",
-    "B1": "🤣"
+    "keyword": "หัวเราะ",
+    "emoji": "🤣"
   },
   {
-    "A1": "หัวเราะ",
-    "B1": "🤣"
+    "keyword": "laugh",
+    "emoji": "🤣"
   },
   {
-    "A1": "laugh",
-    "B1": "🤣"
+    "keyword": "funny",
+    "emoji": "🤣"
   },
   {
-    "A1": "funny",
-    "B1": "🤣"
+    "keyword": "lol",
+    "emoji": "🤣"
   },
   {
-    "A1": "lol",
-    "B1": "🤣"
+    "keyword": "ယာံ",
+    "emoji": "😭"
   },
   {
-    "A1": "ယာံ",
-    "B1": "😭"
+    "keyword": "လရိုအ်",
+    "emoji": "😭"
   },
   {
-    "A1": "လရိုအ်",
-    "B1": "😭"
+    "keyword": "လရိုအ်ယာံ",
+    "emoji": "😭"
   },
   {
-    "A1": "လရိုအ်ယာံ",
-    "B1": "😭"
+    "keyword": "စိုတ်ဟွံမိပ်",
+    "emoji": "😭"
   },
   {
-    "A1": "စိုတ်ဟွံမိပ်",
-    "B1": "😭"
+    "keyword": "ငို",
+    "emoji": "😭"
   },
   {
-    "A1": "ငို",
-    "B1": "😭"
+    "keyword": "ร้องไห้",
+    "emoji": "😭"
   },
   {
-    "A1": "ร้องไห้",
-    "B1": "😭"
+    "keyword": "cry",
+    "emoji": "😭"
   },
   {
-    "A1": "cry",
-    "B1": "😭"
+    "keyword": "sad",
+    "emoji": "😭"
   },
   {
-    "A1": "sad",
-    "B1": "😭"
+    "keyword": "ထေဲ",
+    "emoji": "😡"
   },
   {
-    "A1": "ထေဲ",
-    "B1": "😡"
+    "keyword": "စိတ်တို",
+    "emoji": "😡"
   },
   {
-    "A1": "စိတ်တို",
-    "B1": "😡"
+    "keyword": "โกรธ",
+    "emoji": "😡"
   },
   {
-    "A1": "โกรธ",
-    "B1": "😡"
+    "keyword": "angry",
+    "emoji": "😡"
   },
   {
-    "A1": "angry",
-    "B1": "😡"
+    "keyword": "mad",
+    "emoji": "😡"
   },
   {
-    "A1": "mad",
-    "B1": "😡"
+    "keyword": "အံသဝ်",
+    "emoji": "😮"
   },
   {
-    "A1": "အံသဝ်",
-    "B1": "😮"
+    "keyword": "အံ့သြ",
+    "emoji": "😮"
   },
   {
-    "A1": "အံ့သြ",
-    "B1": "😮"
+    "keyword": "ตกใจ",
+    "emoji": "😮"
   },
   {
-    "A1": "ตกใจ",
-    "B1": "😮"
+    "keyword": "wow",
+    "emoji": "😮"
   },
   {
-    "A1": "wow",
-    "B1": "😮"
+    "keyword": "surprise",
+    "emoji": "😮"
   },
   {
-    "A1": "surprise",
-    "B1": "😮"
+    "keyword": "amazing",
+    "emoji": "😮"
   },
   {
-    "A1": "amazing",
-    "B1": "😮"
+    "keyword": "မြာ်",
+    "emoji": "🦚"
   },
   {
-    "A1": "မြာ်",
-    "B1": "🦚"
+    "keyword": "ဥဒေါင်း",
+    "emoji": "🦚"
   },
   {
-    "A1": "ဥဒေါင်း",
-    "B1": "🦚"
+    "keyword": "นกยูง",
+    "emoji": "🦚"
   },
   {
-    "A1": "นกยูง",
-    "B1": "🦚"
+    "keyword": "peacock",
+    "emoji": "🦚"
   },
   {
-    "A1": "peacock",
-    "B1": "🦚"
+    "keyword": "ကၠ",
+    "emoji": "🐯"
   },
   {
-    "A1": "ကၠ",
-    "B1": "🐯"
+    "keyword": "ကျား",
+    "emoji": "🐯"
   },
   {
-    "A1": "ကျား",
-    "B1": "🐯"
+    "keyword": "เสือ",
+    "emoji": "🐯"
   },
   {
-    "A1": "เสือ",
-    "B1": "🐯"
+    "keyword": "tiger",
+    "emoji": "🐯"
   },
   {
-    "A1": "tiger",
-    "B1": "🐯"
+    "keyword": "စိင်",
+    "emoji": "🐘"
   },
   {
-    "A1": "စိင်",
-    "B1": "🐘"
+    "keyword": "ဆင်",
+    "emoji": "🐘"
   },
   {
-    "A1": "ဆင်",
-    "B1": "🐘"
+    "keyword": "ช้าง",
+    "emoji": "🐘"
   },
   {
-    "A1": "ช้าง",
-    "B1": "🐘"
+    "keyword": "elephant",
+    "emoji": "🐘"
   },
   {
-    "A1": "elephant",
-    "B1": "🐘"
+    "keyword": "ချေံ",
+    "emoji": "🐎"
   },
   {
-    "A1": "ချေံ",
-    "B1": "🐎"
+    "keyword": "မြင်း",
+    "emoji": "🐎"
   },
   {
-    "A1": "မြင်း",
-    "B1": "🐎"
+    "keyword": "ม้า",
+    "emoji": "🐎"
   },
   {
-    "A1": "ม้า",
-    "B1": "🐎"
+    "keyword": "horse",
+    "emoji": "🐎"
   },
   {
-    "A1": "horse",
-    "B1": "🐎"
+    "keyword": "က",
+    "emoji": "🐟"
   },
   {
-    "A1": "က",
-    "B1": "🐟"
+    "keyword": "ငါး",
+    "emoji": "🐟"
   },
   {
-    "A1": "ငါး",
-    "B1": "🐟"
+    "keyword": "ปลา",
+    "emoji": "🐟"
   },
   {
-    "A1": "ปลา",
-    "B1": "🐟"
+    "keyword": "fish",
+    "emoji": "🐟"
   },
   {
-    "A1": "fish",
-    "B1": "🐟"
+    "keyword": "ဂစေံ",
+    "emoji": "🐦"
   },
   {
-    "A1": "ဂစေံ",
-    "B1": "🐦"
+    "keyword": "ငှက်",
+    "emoji": "🐦"
   },
   {
-    "A1": "ငှက်",
-    "B1": "🐦"
+    "keyword": "นก",
+    "emoji": "🐦"
   },
   {
-    "A1": "นก",
-    "B1": "🐦"
+    "keyword": "bird",
+    "emoji": "🐦"
   },
   {
-    "A1": "bird",
-    "B1": "🐦"
+    "keyword": "ဇြုံ",
+    "emoji": "🐍"
   },
   {
-    "A1": "ဇြုံ",
-    "B1": "🐍"
+    "keyword": "မြွေ",
+    "emoji": "🐍"
   },
   {
-    "A1": "မြွေ",
-    "B1": "🐍"
+    "keyword": "งู",
+    "emoji": "🐍"
   },
   {
-    "A1": "งู",
-    "B1": "🐍"
+    "keyword": "snake",
+    "emoji": "🐍"
   },
   {
-    "A1": "snake",
-    "B1": "🐍"
+    "keyword": "ကၞုဲ",
+    "emoji": "🐒"
   },
   {
-    "A1": "ကၞုဲ",
-    "B1": "🐒"
+    "keyword": "မျောက်",
+    "emoji": "🐒"
   },
   {
-    "A1": "မျောက်",
-    "B1": "🐒"
+    "keyword": "ลิง",
+    "emoji": "🐒"
   },
   {
-    "A1": "ลิง",
-    "B1": "🐒"
+    "keyword": "monkey",
+    "emoji": "🐒"
   },
   {
-    "A1": "monkey",
-    "B1": "🐒"
+    "keyword": "စာင်",
+    "emoji": "🐔"
   },
   {
-    "A1": "စာင်",
-    "B1": "🐔"
+    "keyword": "ကြက်",
+    "emoji": "🐔"
   },
   {
-    "A1": "ကြက်",
-    "B1": "🐔"
+    "keyword": "ไก่",
+    "emoji": "🐔"
   },
   {
-    "A1": "ไก่",
-    "B1": "🐔"
+    "keyword": "chicken",
+    "emoji": "🐔"
   },
   {
-    "A1": "chicken",
-    "B1": "🐔"
+    "keyword": "ဂၠဴ",
+    "emoji": "🐄"
   },
   {
-    "A1": "ဂၠဴ",
-    "B1": "🐄"
+    "keyword": "နွား",
+    "emoji": "🐄"
   },
   {
-    "A1": "နွား",
-    "B1": "🐄"
+    "keyword": "วัว",
+    "emoji": "🐄"
   },
   {
-    "A1": "วัว",
-    "B1": "🐄"
+    "keyword": "cow",
+    "emoji": "🐄"
   },
   {
-    "A1": "cow",
-    "B1": "🐄"
+    "keyword": "ကၠိက်",
+    "emoji": "🐖"
   },
   {
-    "A1": "ကၠိက်",
-    "B1": "🐖"
+    "keyword": "ဝက်",
+    "emoji": "🐖"
   },
   {
-    "A1": "ဝက်",
-    "B1": "🐖"
+    "keyword": "หมู",
+    "emoji": "🐖"
   },
   {
-    "A1": "หมู",
-    "B1": "🐖"
+    "keyword": "pig",
+    "emoji": "🐖"
   },
   {
-    "A1": "pig",
-    "B1": "🐖"
+    "keyword": "သဵု",
+    "emoji": "🐑"
   },
   {
-    "A1": "သဵု",
-    "B1": "🐑"
+    "keyword": "သိုး",
+    "emoji": "🐑"
   },
   {
-    "A1": "သိုး",
-    "B1": "🐑"
+    "keyword": "แกะ",
+    "emoji": "🐑"
   },
   {
-    "A1": "แกะ",
-    "B1": "🐑"
+    "keyword": "sheep",
+    "emoji": "🐑"
   },
   {
-    "A1": "sheep",
-    "B1": "🐑"
+    "keyword": "ဗ္ၜေံ",
+    "emoji": "🐐"
   },
   {
-    "A1": "ဗ္ၜေံ",
-    "B1": "🐐"
+    "keyword": "ဆိတ်",
+    "emoji": "🐐"
   },
   {
-    "A1": "ဆိတ်",
-    "B1": "🐐"
+    "keyword": "แพะ",
+    "emoji": "🐐"
   },
   {
-    "A1": "แพะ",
-    "B1": "🐐"
+    "keyword": "goat",
+    "emoji": "🐐"
   },
   {
-    "A1": "goat",
-    "B1": "🐐"
+    "keyword": "ဗ္တာဲ",
+    "emoji": "🐇"
   },
   {
-    "A1": "ဗ္တာဲ",
-    "B1": "🐇"
+    "keyword": "ယုန်",
+    "emoji": "🐇"
   },
   {
-    "A1": "ယုန်",
-    "B1": "🐇"
+    "keyword": "กระต่าย",
+    "emoji": "🐇"
   },
   {
-    "A1": "กระต่าย",
-    "B1": "🐇"
+    "keyword": "rabbit",
+    "emoji": "🐇"
   },
   {
-    "A1": "rabbit",
-    "B1": "🐇"
+    "keyword": "သိုက်",
+    "emoji": "🐢"
   },
   {
-    "A1": "သိုက်",
-    "B1": "🐢"
+    "keyword": "အရုတ်",
+    "emoji": "🐢"
   },
   {
-    "A1": "အရုတ်",
-    "B1": "🐢"
+    "keyword": "လိပ်",
+    "emoji": "🐢"
   },
   {
-    "A1": "လိပ်",
-    "B1": "🐢"
+    "keyword": "เต่า",
+    "emoji": "🐢"
   },
   {
-    "A1": "เต่า",
-    "B1": "🐢"
+    "keyword": "turtle",
+    "emoji": "🐢"
   },
   {
-    "A1": "turtle",
-    "B1": "🐢"
+    "keyword": "ကၟာတ်",
+    "emoji": "🐊"
   },
   {
-    "A1": "ကၟာတ်",
-    "B1": "🐊"
+    "keyword": "ကျာံ",
+    "emoji": "🐊"
   },
   {
-    "A1": "ကျာံ",
-    "B1": "🐊"
+    "keyword": "မိကျောင်း",
+    "emoji": "🐊"
   },
   {
-    "A1": "မိကျောင်း",
-    "B1": "🐊"
+    "keyword": "จระเข้",
+    "emoji": "🐊"
   },
   {
-    "A1": "จระเข้",
-    "B1": "🐊"
+    "keyword": "crocodile",
+    "emoji": "🐊"
   },
   {
-    "A1": "crocodile",
-    "B1": "🐊"
+    "keyword": "အနေင်",
+    "emoji": "🦅"
   },
   {
-    "A1": "အနေင်",
-    "B1": "🦅"
+    "keyword": "လင်းယုန်",
+    "emoji": "🦅"
   },
   {
-    "A1": "လင်းယုန်",
-    "B1": "🦅"
+    "keyword": "นกอินทรี",
+    "emoji": "🦅"
   },
   {
-    "A1": "นกอินทรี",
-    "B1": "🦅"
+    "keyword": "eagle",
+    "emoji": "🦅"
   },
   {
-    "A1": "eagle",
-    "B1": "🦅"
+    "keyword": "ၚဴ",
+    "emoji": "🐸"
   },
   {
-    "A1": "ၚဴ",
-    "B1": "🐸"
+    "keyword": "ဖား",
+    "emoji": "🐸"
   },
   {
-    "A1": "ဖား",
-    "B1": "🐸"
+    "keyword": "กบ",
+    "emoji": "🐸"
   },
   {
-    "A1": "กบ",
-    "B1": "🐸"
+    "keyword": "frog",
+    "emoji": "🐸"
   },
   {
-    "A1": "frog",
-    "B1": "🐸"
+    "keyword": "အဒါ",
+    "emoji": "🦆"
   },
   {
-    "A1": "အဒါ",
-    "B1": "🦆"
+    "keyword": "ဘဲ",
+    "emoji": "🦆"
   },
   {
-    "A1": "ဘဲ",
-    "B1": "🦆"
+    "keyword": "เป็ด",
+    "emoji": "🦆"
   },
   {
-    "A1": "เป็ด",
-    "B1": "🦆"
+    "keyword": "duck",
+    "emoji": "🦆"
   },
   {
-    "A1": "duck",
-    "B1": "🦆"
+    "keyword": "ကၠိက်ဂြိုပ်",
+    "emoji": "🐗"
   },
   {
-    "A1": "ကၠိက်ဂြိုပ်",
-    "B1": "🐗"
+    "keyword": "တောဝက်",
+    "emoji": "🐗"
   },
   {
-    "A1": "တောဝက်",
-    "B1": "🐗"
+    "keyword": "หมูป่า",
+    "emoji": "🐗"
   },
   {
-    "A1": "หมูป่า",
-    "B1": "🐗"
+    "keyword": "wild boar",
+    "emoji": "🐗"
   },
   {
-    "A1": "wild boar",
-    "B1": "🐗"
+    "keyword": "ကောန်စာင်",
+    "emoji": "🐤"
   },
   {
-    "A1": "ကောန်စာင်",
-    "B1": "🐤"
+    "keyword": "ကြက်ပေါက်",
+    "emoji": "🐤"
   },
   {
-    "A1": "ကြက်ပေါက်",
-    "B1": "🐤"
+    "keyword": "ลูกไก่",
+    "emoji": "🐤"
   },
   {
-    "A1": "ลูกไก่",
-    "B1": "🐤"
+    "keyword": "chick",
+    "emoji": "🐤"
   },
   {
-    "A1": "chick",
-    "B1": "🐤"
+    "keyword": "ကၞု",
+    "emoji": "🐌"
   },
   {
-    "A1": "ကၞု",
-    "B1": "🐌"
+    "keyword": "ခရု",
+    "emoji": "🐌"
   },
   {
-    "A1": "ခရု",
-    "B1": "🐌"
+    "keyword": "หอยทาก",
+    "emoji": "🐌"
   },
   {
-    "A1": "หอยทาก",
-    "B1": "🐌"
+    "keyword": "snail",
+    "emoji": "🐌"
   },
   {
-    "A1": "snail",
-    "B1": "🐌"
+    "keyword": "သာဲ",
+    "emoji": "🐝"
   },
   {
-    "A1": "သာဲ",
-    "B1": "🐝"
+    "keyword": "ပျား",
+    "emoji": "🐝"
   },
   {
-    "A1": "ပျား",
-    "B1": "🐝"
+    "keyword": "ผึ้ง",
+    "emoji": "🐝"
   },
   {
-    "A1": "ผึ้ง",
-    "B1": "🐝"
+    "keyword": "bee",
+    "emoji": "🐝"
   },
   {
-    "A1": "bee",
-    "B1": "🐝"
+    "keyword": "ၚာဲ",
+    "emoji": "🦂"
   },
   {
-    "A1": "ၚာဲ",
-    "B1": "🦂"
+    "keyword": "ကင်းမြီးကောက်",
+    "emoji": "🦂"
   },
   {
-    "A1": "ကင်းမြီးကောက်",
-    "B1": "🦂"
+    "keyword": "แมงป่อง",
+    "emoji": "🦂"
   },
   {
-    "A1": "แมงป่อง",
-    "B1": "🦂"
+    "keyword": "scorpion",
+    "emoji": "🦂"
   },
   {
-    "A1": "scorpion",
-    "B1": "🦂"
+    "keyword": "ၚုဲဂဂဳ",
+    "emoji": "🦞"
   },
   {
-    "A1": "ၚုဲဂဂဳ",
-    "B1": "🦞"
+    "keyword": "ပုစွန်ထုပ်",
+    "emoji": "🦞"
   },
   {
-    "A1": "ပုစွန်ထုပ်",
-    "B1": "🦞"
+    "keyword": "กุ้งมังกร",
+    "emoji": "🦞"
   },
   {
-    "A1": "กุ้งมังกร",
-    "B1": "🦞"
+    "keyword": "lobster",
+    "emoji": "🦞"
   },
   {
-    "A1": "lobster",
-    "B1": "🦞"
+    "keyword": "ကတေအ်",
+    "emoji": "🐙"
   },
   {
-    "A1": "ကတေအ်",
-    "B1": "🐙"
+    "keyword": "ပြည်ကြီးငါး",
+    "emoji": "🐙"
   },
   {
-    "A1": "ပြည်ကြီးငါး",
-    "B1": "🐙"
+    "keyword": "ปลาหมึก",
+    "emoji": "🐙"
   },
   {
-    "A1": "ปลาหมึก",
-    "B1": "🐙"
+    "keyword": "octopus",
+    "emoji": "🐙"
   },
   {
-    "A1": "octopus",
-    "B1": "🐙"
+    "keyword": "ၚ္ၚဲ",
+    "emoji": "🦐"
   },
   {
-    "A1": "ၚ္ၚဲ",
-    "B1": "🦐"
+    "keyword": "ပုစွန်",
+    "emoji": "🦐"
   },
   {
-    "A1": "ပုစွန်",
-    "B1": "🦐"
+    "keyword": "กุ้ง",
+    "emoji": "🦐"
   },
   {
-    "A1": "กุ้ง",
-    "B1": "🦐"
+    "keyword": "shrimp",
+    "emoji": "🦐"
   },
   {
-    "A1": "shrimp",
-    "B1": "🦐"
+    "keyword": "ချေံဍာ်",
+    "emoji": "🦛"
   },
   {
-    "A1": "ချေံဍာ်",
-    "B1": "🦛"
+    "keyword": "စိင်ဍာ်",
+    "emoji": "🦛"
   },
   {
-    "A1": "စိင်ဍာ်",
-    "B1": "🦛"
+    "keyword": "ရေမြင်း",
+    "emoji": "🦛"
   },
   {
-    "A1": "ရေမြင်း",
-    "B1": "🦛"
+    "keyword": "ฮิปโป",
+    "emoji": "🦛"
   },
   {
-    "A1": "ฮิปโป",
-    "B1": "🦛"
+    "keyword": "hippo",
+    "emoji": "🦛"
   },
   {
-    "A1": "hippo",
-    "B1": "🦛"
+    "keyword": "ကၠဂြိုပ်",
+    "emoji": "🐆"
   },
   {
-    "A1": "ကၠဂြိုပ်",
-    "B1": "🐆"
+    "keyword": "သစ်ကျား",
+    "emoji": "🐆"
   },
   {
-    "A1": "သစ်ကျား",
-    "B1": "🐆"
+    "keyword": "เสือดาว",
+    "emoji": "🐆"
   },
   {
-    "A1": "เสือดาว",
-    "B1": "🐆"
+    "keyword": "leopard",
+    "emoji": "🐆"
   },
   {
-    "A1": "leopard",
-    "B1": "🐆"
+    "keyword": "စာင်မက်",
+    "emoji": "🐓"
   },
   {
-    "A1": "စာင်မက်",
-    "B1": "🐓"
+    "keyword": "စာင်ဍေဝ်",
+    "emoji": "🐓"
   },
   {
-    "A1": "စာင်ဍေဝ်",
-    "B1": "🐓"
+    "keyword": "ကြက်ဖ",
+    "emoji": "🐓"
   },
   {
-    "A1": "ကြက်ဖ",
-    "B1": "🐓"
+    "keyword": "ไก่ตัวผู้",
+    "emoji": "🐓"
   },
   {
-    "A1": "ไก่ตัวผู้",
-    "B1": "🐓"
+    "keyword": "rooster",
+    "emoji": "🐓"
   },
   {
-    "A1": "rooster",
-    "B1": "🐓"
+    "keyword": "ဟံသာ",
+    "emoji": "🦢"
   },
   {
-    "A1": "ဟံသာ",
-    "B1": "🦢"
+    "keyword": "ဟင်္သာ",
+    "emoji": "🦢"
   },
   {
-    "A1": "ဟင်္သာ",
-    "B1": "🦢"
+    "keyword": "หงส์",
+    "emoji": "🦢"
   },
   {
-    "A1": "หงส์",
-    "B1": "🦢"
+    "keyword": "swan",
+    "emoji": "🦢"
   },
   {
-    "A1": "swan",
-    "B1": "🦢"
+    "keyword": "ကၞိ",
+    "emoji": "🐁"
   },
   {
-    "A1": "ကၞိ",
-    "B1": "🐁"
+    "keyword": "ကြွက်",
+    "emoji": "🐁"
   },
   {
-    "A1": "ကြွက်",
-    "B1": "🐁"
+    "keyword": "หนู",
+    "emoji": "🐁"
   },
   {
-    "A1": "หนู",
-    "B1": "🐁"
+    "keyword": "mouse",
+    "emoji": "🐁"
   },
   {
-    "A1": "mouse",
-    "B1": "🐁"
+    "keyword": "နာ်",
+    "emoji": "🐉"
   },
   {
-    "A1": "နာ်",
-    "B1": "🐉"
+    "keyword": "နဂါး",
+    "emoji": "🐉"
   },
   {
-    "A1": "နဂါး",
-    "B1": "🐉"
+    "keyword": "มังกร",
+    "emoji": "🐉"
   },
   {
-    "A1": "มังกร",
-    "B1": "🐉"
+    "keyword": "dragon",
+    "emoji": "🐉"
   },
   {
-    "A1": "dragon",
-    "B1": "🐉"
+    "keyword": "ကလော်ပ္ကဴ",
+    "emoji": "🦋"
   },
   {
-    "A1": "ကလော်ပ္ကဴ",
-    "B1": "🦋"
+    "keyword": "လိပ်ပြာ",
+    "emoji": "🦋"
   },
   {
-    "A1": "လိပ်ပြာ",
-    "B1": "🦋"
+    "keyword": "ผีเสื้อ",
+    "emoji": "🦋"
   },
   {
-    "A1": "ผีเสื้อ",
-    "B1": "🦋"
+    "keyword": "butterfly",
+    "emoji": "🦋"
   },
   {
-    "A1": "butterfly",
-    "B1": "🦋"
+    "keyword": "တ္ၚဲဏအ်",
+    "emoji": "📅"
   },
   {
-    "A1": "တ္ၚဲဏအ်",
-    "B1": "📅"
+    "keyword": "စၟတ်တ္ၚဲ",
+    "emoji": "📅"
   },
   {
-    "A1": "စၟတ်တ္ၚဲ",
-    "B1": "📅"
+    "keyword": "ယးဂတ",
+    "emoji": "📅"
   },
   {
-    "A1": "ယးဂတ",
-    "B1": "📅"
+    "keyword": "ရက်",
+    "emoji": "📅"
   },
   {
-    "A1": "ရက်",
-    "B1": "📅"
+    "keyword": "နေ့",
+    "emoji": "📅"
   },
   {
-    "A1": "နေ့",
-    "B1": "📅"
+    "keyword": "วันที่",
+    "emoji": "📅"
   },
   {
-    "A1": "วันที่",
-    "B1": "📅"
+    "keyword": "date",
+    "emoji": "📅"
   },
   {
-    "A1": "date",
-    "B1": "📅"
+    "keyword": "today",
+    "emoji": "📅"
   },
   {
-    "A1": "today",
-    "B1": "📅"
+    "keyword": "tomorrow",
+    "emoji": "📅"
   },
   {
-    "A1": "tomorrow",
-    "B1": "📅"
+    "keyword": "တ္ၚဲဒှ်မၞိဟ်",
+    "emoji": "🎂"
   },
   {
-    "A1": "တ္ၚဲဒှ်မၞိဟ်",
-    "B1": "🎂"
+    "keyword": "မွေးနေ့",
+    "emoji": "🎂"
   },
   {
-    "A1": "မွေးနေ့",
-    "B1": "🎂"
+    "keyword": "วันเกิด",
+    "emoji": "🎂"
   },
   {
-    "A1": "วันเกิด",
-    "B1": "🎂"
+    "keyword": "birthday",
+    "emoji": "🎂"
   },
   {
-    "A1": "birthday",
-    "B1": "🎂"
+    "keyword": "cake",
+    "emoji": "🎂"
   },
   {
-    "A1": "cake",
-    "B1": "🎂"
+    "keyword": "ပေါဲ",
+    "emoji": "🎉"
   },
   {
-    "A1": "ပေါဲ",
-    "B1": "🎉"
+    "keyword": "သဘင်",
+    "emoji": "🎉"
   },
   {
-    "A1": "သဘင်",
-    "B1": "🎉"
+    "keyword": "ပွဲ",
+    "emoji": "🎉"
   },
   {
-    "A1": "ပွဲ",
-    "B1": "🎉"
+    "keyword": "ฉลอง",
+    "emoji": "🎉"
   },
   {
-    "A1": "ฉลอง",
-    "B1": "🎉"
+    "keyword": "party",
+    "emoji": "🎉"
   },
   {
-    "A1": "party",
-    "B1": "🎉"
+    "keyword": "celebrate",
+    "emoji": "🎉"
   },
   {
-    "A1": "celebrate",
-    "B1": "🎉"
+    "keyword": "ပရင်တဲ",
+    "emoji": "🎁"
   },
   {
-    "A1": "ပရင်တဲ",
-    "B1": "🎁"
+    "keyword": "လက်ဆောင်",
+    "emoji": "🎁"
   },
   {
-    "A1": "လက်ဆောင်",
-    "B1": "🎁"
+    "keyword": "ของขวัญ",
+    "emoji": "🎁"
   },
   {
-    "A1": "ของขวัญ",
-    "B1": "🎁"
+    "keyword": "gift",
+    "emoji": "🎁"
   },
   {
-    "A1": "gift",
-    "B1": "🎁"
+    "keyword": "present",
+    "emoji": "🎁"
   },
   {
-    "A1": "present",
-    "B1": "🎁"
+    "keyword": "မိပ်သၞာံတၟိ",
+    "emoji": "🎊"
   },
   {
-    "A1": "မိပ်သၞာံတၟိ",
-    "B1": "🎊"
+    "keyword": "မ္ၚဵုသၞာံတၟိ",
+    "emoji": "🎊"
   },
   {
-    "A1": "မ္ၚဵုသၞာံတၟိ",
-    "B1": "🎊"
+    "keyword": "နှစ်သစ်ကူး",
+    "emoji": "🎊"
   },
   {
-    "A1": "နှစ်သစ်ကူး",
-    "B1": "🎊"
+    "keyword": "ปีใหม่",
+    "emoji": "🎊"
   },
   {
-    "A1": "ปีใหม่",
-    "B1": "🎊"
+    "keyword": "new year",
+    "emoji": "🎊"
   },
   {
-    "A1": "new year",
-    "B1": "🎊"
+    "keyword": "ပၟတ်ပ္ကဴ",
+    "emoji": "🎆"
   },
   {
-    "A1": "ပၟတ်ပ္ကဴ",
-    "B1": "🎆"
+    "keyword": "မီးရှူးမီးပန်း",
+    "emoji": "🎆"
   },
   {
-    "A1": "မီးရှူးမီးပန်း",
-    "B1": "🎆"
+    "keyword": "พลู",
+    "emoji": "🎆"
   },
   {
-    "A1": "พลู",
-    "B1": "🎆"
+    "keyword": "fireworks",
+    "emoji": "🎆"
   },
   {
-    "A1": "fireworks",
-    "B1": "🎆"
+    "keyword": "ဗွိုက်",
+    "emoji": "👔"
   },
   {
-    "A1": "ဗွိုက်",
-    "B1": "👔"
+    "keyword": "ဗွိုက်လတက်",
+    "emoji": "👔"
   },
   {
-    "A1": "ဗွိုက်လတက်",
-    "B1": "👔"
+    "keyword": "ပလောံ",
+    "emoji": "👔"
   },
   {
-    "A1": "ပလောံ",
-    "B1": "👔"
+    "keyword": "အင်္ကျီ",
+    "emoji": "👔"
   },
   {
-    "A1": "အင်္ကျီ",
-    "B1": "👔"
+    "keyword": "เสื้อ",
+    "emoji": "👔"
   },
   {
-    "A1": "เสื้อ",
-    "B1": "👔"
+    "keyword": "shirt",
+    "emoji": "👔"
   },
   {
-    "A1": "shirt",
-    "B1": "👔"
+    "keyword": "clothes",
+    "emoji": "👔"
   },
   {
-    "A1": "clothes",
-    "B1": "👔"
+    "keyword": "ဒၞပ်",
+    "emoji": "👟"
   },
   {
-    "A1": "ဒၞပ်",
-    "B1": "👟"
+    "keyword": "ဖိနပ်",
+    "emoji": "👟"
   },
   {
-    "A1": "ဖိနပ်",
-    "B1": "👟"
+    "keyword": "รองเท้า",
+    "emoji": "👟"
   },
   {
-    "A1": "รองเท้า",
-    "B1": "👟"
+    "keyword": "shoes",
+    "emoji": "👟"
   },
   {
-    "A1": "shoes",
-    "B1": "👟"
+    "keyword": "ကထုပ်",
+    "emoji": "👒"
   },
   {
-    "A1": "ကထုပ်",
-    "B1": "👒"
+    "keyword": "ခပေဲ",
+    "emoji": "👒"
   },
   {
-    "A1": "ခပေဲ",
-    "B1": "👒"
+    "keyword": "ဦးထုပ်",
+    "emoji": "👒"
   },
   {
-    "A1": "ဦးထုပ်",
-    "B1": "👒"
+    "keyword": "หมวก",
+    "emoji": "👒"
   },
   {
-    "A1": "หมวก",
-    "B1": "👒"
+    "keyword": "hat",
+    "emoji": "👒"
   },
   {
-    "A1": "hat",
-    "B1": "👒"
+    "keyword": "cap",
+    "emoji": "👒"
   },
   {
-    "A1": "cap",
-    "B1": "👒"
+    "keyword": "မၞိက်",
+    "emoji": "💎"
   },
   {
-    "A1": "မၞိက်",
-    "B1": "💎"
+    "keyword": "မတ်မၞိက်",
+    "emoji": "💎"
   },
   {
-    "A1": "မတ်မၞိက်",
-    "B1": "💎"
+    "keyword": "စိန်",
+    "emoji": "💎"
   },
   {
-    "A1": "စိန်",
-    "B1": "💎"
+    "keyword": "เพชร",
+    "emoji": "💎"
   },
   {
-    "A1": "เพชร",
-    "B1": "💎"
+    "keyword": "diamond",
+    "emoji": "💎"
   },
   {
-    "A1": "diamond",
-    "B1": "💎"
+    "keyword": "jewelry",
+    "emoji": "💎"
   },
   {
-    "A1": "jewelry",
-    "B1": "💎"
+    "keyword": "သတ်ပ္ကဴ",
+    "emoji": "🍎"
   },
   {
-    "A1": "သတ်ပ္ကဴ",
-    "B1": "🍎"
+    "keyword": "သတ်ကြေင်မၞိက်",
+    "emoji": "🍎"
   },
   {
-    "A1": "သတ်ကြေင်မၞိက်",
-    "B1": "🍎"
+    "keyword": "ပန်းသီး",
+    "emoji": "🍎"
   },
   {
-    "A1": "ပန်းသီး",
-    "B1": "🍎"
+    "keyword": "แอปเปิ้ล",
+    "emoji": "🍎"
   },
   {
-    "A1": "แอปเปิ้ล",
-    "B1": "🍎"
+    "keyword": "apple",
+    "emoji": "🍎"
   },
   {
-    "A1": "apple",
-    "B1": "🍎"
+    "keyword": "fruit",
+    "emoji": "🍎"
   },
   {
-    "A1": "fruit",
-    "B1": "🍎"
+    "keyword": "သတ်ဗြာတ်",
+    "emoji": "🍌"
   },
   {
-    "A1": "သတ်ဗြာတ်",
-    "B1": "🍌"
+    "keyword": "ဗြာတ်",
+    "emoji": "🍌"
   },
   {
-    "A1": "ဗြာတ်",
-    "B1": "🍌"
+    "keyword": "ငှက်ပျောသီး",
+    "emoji": "🍌"
   },
   {
-    "A1": "ငှက်ပျောသီး",
-    "B1": "🍌"
+    "keyword": "กล้วย",
+    "emoji": "🍌"
   },
   {
-    "A1": "กล้วย",
-    "B1": "🍌"
+    "keyword": "banana",
+    "emoji": "🍌"
   },
   {
-    "A1": "banana",
-    "B1": "🍌"
+    "keyword": "သတ်ပညောန်",
+    "emoji": "🍉"
   },
   {
-    "A1": "သတ်ပညောန်",
-    "B1": "🍉"
+    "keyword": "ဖရဲသီး",
+    "emoji": "🍉"
   },
   {
-    "A1": "ဖရဲသီး",
-    "B1": "🍉"
+    "keyword": "แตงโม",
+    "emoji": "🍉"
   },
   {
-    "A1": "แตงโม",
-    "B1": "🍉"
+    "keyword": "watermelon",
+    "emoji": "🍉"
   },
   {
-    "A1": "watermelon",
-    "B1": "🍉"
+    "keyword": "အရက်",
+    "emoji": "🍷"
   },
   {
-    "A1": "အရက်",
-    "B1": "🍷"
+    "keyword": "သုရာ",
+    "emoji": "🍷"
   },
   {
-    "A1": "သုရာ",
-    "B1": "🍷"
+    "keyword": "สุรา",
+    "emoji": "🍷"
   },
   {
-    "A1": "สุรา",
-    "B1": "🍷"
+    "keyword": "alcohol",
+    "emoji": "🍷"
   },
   {
-    "A1": "alcohol",
-    "B1": "🍷"
+    "keyword": "wine",
+    "emoji": "🍷"
   },
   {
-    "A1": "wine",
-    "B1": "🍷"
+    "keyword": "beer",
+    "emoji": "🍷"
   },
   {
-    "A1": "beer",
-    "B1": "🍷"
+    "keyword": "သဂြာ",
+    "emoji": "🍭"
   },
   {
-    "A1": "သဂြာ",
-    "B1": "🍭"
+    "keyword": "သဂြာတဝ်",
+    "emoji": "🍭"
   },
   {
-    "A1": "သဂြာတဝ်",
-    "B1": "🍭"
+    "keyword": "သကြားလုံး",
+    "emoji": "🍭"
   },
   {
-    "A1": "သကြားလုံး",
-    "B1": "🍭"
+    "keyword": "ขนม",
+    "emoji": "🍭"
   },
   {
-    "A1": "ขนม",
-    "B1": "🍭"
+    "keyword": "candy",
+    "emoji": "🍭"
   },
   {
-    "A1": "candy",
-    "B1": "🍭"
+    "keyword": "သ္ဍိုက်ဆာန်",
+    "emoji": "❤️‍🔥"
   },
   {
-    "A1": "သ္ဍိုက်ဆာန်",
-    "B1": "❤️‍🔥"
+    "keyword": "ချစ်မြတ်နိုး",
+    "emoji": "❤️‍🔥"
   },
   {
-    "A1": "ချစ်မြတ်နိုး",
-    "B1": "❤️‍🔥"
+    "keyword": "รักมาก",
+    "emoji": "❤️‍🔥"
   },
   {
-    "A1": "รักมาก",
-    "B1": "❤️‍🔥"
+    "keyword": "love you",
+    "emoji": "❤️‍🔥"
   },
   {
-    "A1": "love you",
-    "B1": "❤️‍🔥"
+    "keyword": "လီု",
+    "emoji": "💔"
   },
   {
-    "A1": "လီု",
-    "B1": "💔"
+    "keyword": "စိုတ်လီု",
+    "emoji": "💔"
   },
   {
-    "A1": "စိုတ်လီု",
-    "B1": "💔"
+    "keyword": "သြိုဟ်ထ္ကး",
+    "emoji": "💔"
   },
   {
-    "A1": "သြိုဟ်ထ္ကး",
-    "B1": "💔"
+    "keyword": "အသဲကွဲ",
+    "emoji": "💔"
   },
   {
-    "A1": "အသဲကွဲ",
-    "B1": "💔"
+    "keyword": "ကျိုး",
+    "emoji": "💔"
   },
   {
-    "A1": "ကျိုး",
-    "B1": "💔"
+    "keyword": "อกหัก",
+    "emoji": "💔"
   },
   {
-    "A1": "อกหัก",
-    "B1": "💔"
+    "keyword": "broken",
+    "emoji": "💔"
   },
   {
-    "A1": "broken",
-    "B1": "💔"
+    "keyword": "ဒေါံ",
+    "emoji": "🛑"
   },
   {
-    "A1": "ဒေါံ",
-    "B1": "🛑"
+    "keyword": "ရပ်",
+    "emoji": "🛑"
   },
   {
-    "A1": "ရပ်",
-    "B1": "🛑"
+    "keyword": "หยุด",
+    "emoji": "🛑"
   },
   {
-    "A1": "หยุด",
-    "B1": "🛑"
+    "keyword": "stop",
+    "emoji": "🛑"
   },
   {
-    "A1": "stop",
-    "B1": "🛑"
+    "keyword": "wait",
+    "emoji": "🛑"
   },
   {
-    "A1": "wait",
-    "B1": "🛑"
+    "keyword": "စွံသတိ",
+    "emoji": "⚠️"
   },
   {
-    "A1": "စွံသတိ",
-    "B1": "⚠️"
+    "keyword": "သ္ပသတိ",
+    "emoji": "⚠️"
   },
   {
-    "A1": "သ္ပသတိ",
-    "B1": "⚠️"
+    "keyword": "သတိ",
+    "emoji": "⚠️"
   },
   {
-    "A1": "သတိ",
-    "B1": "⚠️"
+    "keyword": "ระวัง",
+    "emoji": "⚠️"
   },
   {
-    "A1": "ระวัง",
-    "B1": "⚠️"
+    "keyword": "warning",
+    "emoji": "⚠️"
   },
   {
-    "A1": "warning",
-    "B1": "⚠️"
+    "keyword": "caution",
+    "emoji": "⚠️"
   },
   {
-    "A1": "caution",
-    "B1": "⚠️"
+    "keyword": "ဍာံ",
+    "emoji": "✅"
   },
   {
-    "A1": "ဍာံ",
-    "B1": "✅"
+    "keyword": "မှန်",
+    "emoji": "✅"
   },
   {
-    "A1": "မှန်",
-    "B1": "✅"
+    "keyword": "ถูก",
+    "emoji": "✅"
   },
   {
-    "A1": "ถูก",
-    "B1": "✅"
+    "keyword": true,
+    "emoji": "✅"
   },
   {
-    "A1": true,
-    "B1": "✅"
+    "keyword": "correct",
+    "emoji": "✅"
   },
   {
-    "A1": "correct",
-    "B1": "✅"
+    "keyword": "done",
+    "emoji": "✅"
   },
   {
-    "A1": "done",
-    "B1": "✅"
+    "keyword": "ဗၠေတ်",
+    "emoji": "❌"
   },
   {
-    "A1": "ဗၠေတ်",
-    "B1": "❌"
+    "keyword": "ဟွံဒး",
+    "emoji": "❌"
   },
   {
-    "A1": "ဟွံဒး",
-    "B1": "❌"
+    "keyword": "မှား",
+    "emoji": "❌"
   },
   {
-    "A1": "မှား",
-    "B1": "❌"
+    "keyword": "ผิด",
+    "emoji": "❌"
   },
   {
-    "A1": "ผิด",
-    "B1": "❌"
+    "keyword": false,
+    "emoji": "❌"
   },
   {
-    "A1": false,
-    "B1": "❌"
+    "keyword": "wrong",
+    "emoji": "❌"
   },
   {
-    "A1": "wrong",
-    "B1": "❌"
+    "keyword": "error",
+    "emoji": "❌"
   },
   {
-    "A1": "error",
-    "B1": "❌"
+    "keyword": "မု",
+    "emoji": "❓"
   },
   {
-    "A1": "မု",
-    "B1": "❓"
+    "keyword": "သၟာန်",
+    "emoji": "❓"
   },
   {
-    "A1": "သၟာန်",
-    "B1": "❓"
+    "keyword": "ပုစ္ဆာ",
+    "emoji": "❓"
   },
   {
-    "A1": "ပုစ္ဆာ",
-    "B1": "❓"
+    "keyword": "ဘာလဲ",
+    "emoji": "❓"
   },
   {
-    "A1": "ဘာလဲ",
-    "B1": "❓"
+    "keyword": "อะไร",
+    "emoji": "❓"
   },
   {
-    "A1": "อะไร",
-    "B1": "❓"
+    "keyword": "what",
+    "emoji": "❓"
   },
   {
-    "A1": "what",
-    "B1": "❓"
+    "keyword": "question",
+    "emoji": "❓"
   },
   {
-    "A1": "question",
-    "B1": "❓"
+    "keyword": "ဟီု",
+    "emoji": "💬"
   },
   {
-    "A1": "ဟီု",
-    "B1": "💬"
+    "keyword": "ဟီုဂလာန်",
+    "emoji": "💬"
   },
   {
-    "A1": "ဟီုဂလာန်",
-    "B1": "💬"
+    "keyword": "ပြော",
+    "emoji": "💬"
   },
   {
-    "A1": "ပြော",
-    "B1": "💬"
+    "keyword": "พูด",
+    "emoji": "💬"
   },
   {
-    "A1": "พูด",
-    "B1": "💬"
+    "keyword": "say",
+    "emoji": "💬"
   },
   {
-    "A1": "say",
-    "B1": "💬"
+    "keyword": "talk",
+    "emoji": "💬"
   },
   {
-    "A1": "talk",
-    "B1": "💬"
+    "keyword": "chat",
+    "emoji": "💬"
   },
   {
-    "A1": "chat",
-    "B1": "💬"
+    "keyword": "ဂၠာဲ",
+    "emoji": "🔍"
   },
   {
-    "A1": "ဂၠာဲ",
-    "B1": "🔍"
+    "keyword": "ဂၠာဲသ္ၚဳ",
+    "emoji": "🔍"
   },
   {
-    "A1": "ဂၠာဲသ္ၚဳ",
-    "B1": "🔍"
+    "keyword": "ရှာ",
+    "emoji": "🔍"
   },
   {
-    "A1": "ရှာ",
-    "B1": "🔍"
+    "keyword": "หา",
+    "emoji": "🔍"
   },
   {
-    "A1": "หา",
-    "B1": "🔍"
+    "keyword": "search",
+    "emoji": "🔍"
   },
   {
-    "A1": "search",
-    "B1": "🔍"
+    "keyword": "find",
+    "emoji": "🔍"
   },
   {
-    "A1": "find",
-    "B1": "🔍"
+    "keyword": "ပြဟ်",
+    "emoji": "⚡"
   },
   {
-    "A1": "ပြဟ်",
-    "B1": "⚡"
+    "keyword": "ဗြက်",
+    "emoji": "⚡"
   },
   {
-    "A1": "ဗြက်",
-    "B1": "⚡"
+    "keyword": "မြန်",
+    "emoji": "⚡"
   },
   {
-    "A1": "မြန်",
-    "B1": "⚡"
+    "keyword": "เร็ว",
+    "emoji": "⚡"
   },
   {
-    "A1": "เร็ว",
-    "B1": "⚡"
+    "keyword": "fast",
+    "emoji": "⚡"
   },
   {
-    "A1": "fast",
-    "B1": "⚡"
+    "keyword": "quick",
+    "emoji": "⚡"
   },
   {
-    "A1": "quick",
-    "B1": "⚡"
+    "keyword": "flash",
+    "emoji": "⚡"
   },
   {
-    "A1": "flash",
-    "B1": "⚡"
+    "keyword": "အိင်",
+    "emoji": "🐢"
   },
   {
-    "A1": "အိင်",
-    "B1": "🐢"
+    "keyword": "နှေး",
+    "emoji": "🐢"
   },
   {
-    "A1": "နှေး",
-    "B1": "🐢"
+    "keyword": "ช้า",
+    "emoji": "🐢"
   },
   {
-    "A1": "ช้า",
-    "B1": "🐢"
+    "keyword": "slow",
+    "emoji": "🐢"
   },
   {
-    "A1": "slow",
-    "B1": "🐢"
+    "keyword": "ဇၞော်",
+    "emoji": "🐘"
   },
   {
-    "A1": "ဇၞော်",
-    "B1": "🐘"
+    "keyword": "ကြီး",
+    "emoji": "🐘"
   },
   {
-    "A1": "ကြီး",
-    "B1": "🐘"
+    "keyword": "ใหญ่",
+    "emoji": "🐘"
   },
   {
-    "A1": "ใหญ่",
-    "B1": "🐘"
+    "keyword": "big",
+    "emoji": "🐘"
   },
   {
-    "A1": "big",
-    "B1": "🐘"
+    "keyword": "large",
+    "emoji": "🐘"
   },
   {
-    "A1": "large",
-    "B1": "🐘"
+    "keyword": "ဍောတ်",
+    "emoji": "🐜"
   },
   {
-    "A1": "ဍောတ်",
-    "B1": "🐜"
+    "keyword": "သေး",
+    "emoji": "🐜"
   },
   {
-    "A1": "သေး",
-    "B1": "🐜"
+    "keyword": "เล็ก",
+    "emoji": "🐜"
   },
   {
-    "A1": "เล็ก",
-    "B1": "🐜"
+    "keyword": "small",
+    "emoji": "🐜"
   },
   {
-    "A1": "small",
-    "B1": "🐜"
+    "keyword": "tiny",
+    "emoji": "🐜"
   },
   {
-    "A1": "tiny",
-    "B1": "🐜"
+    "keyword": "ဍုင်",
+    "emoji": "🏙️"
   },
   {
-    "A1": "ဍုင်",
-    "B1": "🏙️"
+    "keyword": "မြို့",
+    "emoji": "🏙️"
   },
   {
-    "A1": "မြို့",
-    "B1": "🏙️"
+    "keyword": "เมือง",
+    "emoji": "🏙️"
   },
   {
-    "A1": "เมือง",
-    "B1": "🏙️"
+    "keyword": "city",
+    "emoji": "🏙️"
   },
   {
-    "A1": "city",
-    "B1": "🏙️"
+    "keyword": "town",
+    "emoji": "🏙️"
   },
   {
-    "A1": "town",
-    "B1": "🏙️"
+    "keyword": "ဘာကျာ်",
+    "emoji": "⛪"
   },
   {
-    "A1": "ဘာကျာ်",
-    "B1": "⛪"
+    "keyword": "ဘုရားကျောင်း",
+    "emoji": "⛪"
   },
   {
-    "A1": "ဘုရားကျောင်း",
-    "B1": "⛪"
+    "keyword": "โบสถ์",
+    "emoji": "⛪"
   },
   {
-    "A1": "โบสถ์",
-    "B1": "⛪"
+    "keyword": "church",
+    "emoji": "⛪"
   },
   {
-    "A1": "church",
-    "B1": "⛪"
+    "keyword": "ကျေဝ်",
+    "emoji": "✨"
   },
   {
-    "A1": "ကျေဝ်",
-    "B1": "✨"
+    "keyword": "ဂေါဝ်",
+    "emoji": "✨"
   },
   {
-    "A1": "ဂေါဝ်",
-    "B1": "✨"
+    "keyword": "လှ",
+    "emoji": "✨"
   },
   {
-    "A1": "လှ",
-    "B1": "✨"
+    "keyword": "สวย",
+    "emoji": "✨"
   },
   {
-    "A1": "สวย",
-    "B1": "✨"
+    "keyword": "beautiful",
+    "emoji": "✨"
   },
   {
-    "A1": "beautiful",
-    "B1": "✨"
+    "keyword": "shining",
+    "emoji": "✨"
   },
   {
-    "A1": "shining",
-    "B1": "✨"
+    "keyword": "စိုတ်ခိုဟ်",
+    "emoji": "💖"
   },
   {
-    "A1": "စိုတ်ခိုဟ်",
-    "B1": "💖"
+    "keyword": "စိတ်ကောင်း",
+    "emoji": "💖"
   },
   {
-    "A1": "စိတ်ကောင်း",
-    "B1": "💖"
+    "keyword": "ใจดี",
+    "emoji": "💖"
   },
   {
-    "A1": "ใจดี",
-    "B1": "💖"
+    "keyword": "kind",
+    "emoji": "💖"
   },
   {
-    "A1": "kind",
-    "B1": "💖"
+    "keyword": "good heart",
+    "emoji": "💖"
   },
   {
-    "A1": "good heart",
-    "B1": "💖"
+    "keyword": "ကလအ်",
+    "emoji": "🙏"
   },
   {
-    "A1": "ကလအ်",
-    "B1": "🙏"
+    "keyword": "သၠးအခေါင်",
+    "emoji": "🙏"
   },
   {
-    "A1": "သၠးအခေါင်",
-    "B1": "🙏"
+    "keyword": "ကန်တော့",
+    "emoji": "🙏"
   },
   {
-    "A1": "ကန်တော့",
-    "B1": "🙏"
+    "keyword": "ไหว้",
+    "emoji": "🙏"
   },
   {
-    "A1": "ไหว้",
-    "B1": "🙏"
+    "keyword": "respect",
+    "emoji": "🙏"
   },
   {
-    "A1": "respect",
-    "B1": "🙏"
+    "keyword": "ဓမင်သုင်ဍာ်",
+    "emoji": "🏳️‍🌈"
   },
   {
-    "A1": "ဓမင်သုင်ဍာ်",
-    "B1": "🏳️‍🌈"
+    "keyword": "LGBT",
+    "emoji": "🏳️‍🌈"
   },
   {
-    "A1": "LGBT",
-    "B1": "🏳️‍🌈"
+    "keyword": "Pride",
+    "emoji": "🏳️‍🌈"
   },
   {
-    "A1": "Pride",
-    "B1": "🏳️‍🌈"
+    "keyword": "Rainbow",
+    "emoji": "🏳️‍🌈"
   },
   {
-    "A1": "Rainbow",
-    "B1": "🏳️‍🌈"
+    "keyword": "အလာံ",
+    "emoji": "🚩"
   },
   {
-    "A1": "အလာံ",
-    "B1": "🚩"
+    "keyword": "အလံ",
+    "emoji": "🚩"
   },
   {
-    "A1": "အလံ",
-    "B1": "🚩"
+    "keyword": "ธง",
+    "emoji": "🚩"
   },
   {
-    "A1": "ธง",
-    "B1": "🚩"
+    "keyword": "flag",
+    "emoji": "🚩"
   },
   {
-    "A1": "flag",
-    "B1": "🚩"
+    "keyword": "ကစားစရာ",
+    "emoji": "🧸"
   },
   {
-    "A1": "ကစားစရာ",
-    "B1": "🧸"
+    "keyword": "ของเล่น",
+    "emoji": "🧸"
   },
   {
-    "A1": "ของเล่น",
-    "B1": "🧸"
+    "keyword": "toy",
+    "emoji": "🧸"
   },
   {
-    "A1": "toy",
-    "B1": "🧸"
+    "keyword": "ဗလံက်",
+    "emoji": "🚀"
   },
   {
-    "A1": "ဗလံက်",
-    "B1": "🚀"
+    "keyword": "ဒုံးပျံ",
+    "emoji": "🚀"
   },
   {
-    "A1": "ဒုံးပျံ",
-    "B1": "🚀"
+    "keyword": "จรวด",
+    "emoji": "🚀"
   },
   {
-    "A1": "จรวด",
-    "B1": "🚀"
+    "keyword": "rocket",
+    "emoji": "🚀"
   },
   {
-    "A1": "rocket",
-    "B1": "🚀"
+    "keyword": "space",
+    "emoji": "🚀"
   },
   {
-    "A1": "space",
-    "B1": "🚀"
+    "keyword": "ခၞိင်",
+    "emoji": "🔔"
   },
   {
-    "A1": "ခၞိင်",
-    "B1": "🔔"
+    "keyword": "ခရေဲ",
+    "emoji": "🔔"
   },
   {
-    "A1": "ခရေဲ",
-    "B1": "🔔"
+    "keyword": "ခေါင်းလောင်း",
+    "emoji": "🔔"
   },
   {
-    "A1": "ခေါင်းလောင်း",
-    "B1": "🔔"
+    "keyword": "ระฆัง",
+    "emoji": "🔔"
   },
   {
-    "A1": "ระฆัง",
-    "B1": "🔔"
+    "keyword": "bell",
+    "emoji": "🔔"
   },
   {
-    "A1": "bell",
-    "B1": "🔔"
+    "keyword": "notification",
+    "emoji": "🔔"
   },
   {
-    "A1": "notification",
-    "B1": "🔔"
+    "keyword": "မတ်",
+    "emoji": "👀"
   },
   {
-    "A1": "မတ်",
-    "B1": "👀"
+    "keyword": "မျက်စိ",
+    "emoji": "👀"
   },
   {
-    "A1": "မျက်စိ",
-    "B1": "👀"
+    "keyword": "ตา",
+    "emoji": "👀"
   },
   {
-    "A1": "ตา",
-    "B1": "👀"
+    "keyword": "eye",
+    "emoji": "👀"
   },
   {
-    "A1": "eye",
-    "B1": "👀"
+    "keyword": "look",
+    "emoji": "👀"
   },
   {
-    "A1": "look",
-    "B1": "👀"
+    "keyword": "see",
+    "emoji": "👀"
   },
   {
-    "A1": "see",
-    "B1": "👀"
+    "keyword": "ပါင်",
+    "emoji": "👄"
   },
   {
-    "A1": "ပါင်",
-    "B1": "👄"
+    "keyword": "ပါးစပ်",
+    "emoji": "👄"
   },
   {
-    "A1": "ပါးစပ်",
-    "B1": "👄"
+    "keyword": "ปาก",
+    "emoji": "👄"
   },
   {
-    "A1": "ปาก",
-    "B1": "👄"
+    "keyword": "mouth",
+    "emoji": "👄"
   },
   {
-    "A1": "mouth",
-    "B1": "👄"
+    "keyword": "lips",
+    "emoji": "👄"
   },
   {
-    "A1": "lips",
-    "B1": "👄"
+    "keyword": "တဲ",
+    "emoji": "🖐️"
   },
   {
-    "A1": "တဲ",
-    "B1": "🖐️"
+    "keyword": "လက်",
+    "emoji": "🖐️"
   },
   {
-    "A1": "လက်",
-    "B1": "🖐️"
+    "keyword": "มือ",
+    "emoji": "🖐️"
   },
   {
-    "A1": "มือ",
-    "B1": "🖐️"
+    "keyword": "hand",
+    "emoji": "🖐️"
   },
   {
-    "A1": "hand",
-    "B1": "🖐️"
+    "keyword": "five",
+    "emoji": "🖐️"
   },
   {
-    "A1": "five",
-    "B1": "🖐️"
+    "keyword": "touch",
+    "emoji": "🖐️"
   },
   {
-    "A1": "touch",
-    "B1": "🖐️"
+    "keyword": "ဇိုင်",
+    "emoji": "🦵"
   },
   {
-    "A1": "ဇိုင်",
-    "B1": "🦵"
+    "keyword": "ခြေထောက်",
+    "emoji": "🦵"
   },
   {
-    "A1": "ခြေထောက်",
-    "B1": "🦵"
+    "keyword": "ขา",
+    "emoji": "🦵"
   },
   {
-    "A1": "ขา",
-    "B1": "🦵"
+    "keyword": "leg",
+    "emoji": "🦵"
   },
   {
-    "A1": "leg",
-    "B1": "🦵"
+    "keyword": "foot",
+    "emoji": "🦵"
   },
   {
-    "A1": "foot",
-    "B1": "🦵"
+    "keyword": "t-shirt",
+    "emoji": "👕"
   },
   {
-    "A1": "t-shirt",
-    "B1": "👕"
+    "keyword": "ဂၞိန်",
+    "emoji": "👗"
   },
   {
-    "A1": "ဂၞိန်",
-    "B1": "👗"
+    "keyword": "ဂါဝန်",
+    "emoji": "👗"
   },
   {
-    "A1": "ဂါဝန်",
-    "B1": "👗"
+    "keyword": "ชุดกระโปรง",
+    "emoji": "👗"
   },
   {
-    "A1": "ชุดกระโปรง",
-    "B1": "👗"
+    "keyword": "dress",
+    "emoji": "👗"
   },
   {
-    "A1": "dress",
-    "B1": "👗"
+    "keyword": "skirt",
+    "emoji": "👗"
   },
   {
-    "A1": "skirt",
-    "B1": "👗"
+    "keyword": "fashion",
+    "emoji": "👗"
   },
   {
-    "A1": "fashion",
-    "B1": "👗"
+    "keyword": "တဆိပ်",
+    "emoji": "🎓"
   },
   {
-    "A1": "တဆိပ်",
-    "B1": "🎓"
+    "keyword": "တဆိပ်ကြာ",
+    "emoji": "🎓"
   },
   {
-    "A1": "တဆိပ်ကြာ",
-    "B1": "🎓"
+    "keyword": "ဘွဲ့",
+    "emoji": "🎓"
   },
   {
-    "A1": "ဘွဲ့",
-    "B1": "🎓"
+    "keyword": "ปริญญา",
+    "emoji": "🎓"
   },
   {
-    "A1": "ปริญญา",
-    "B1": "🎓"
+    "keyword": "graduate",
+    "emoji": "🎓"
   },
   {
-    "A1": "graduate",
-    "B1": "🎓"
+    "keyword": "degree",
+    "emoji": "🎓"
   },
   {
-    "A1": "degree",
-    "B1": "🎓"
+    "keyword": "university",
+    "emoji": "🎓"
   },
   {
-    "A1": "university",
-    "B1": "🎓"
+    "keyword": "ရုင်ဂဥုဲ",
+    "emoji": "🏥"
   },
   {
-    "A1": "ရုင်ဂဥုဲ",
-    "B1": "🏥"
+    "keyword": "ဆေးရုံ",
+    "emoji": "🏥"
   },
   {
-    "A1": "ဆေးရုံ",
-    "B1": "🏥"
+    "keyword": "โรงพยาบาล",
+    "emoji": "🏥"
   },
   {
-    "A1": "โรงพยาบาล",
-    "B1": "🏥"
+    "keyword": "hospital",
+    "emoji": "🏥"
   },
   {
-    "A1": "hospital",
-    "B1": "🏥"
+    "keyword": "doctor",
+    "emoji": "🏥"
   },
   {
-    "A1": "doctor",
-    "B1": "🏥"
+    "keyword": "sick",
+    "emoji": "🏥"
   },
   {
-    "A1": "sick",
-    "B1": "🏥"
+    "keyword": "ဂဥုဲ",
+    "emoji": "💊"
   },
   {
-    "A1": "ဂဥုဲ",
-    "B1": "💊"
+    "keyword": "ဆေး",
+    "emoji": "💊"
   },
   {
-    "A1": "ဆေး",
-    "B1": "💊"
+    "keyword": "ยา",
+    "emoji": "💊"
   },
   {
-    "A1": "ยา",
-    "B1": "💊"
+    "keyword": "medicine",
+    "emoji": "💊"
   },
   {
-    "A1": "medicine",
-    "B1": "💊"
+    "keyword": "pill",
+    "emoji": "💊"
   },
   {
-    "A1": "pill",
-    "B1": "💊"
+    "keyword": "drug",
+    "emoji": "💊"
   },
   {
-    "A1": "drug",
-    "B1": "💊"
+    "keyword": "ၚေက်",
+    "emoji": "🦷"
   },
   {
-    "A1": "ၚေက်",
-    "B1": "🦷"
+    "keyword": "သွား",
+    "emoji": "🦷"
   },
   {
-    "A1": "သွား",
-    "B1": "🦷"
+    "keyword": "ฟัน",
+    "emoji": "🦷"
   },
   {
-    "A1": "ฟัน",
-    "B1": "🦷"
+    "keyword": "tooth",
+    "emoji": "🦷"
   },
   {
-    "A1": "tooth",
-    "B1": "🦷"
+    "keyword": "dentist",
+    "emoji": "🦷"
   },
   {
-    "A1": "dentist",
-    "B1": "🦷"
+    "keyword": "တၞံဆု",
+    "emoji": "🌳"
   },
   {
-    "A1": "တၞံဆု",
-    "B1": "🌳"
+    "keyword": "သစ်ပင်",
+    "emoji": "🌳"
   },
   {
-    "A1": "သစ်ပင်",
-    "B1": "🌳"
+    "keyword": "ต้นไม้",
+    "emoji": "🌳"
   },
   {
-    "A1": "ต้นไม้",
-    "B1": "🌳"
+    "keyword": "tree",
+    "emoji": "🌳"
   },
   {
-    "A1": "tree",
-    "B1": "🌳"
+    "keyword": "forest",
+    "emoji": "🌳"
   },
   {
-    "A1": "forest",
-    "B1": "🌳"
+    "keyword": "green",
+    "emoji": "🌳"
   },
   {
-    "A1": "green",
-    "B1": "🌳"
+    "keyword": "ဒဵု",
+    "emoji": "⛰️"
   },
   {
-    "A1": "ဒဵု",
-    "B1": "⛰️"
+    "keyword": "တောင်",
+    "emoji": "⛰️"
   },
   {
-    "A1": "တောင်",
-    "B1": "⛰️"
+    "keyword": "ภูเขา",
+    "emoji": "⛰️"
   },
   {
-    "A1": "ภูเขา",
-    "B1": "⛰️"
+    "keyword": "mountain",
+    "emoji": "⛰️"
   },
   {
-    "A1": "mountain",
-    "B1": "⛰️"
+    "keyword": "hill",
+    "emoji": "⛰️"
   },
   {
-    "A1": "hill",
-    "B1": "⛰️"
+    "keyword": "မှာသၟိတ်",
+    "emoji": "🌊"
   },
   {
-    "A1": "မှာသၟိတ်",
-    "B1": "🌊"
+    "keyword": "ပင်လယ်",
+    "emoji": "🌊"
   },
   {
-    "A1": "ပင်လယ်",
-    "B1": "🌊"
+    "keyword": "ทะเล",
+    "emoji": "🌊"
   },
   {
-    "A1": "ทะเล",
-    "B1": "🌊"
+    "keyword": "ocean",
+    "emoji": "🌊"
   },
   {
-    "A1": "ocean",
-    "B1": "🌊"
+    "keyword": "sea",
+    "emoji": "🌊"
   },
   {
-    "A1": "sea",
-    "B1": "🌊"
+    "keyword": "wave",
+    "emoji": "🌊"
   },
   {
-    "A1": "wave",
-    "B1": "🌊"
+    "keyword": "ဗြဲမတ်",
+    "emoji": "⛈️"
   },
   {
-    "A1": "ဗြဲမတ်",
-    "B1": "⛈️"
+    "keyword": "မိုးသက်မုန်တိုင်း",
+    "emoji": "⛈️"
   },
   {
-    "A1": "မိုးသက်မုန်တိုင်း",
-    "B1": "⛈️"
+    "keyword": "พายุ",
+    "emoji": "⛈️"
   },
   {
-    "A1": "พายุ",
-    "B1": "⛈️"
+    "keyword": "storm",
+    "emoji": "⛈️"
   },
   {
-    "A1": "storm",
-    "B1": "⛈️"
+    "keyword": "thunder",
+    "emoji": "⛈️"
   },
   {
-    "A1": "thunder",
-    "B1": "⛈️"
+    "keyword": "lightning",
+    "emoji": "⛈️"
   },
   {
-    "A1": "lightning",
-    "B1": "⛈️"
+    "keyword": "ဂၠုင်",
+    "emoji": "🛶"
   },
   {
-    "A1": "ဂၠုင်",
-    "B1": "🛶"
+    "keyword": "လှေ",
+    "emoji": "🛶"
   },
   {
-    "A1": "လှေ",
-    "B1": "🛶"
+    "keyword": "เรือ",
+    "emoji": "🛶"
   },
   {
-    "A1": "เรือ",
-    "B1": "🛶"
+    "keyword": "boat",
+    "emoji": "🛶"
   },
   {
-    "A1": "boat",
-    "B1": "🛶"
+    "keyword": "canoe",
+    "emoji": "🛶"
   },
   {
-    "A1": "canoe",
-    "B1": "🛶"
+    "keyword": "river",
+    "emoji": "🛶"
   },
   {
-    "A1": "river",
-    "B1": "🛶"
+    "keyword": "လ္ပာ်ပါဲ",
+    "emoji": "⬅️"
   },
   {
-    "A1": "လ္ပာ်ပါဲ",
-    "B1": "⬅️"
+    "keyword": "လ္ပာ်ဂွိ",
+    "emoji": "⬅️"
   },
   {
-    "A1": "လ္ပာ်ဂွိ",
-    "B1": "⬅️"
+    "keyword": "ဘယ်",
+    "emoji": "⬅️"
   },
   {
-    "A1": "ဘယ်",
-    "B1": "⬅️"
+    "keyword": "ซ้าย",
+    "emoji": "⬅️"
   },
   {
-    "A1": "ซ้าย",
-    "B1": "⬅️"
+    "keyword": "left",
+    "emoji": "⬅️"
   },
   {
-    "A1": "left",
-    "B1": "⬅️"
+    "keyword": "west",
+    "emoji": "⬅️"
   },
   {
-    "A1": "west",
-    "B1": "⬅️"
+    "keyword": "လ္ပာ်ပုင်",
+    "emoji": "➡️"
   },
   {
-    "A1": "လ္ပာ်ပုင်",
-    "B1": "➡️"
+    "keyword": "လ္ပာ်သတုံ",
+    "emoji": "➡️"
   },
   {
-    "A1": "လ္ပာ်သတုံ",
-    "B1": "➡️"
+    "keyword": "ညာ",
+    "emoji": "➡️"
   },
   {
-    "A1": "ညာ",
-    "B1": "➡️"
+    "keyword": "ขวา",
+    "emoji": "➡️"
   },
   {
-    "A1": "ขวา",
-    "B1": "➡️"
+    "keyword": "right",
+    "emoji": "➡️"
   },
   {
-    "A1": "right",
-    "B1": "➡️"
+    "keyword": "east",
+    "emoji": "➡️"
   },
   {
-    "A1": "east",
-    "B1": "➡️"
+    "keyword": "လ္တူ",
+    "emoji": "⬆️"
   },
   {
-    "A1": "လ္တူ",
-    "B1": "⬆️"
+    "keyword": "လတူ",
+    "emoji": "⬆️"
   },
   {
-    "A1": "လတူ",
-    "B1": "⬆️"
+    "keyword": "အထက်",
+    "emoji": "⬆️"
   },
   {
-    "A1": "အထက်",
-    "B1": "⬆️"
+    "keyword": "บน",
+    "emoji": "⬆️"
   },
   {
-    "A1": "บน",
-    "B1": "⬆️"
+    "keyword": "up",
+    "emoji": "⬆️"
   },
   {
-    "A1": "up",
-    "B1": "⬆️"
+    "keyword": "north",
+    "emoji": "⬆️"
   },
   {
-    "A1": "north",
-    "B1": "⬆️"
+    "keyword": "top",
+    "emoji": "⬆️"
   },
   {
-    "A1": "top",
-    "B1": "⬆️"
+    "keyword": "သၟဝ်",
+    "emoji": "⬇️"
   },
   {
-    "A1": "သၟဝ်",
-    "B1": "⬇️"
+    "keyword": "အောက်",
+    "emoji": "⬇️"
   },
   {
-    "A1": "အောက်",
-    "B1": "⬇️"
+    "keyword": "ล่าง",
+    "emoji": "⬇️"
   },
   {
-    "A1": "ล่าง",
-    "B1": "⬇️"
+    "keyword": "down",
+    "emoji": "⬇️"
   },
   {
-    "A1": "down",
-    "B1": "⬇️"
+    "keyword": "south",
+    "emoji": "⬇️"
   },
   {
-    "A1": "south",
-    "B1": "⬇️"
+    "keyword": "bottom",
+    "emoji": "⬇️"
   },
   {
-    "A1": "bottom",
-    "B1": "⬇️"
+    "keyword": "ဒၞါဲ",
+    "emoji": "📍"
   },
   {
-    "A1": "ဒၞါဲ",
-    "B1": "📍"
+    "keyword": "ဌာန",
+    "emoji": "📍"
   },
   {
-    "A1": "ဌာန",
-    "B1": "📍"
+    "keyword": "နေရာ",
+    "emoji": "📍"
   },
   {
-    "A1": "နေရာ",
-    "B1": "📍"
+    "keyword": "ที่นี่",
+    "emoji": "📍"
   },
   {
-    "A1": "ที่นี่",
-    "B1": "📍"
+    "keyword": "location",
+    "emoji": "📍"
   },
   {
-    "A1": "location",
-    "B1": "📍"
+    "keyword": "place",
+    "emoji": "📍"
   },
   {
-    "A1": "place",
-    "B1": "📍"
+    "keyword": "here",
+    "emoji": "📍"
   },
   {
-    "A1": "here",
-    "B1": "📍"
+    "keyword": "map",
+    "emoji": "📍"
   },
   {
-    "A1": "map",
-    "B1": "📍"
+    "keyword": "သ္ဗန်",
+    "emoji": "🧼"
   },
   {
-    "A1": "သ္ဗန်",
-    "B1": "🧼"
+    "keyword": "ဆပ်ပြာ",
+    "emoji": "🧼"
   },
   {
-    "A1": "ဆပ်ပြာ",
-    "B1": "🧼"
+    "keyword": "สบู่",
+    "emoji": "🧼"
   },
   {
-    "A1": "สบู่",
-    "B1": "🧼"
+    "keyword": "soap",
+    "emoji": "🧼"
   },
   {
-    "A1": "soap",
-    "B1": "🧼"
+    "keyword": "wash",
+    "emoji": "🧼"
   },
   {
-    "A1": "wash",
-    "B1": "🧼"
+    "keyword": "clean",
+    "emoji": "🧼"
   },
   {
-    "A1": "clean",
-    "B1": "🧼"
+    "keyword": "ခုင်",
+    "emoji": "🪑"
   },
   {
-    "A1": "ခုင်",
-    "B1": "🪑"
+    "keyword": "ကုလားထိုင်",
+    "emoji": "🪑"
   },
   {
-    "A1": "ကုလားထိုင်",
-    "B1": "🪑"
+    "keyword": "เก้าอี้",
+    "emoji": "🪑"
   },
   {
-    "A1": "เก้าอี้",
-    "B1": "🪑"
+    "keyword": "chair",
+    "emoji": "🪑"
   },
   {
-    "A1": "chair",
-    "B1": "🪑"
+    "keyword": "seat",
+    "emoji": "🪑"
   },
   {
-    "A1": "seat",
-    "B1": "🪑"
+    "keyword": "တြုံ",
+    "emoji": "👨"
   },
   {
-    "A1": "တြုံ",
-    "B1": "👨"
+    "keyword": "ယော်ကျား",
+    "emoji": "👨"
   },
   {
-    "A1": "ယော်ကျား",
-    "B1": "👨"
+    "keyword": "ผู้ชาย",
+    "emoji": "👨"
   },
   {
-    "A1": "ผู้ชาย",
-    "B1": "👨"
+    "keyword": "man",
+    "emoji": "👨"
   },
   {
-    "A1": "man",
-    "B1": "👨"
+    "keyword": "male",
+    "emoji": "👨"
   },
   {
-    "A1": "male",
-    "B1": "👨"
+    "keyword": "ဗြဴ",
+    "emoji": "👩"
   },
   {
-    "A1": "ဗြဴ",
-    "B1": "👩"
+    "keyword": "မိန်းမ",
+    "emoji": "👩"
   },
   {
-    "A1": "မိန်းမ",
-    "B1": "👩"
+    "keyword": "ผู้หญิง",
+    "emoji": "👩"
   },
   {
-    "A1": "ผู้หญิง",
-    "B1": "👩"
+    "keyword": "woman",
+    "emoji": "👩"
   },
   {
-    "A1": "woman",
-    "B1": "👩"
+    "keyword": "female",
+    "emoji": "👩"
   },
   {
-    "A1": "female",
-    "B1": "👩"
+    "keyword": "အပါ",
+    "emoji": "👴"
   },
   {
-    "A1": "အပါ",
-    "B1": "👴"
+    "keyword": "အဘိုး",
+    "emoji": "👴"
   },
   {
-    "A1": "အဘိုး",
-    "B1": "👴"
+    "keyword": "ปู่",
+    "emoji": "👴"
   },
   {
-    "A1": "ปู่",
-    "B1": "👴"
+    "keyword": "grandfather",
+    "emoji": "👴"
   },
   {
-    "A1": "grandfather",
-    "B1": "👴"
+    "keyword": "old man",
+    "emoji": "👴"
   },
   {
-    "A1": "old man",
-    "B1": "👴"
+    "keyword": "မိ",
+    "emoji": "👵"
   },
   {
-    "A1": "မိ",
-    "B1": "👵"
+    "keyword": "မေ",
+    "emoji": "👵"
   },
   {
-    "A1": "မေ",
-    "B1": "👵"
+    "keyword": "အဘွား",
+    "emoji": "👵"
   },
   {
-    "A1": "အဘွား",
-    "B1": "👵"
+    "keyword": "ย่า",
+    "emoji": "👵"
   },
   {
-    "A1": "ย่า",
-    "B1": "👵"
+    "keyword": "ยาย",
+    "emoji": "👵"
   },
   {
-    "A1": "ยาย",
-    "B1": "👵"
+    "keyword": "grandmother",
+    "emoji": "👵"
   },
   {
-    "A1": "grandmother",
-    "B1": "👵"
+    "keyword": "old woman",
+    "emoji": "👵"
   },
   {
-    "A1": "old woman",
-    "B1": "👵"
+    "keyword": "ကောန်ၚာ်",
+    "emoji": "👶"
   },
   {
-    "A1": "ကောန်ၚာ်",
-    "B1": "👶"
+    "keyword": "ကောန်ၚာ်သၟတ်",
+    "emoji": "👶"
   },
   {
-    "A1": "ကောန်ၚာ်သၟတ်",
-    "B1": "👶"
+    "keyword": "ကလေး",
+    "emoji": "👶"
   },
   {
-    "A1": "ကလေး",
-    "B1": "👶"
+    "keyword": "เด็ก",
+    "emoji": "👶"
   },
   {
-    "A1": "เด็ก",
-    "B1": "👶"
+    "keyword": "baby",
+    "emoji": "👶"
   },
   {
-    "A1": "baby",
-    "B1": "👶"
+    "keyword": "child",
+    "emoji": "👶"
   },
   {
-    "A1": "child",
-    "B1": "👶"
+    "keyword": "ကောန်ကွး",
+    "emoji": "🧑‍🎓"
   },
   {
-    "A1": "ကောန်ကွး",
-    "B1": "🧑‍🎓"
+    "keyword": "ကွးဘာ",
+    "emoji": "🧑‍🎓"
   },
   {
-    "A1": "ကွးဘာ",
-    "B1": "🧑‍🎓"
+    "keyword": "ကျောင်းသား",
+    "emoji": "🧑‍🎓"
   },
   {
-    "A1": "ကျောင်းသား",
-    "B1": "🧑‍🎓"
+    "keyword": "นักเรียน",
+    "emoji": "🧑‍🎓"
   },
   {
-    "A1": "นักเรียน",
-    "B1": "🧑‍🎓"
+    "keyword": "student",
+    "emoji": "🧑‍🎓"
   },
   {
-    "A1": "student",
-    "B1": "🧑‍🎓"
+    "keyword": "အ္စာဂဥုဲ",
+    "emoji": "🧑‍⚕️"
   },
   {
-    "A1": "အ္စာဂဥုဲ",
-    "B1": "🧑‍⚕️"
+    "keyword": "ဆရာဝန်",
+    "emoji": "🧑‍⚕️"
   },
   {
-    "A1": "ဆရာဝန်",
-    "B1": "🧑‍⚕️"
+    "keyword": "หมอ",
+    "emoji": "🧑‍⚕️"
   },
   {
-    "A1": "หมอ",
-    "B1": "🧑‍⚕️"
+    "keyword": "nurse",
+    "emoji": "🧑‍⚕️"
   },
   {
-    "A1": "nurse",
-    "B1": "🧑‍⚕️"
+    "keyword": "medical",
+    "emoji": "🧑‍⚕️"
   },
   {
-    "A1": "medical",
-    "B1": "🧑‍⚕️"
+    "keyword": "ကျာ",
+    "emoji": "🌬️"
   },
   {
-    "A1": "ကျာ",
-    "B1": "🌬️"
+    "keyword": "လေ",
+    "emoji": "🌬️"
   },
   {
-    "A1": "လေ",
-    "B1": "🌬️"
+    "keyword": "ลม",
+    "emoji": "🌬️"
   },
   {
-    "A1": "ลม",
-    "B1": "🌬️"
+    "keyword": "wind",
+    "emoji": "🌬️"
   },
   {
-    "A1": "wind",
-    "B1": "🌬️"
+    "keyword": "breeze",
+    "emoji": "🌬️"
   },
   {
-    "A1": "breeze",
-    "B1": "🌬️"
+    "keyword": "သြောံ",
+    "emoji": "🌾"
   },
   {
-    "A1": "သြောံ",
-    "B1": "🌾"
+    "keyword": "စပါး",
+    "emoji": "🌾"
   },
   {
-    "A1": "စပါး",
-    "B1": "🌾"
+    "keyword": "paddy",
+    "emoji": "🌾"
   },
   {
-    "A1": "paddy",
-    "B1": "🌾"
+    "keyword": "farm",
+    "emoji": "🌾"
   },
   {
-    "A1": "farm",
-    "B1": "🌾"
+    "keyword": "pleading",
+    "emoji": "🥺"
   },
   {
-    "A1": "pleading",
-    "B1": "🥺"
+    "keyword": "သၠးခေါင်ညိ",
+    "emoji": "🥺"
   },
   {
-    "A1": "သၠးခေါင်ညိ",
-    "B1": "🥺"
+    "keyword": "ဒုင်ဂုဏ်ရ",
+    "emoji": "🥺"
   },
   {
-    "A1": "ဒုင်ဂုဏ်ရ",
-    "B1": "🥺"
+    "keyword": "တောင်းပန်",
+    "emoji": "🥺"
   },
   {
-    "A1": "တောင်းပန်",
-    "B1": "🥺"
+    "keyword": "อ้อนวอน",
+    "emoji": "🥺"
   },
   {
-    "A1": "อ้อนวอน",
-    "B1": "🥺"
+    "keyword": "in love",
+    "emoji": "🥰"
   },
   {
-    "A1": "in love",
-    "B1": "🥰"
+    "keyword": "ဆာန််စောဲ",
+    "emoji": "🥰"
   },
   {
-    "A1": "ဆာန််စောဲ",
-    "B1": "🥰"
+    "keyword": "ဆာန်အာယျ",
+    "emoji": "🥰"
   },
   {
-    "A1": "ဆာန်အာယျ",
-    "B1": "🥰"
+    "keyword": "သ္ဍိုက်မၠိုက်",
+    "emoji": "🥰"
   },
   {
-    "A1": "သ္ဍိုက်မၠိုက်",
-    "B1": "🥰"
+    "keyword": "ချစ်ခင်",
+    "emoji": "🥰"
   },
   {
-    "A1": "ချစ်ခင်",
-    "B1": "🥰"
+    "keyword": "หลงรัก",
+    "emoji": "🥰"
   },
   {
-    "A1": "หลงรัก",
-    "B1": "🥰"
+    "keyword": "sweat smile",
+    "emoji": "😅"
   },
   {
-    "A1": "sweat smile",
-    "B1": "😅"
+    "keyword": "ဍာ်ရမတ်ပြး",
+    "emoji": "😅"
   },
   {
-    "A1": "ဍာ်ရမတ်ပြး",
-    "B1": "😅"
+    "keyword": "ဒးကအ်",
+    "emoji": "😅"
   },
   {
-    "A1": "ဒးကအ်",
-    "B1": "😅"
+    "keyword": "ချွေးထွက်ပြုံး",
+    "emoji": "😅"
   },
   {
-    "A1": "ချွေးထွက်ပြုံး",
-    "B1": "😅"
+    "keyword": "ยิ้มแห้ง",
+    "emoji": "😅"
   },
   {
-    "A1": "ยิ้มแห้ง",
-    "B1": "😅"
+    "keyword": "star struck",
+    "emoji": "🤩"
   },
   {
-    "A1": "star struck",
-    "B1": "🤩"
+    "keyword": "အမ်သဝ်",
+    "emoji": "🤩"
   },
   {
-    "A1": "အမ်သဝ်",
-    "B1": "🤩"
+    "keyword": "တၟေင်တၟဟ်",
+    "emoji": "🤩"
   },
   {
-    "A1": "တၟေင်တၟဟ်",
-    "B1": "🤩"
+    "keyword": "ตื่นเต้น",
+    "emoji": "🤩"
   },
   {
-    "A1": "ตื่นเต้น",
-    "B1": "🤩"
+    "keyword": "party face",
+    "emoji": "🥳"
   },
   {
-    "A1": "party face",
-    "B1": "🥳"
+    "keyword": "ပေဲါ",
+    "emoji": "🥳"
   },
   {
-    "A1": "ပေဲါ",
-    "B1": "🥳"
+    "keyword": "သဘင်ပေဲါ",
+    "emoji": "🥳"
   },
   {
-    "A1": "သဘင်ပေဲါ",
-    "B1": "🥳"
+    "keyword": "ပွဲတော်",
+    "emoji": "🥳"
   },
   {
-    "A1": "ပွဲတော်",
-    "B1": "🥳"
+    "keyword": "ปาร์ตี้",
+    "emoji": "🥳"
   },
   {
-    "A1": "ปาร์ตี้",
-    "B1": "🥳"
+    "keyword": "ghost",
+    "emoji": "👻"
   },
   {
-    "A1": "ghost",
-    "B1": "👻"
+    "keyword": "ကလော်",
+    "emoji": "👻"
   },
   {
-    "A1": "ကလော်",
-    "B1": "👻"
+    "keyword": "ဘပၠ",
+    "emoji": "👻"
   },
   {
-    "A1": "ဘပၠ",
-    "B1": "👻"
+    "keyword": "ဘ",
+    "emoji": "👻"
   },
   {
-    "A1": "ဘ",
-    "B1": "👻"
+    "keyword": "သရာဲ",
+    "emoji": "👻"
   },
   {
-    "A1": "သရာဲ",
-    "B1": "👻"
+    "keyword": "သရဲ",
+    "emoji": "👻"
   },
   {
-    "A1": "သရဲ",
-    "B1": "👻"
+    "keyword": "ผี",
+    "emoji": "👻"
   },
   {
-    "A1": "ผี",
-    "B1": "👻"
+    "keyword": "alien",
+    "emoji": "👽"
   },
   {
-    "A1": "alien",
-    "B1": "👽"
+    "keyword": "ကောန်ဂျို",
+    "emoji": "👽"
   },
   {
-    "A1": "ကောန်ဂျို",
-    "B1": "👽"
+    "keyword": "ဂြိုလ်သား",
+    "emoji": "👽"
   },
   {
-    "A1": "ဂြိုလ်သား",
-    "B1": "👽"
+    "keyword": "เอเลี่ยน",
+    "emoji": "👽"
   },
   {
-    "A1": "เอเลี่ยน",
-    "B1": "👽"
+    "keyword": "robot",
+    "emoji": "🤖"
   },
   {
-    "A1": "robot",
-    "B1": "🤖"
+    "keyword": "စက်ရုပ်",
+    "emoji": "🤖"
   },
   {
-    "A1": "စက်ရုပ်",
-    "B1": "🤖"
+    "keyword": "หุ่นยนต์",
+    "emoji": "🤖"
   },
   {
-    "A1": "หุ่นยนต์",
-    "B1": "🤖"
+    "keyword": "pizza",
+    "emoji": "🍕"
   },
   {
-    "A1": "pizza",
-    "B1": "🍕"
+    "keyword": "ပီဇာ",
+    "emoji": "🍕"
   },
   {
-    "A1": "ပီဇာ",
-    "B1": "🍕"
+    "keyword": "พิซซ่า",
+    "emoji": "🍕"
   },
   {
-    "A1": "พิซซ่า",
-    "B1": "🍕"
+    "keyword": "burger",
+    "emoji": "🍔"
   },
   {
-    "A1": "burger",
-    "B1": "🍔"
+    "keyword": "ဘာဂါ",
+    "emoji": "🍔"
   },
   {
-    "A1": "ဘာဂါ",
-    "B1": "🍔"
+    "keyword": "เบอร์เกอร์",
+    "emoji": "🍔"
   },
   {
-    "A1": "เบอร์เกอร์",
-    "B1": "🍔"
+    "keyword": "fries",
+    "emoji": "🍟"
   },
   {
-    "A1": "fries",
-    "B1": "🍟"
+    "keyword": "အာလူးကြော်",
+    "emoji": "🍟"
   },
   {
-    "A1": "အာလူးကြော်",
-    "B1": "🍟"
+    "keyword": "เฟรนช์ฟรายส์",
+    "emoji": "🍟"
   },
   {
-    "A1": "เฟรนช์ฟรายส์",
-    "B1": "🍟"
+    "keyword": "soccer",
+    "emoji": "⚽"
   },
   {
-    "A1": "soccer",
-    "B1": "⚽"
+    "keyword": "မခ္ဍံကျာ်",
+    "emoji": "⚽"
   },
   {
-    "A1": "မခ္ဍံကျာ်",
-    "B1": "⚽"
+    "keyword": "ပေဲါမခ္ဍံကျာ်",
+    "emoji": "⚽"
   },
   {
-    "A1": "ပေဲါမခ္ဍံကျာ်",
-    "B1": "⚽"
+    "keyword": "ဘောလုံး",
+    "emoji": "⚽"
   },
   {
-    "A1": "ဘောလုံး",
-    "B1": "⚽"
+    "keyword": "ฟุตบอล",
+    "emoji": "⚽"
   },
   {
-    "A1": "ฟุตบอล",
-    "B1": "⚽"
+    "keyword": "basketball",
+    "emoji": "🏀"
   },
   {
-    "A1": "basketball",
-    "B1": "🏀"
+    "keyword": "ခ္ဍံကျာ်ထ္ဗး",
+    "emoji": "🏀"
   },
   {
-    "A1": "ခ္ဍံကျာ်ထ္ဗး",
-    "B1": "🏀"
+    "keyword": "ဘတ်စကက်ဘော",
+    "emoji": "🏀"
   },
   {
-    "A1": "ဘတ်စကက်ဘော",
-    "B1": "🏀"
+    "keyword": "บาสเกตบอล",
+    "emoji": "🏀"
   },
   {
-    "A1": "บาสเกตบอล",
-    "B1": "🏀"
+    "keyword": "guitar",
+    "emoji": "🎸"
   },
   {
-    "A1": "guitar",
-    "B1": "🎸"
+    "keyword": "ဂဳတာ",
+    "emoji": "🎸"
   },
   {
-    "A1": "ဂဳတာ",
-    "B1": "🎸"
+    "keyword": "ဂစ်တာ",
+    "emoji": "🎸"
   },
   {
-    "A1": "ဂစ်တာ",
-    "B1": "🎸"
+    "keyword": "กีตาร์",
+    "emoji": "🎸"
   },
   {
-    "A1": "กีตาร์",
-    "B1": "🎸"
+    "keyword": "books",
+    "emoji": "📚"
   },
   {
-    "A1": "books",
-    "B1": "📚"
+    "keyword": "လိက်",
+    "emoji": "📚"
   },
   {
-    "A1": "လိက်",
-    "B1": "📚"
+    "keyword": "လိက််အုပ်",
+    "emoji": "📚"
   },
   {
-    "A1": "လိက််အုပ်",
-    "B1": "📚"
+    "keyword": "စာအုပ်များ",
+    "emoji": "📚"
   },
   {
-    "A1": "စာအုပ်များ",
-    "B1": "📚"
+    "keyword": "หนังสือ",
+    "emoji": "📚"
   },
   {
-    "A1": "หนังสือ",
-    "B1": "📚"
+    "keyword": "ၝောံကိုဋ်",
+    "emoji": "👑"
   },
   {
-    "A1": "ၝောံကိုဋ်",
-    "B1": "👑"
+    "keyword": "သရဖူ",
+    "emoji": "👑"
   },
   {
-    "A1": "သရဖူ",
-    "B1": "👑"
+    "keyword": "มงกุฎ",
+    "emoji": "👑"
   },
   {
-    "A1": "มงกุฎ",
-    "B1": "👑"
+    "keyword": "crown",
+    "emoji": "👑"
   },
   {
-    "A1": "crown",
-    "B1": "👑"
+    "keyword": "ဒ္ၚောဝ်မတ်",
+    "emoji": "🕶️"
   },
   {
-    "A1": "ဒ္ၚောဝ်မတ်",
-    "B1": "🕶️"
+    "keyword": "နေကာမျက်မှန်",
+    "emoji": "🕶️"
   },
   {
-    "A1": "နေကာမျက်မှန်",
-    "B1": "🕶️"
+    "keyword": "แว่นตากันแดด",
+    "emoji": "🕶️"
   },
   {
-    "A1": "แว่นตากันแดด",
-    "B1": "🕶️"
+    "keyword": "sunglasses",
+    "emoji": "🕶️"
   },
   {
-    "A1": "sunglasses",
-    "B1": "🕶️"
+    "keyword": "က္ဍိုင်",
+    "emoji": "☂️"
   },
   {
-    "A1": "က္ဍိုင်",
-    "B1": "☂️"
+    "keyword": "ထီး",
+    "emoji": "☂️"
   },
   {
-    "A1": "ထီး",
-    "B1": "☂️"
+    "keyword": "ร่ม",
+    "emoji": "☂️"
   },
   {
-    "A1": "ร่ม",
-    "B1": "☂️"
+    "keyword": "umbrella",
+    "emoji": "☂️"
   },
   {
-    "A1": "umbrella",
-    "B1": "☂️"
+    "keyword": "ကောန်ကသု",
+    "emoji": "🔑"
   },
   {
-    "A1": "ကောန်ကသု",
-    "B1": "🔑"
+    "keyword": "သော့",
+    "emoji": "🔑"
   },
   {
-    "A1": "သော့",
-    "B1": "🔑"
+    "keyword": "กุญแจ",
+    "emoji": "🔑"
   },
   {
-    "A1": "กุญแจ",
-    "B1": "🔑"
+    "keyword": "key",
+    "emoji": "🔑"
   },
   {
-    "A1": "key",
-    "B1": "🔑"
+    "keyword": "ကသု",
+    "emoji": "🔒"
   },
   {
-    "A1": "ကသု",
-    "B1": "🔒"
+    "keyword": "သော့ခလောက်",
+    "emoji": "🔒"
   },
   {
-    "A1": "သော့ခလောက်",
-    "B1": "🔒"
+    "keyword": "แม่กุญแจ",
+    "emoji": "🔒"
   },
   {
-    "A1": "แม่กุญแจ",
-    "B1": "🔒"
+    "keyword": "lock",
+    "emoji": "🔒"
   },
   {
-    "A1": "lock",
-    "B1": "🔒"
+    "keyword": "ပသဲဓါတ်",
+    "emoji": "🧲"
   },
   {
-    "A1": "ပသဲဓါတ်",
-    "B1": "🧲"
+    "keyword": "သံလိုက်",
+    "emoji": "🧲"
   },
   {
-    "A1": "သံလိုက်",
-    "B1": "🧲"
+    "keyword": "แม่เหล็ก",
+    "emoji": "🧲"
   },
   {
-    "A1": "แม่เหล็ก",
-    "B1": "🧲"
+    "keyword": "magnet",
+    "emoji": "🧲"
   },
   {
-    "A1": "magnet",
-    "B1": "🧲"
+    "keyword": "ဓါတ်ပၟတ်",
+    "emoji": "🔋"
   },
   {
-    "A1": "ဓါတ်ပၟတ်",
-    "B1": "🔋"
+    "keyword": "ဗက်တရဳ",
+    "emoji": "🔋"
   },
   {
-    "A1": "ဗက်တရဳ",
-    "B1": "🔋"
+    "keyword": "ဘက်ထရီ",
+    "emoji": "🔋"
   },
   {
-    "A1": "ဘက်ထရီ",
-    "B1": "🔋"
+    "keyword": "แบตเตอรี่",
+    "emoji": "🔋"
   },
   {
-    "A1": "แบตเตอรี่",
-    "B1": "🔋"
+    "keyword": "battery",
+    "emoji": "🔋"
   },
   {
-    "A1": "battery",
-    "B1": "🔋"
+    "keyword": "ကၞာတ်",
+    "emoji": "✂️"
   },
   {
-    "A1": "ကၞာတ်",
-    "B1": "✂️"
+    "keyword": "ကြာပ်ကြေဝ်",
+    "emoji": "✂️"
   },
   {
-    "A1": "ကြာပ်ကြေဝ်",
-    "B1": "✂️"
+    "keyword": "ကတ်ကြေး",
+    "emoji": "✂️"
   },
   {
-    "A1": "ကတ်ကြေး",
-    "B1": "✂️"
+    "keyword": "กรรไกร",
+    "emoji": "✂️"
   },
   {
-    "A1": "กรรไกร",
-    "B1": "✂️"
+    "keyword": "scissors",
+    "emoji": "✂️"
   },
   {
-    "A1": "scissors",
-    "B1": "✂️"
+    "keyword": "စၞောန်",
+    "emoji": "📌"
   },
   {
-    "A1": "စၞောန်",
-    "B1": "📌"
+    "keyword": "ဒုတ်ချွန်",
+    "emoji": "📌"
   },
   {
-    "A1": "ဒုတ်ချွန်",
-    "B1": "📌"
+    "keyword": "หมุด",
+    "emoji": "📌"
   },
   {
-    "A1": "หมุด",
-    "B1": "📌"
+    "keyword": "pushpin",
+    "emoji": "📌"
   },
   {
-    "A1": "pushpin",
-    "B1": "📌"
+    "keyword": "ပလိုင်ကမၠိုက်",
+    "emoji": "🗑️"
   },
   {
-    "A1": "ပလိုင်ကမၠိုက်",
-    "B1": "🗑️"
+    "keyword": "နထၟိက်",
+    "emoji": "🗑️"
   },
   {
-    "A1": "နထၟိက်",
-    "B1": "🗑️"
+    "keyword": "အမှိုက်ပုံး",
+    "emoji": "🗑️"
   },
   {
-    "A1": "အမှိုက်ပုံး",
-    "B1": "🗑️"
+    "keyword": "ถังขยะ",
+    "emoji": "🗑️"
   },
   {
-    "A1": "ถังขยะ",
-    "B1": "🗑️"
+    "keyword": "wastebasket",
+    "emoji": "🗑️"
   },
   {
-    "A1": "wastebasket",
-    "B1": "🗑️"
+    "keyword": "ကၟာဟုံ",
+    "emoji": "🛁"
   },
   {
-    "A1": "ကၟာဟုံ",
-    "B1": "🛁"
+    "keyword": "ကၟာဟုံဍာ်",
+    "emoji": "🛁"
   },
   {
-    "A1": "ကၟာဟုံဍာ်",
-    "B1": "🛁"
+    "keyword": "ခေါက်ဍာ်",
+    "emoji": "🛁"
   },
   {
-    "A1": "ခေါက်ဍာ်",
-    "B1": "🛁"
+    "keyword": "ရေချိုးကန်",
+    "emoji": "🛁"
   },
   {
-    "A1": "ရေချိုးကန်",
-    "B1": "🛁"
+    "keyword": "อ่างอาบน้ำ",
+    "emoji": "🛁"
   },
   {
-    "A1": "อ่างอาบน้ำ",
-    "B1": "🛁"
+    "keyword": "bathtub",
+    "emoji": "🛁"
   },
   {
-    "A1": "bathtub",
-    "B1": "🛁"
+    "keyword": "ပါင်တြင်",
+    "emoji": "🚪"
   },
   {
-    "A1": "ပါင်တြင်",
-    "B1": "🚪"
+    "keyword": "တံခါး",
+    "emoji": "🚪"
   },
   {
-    "A1": "တံခါး",
-    "B1": "🚪"
+    "keyword": "ประตู",
+    "emoji": "🚪"
   },
   {
-    "A1": "ประตู",
-    "B1": "🚪"
+    "keyword": "door",
+    "emoji": "🚪"
   },
   {
-    "A1": "door",
-    "B1": "🚪"
+    "keyword": "ပထောင်ဗတင်",
+    "emoji": "🪟"
   },
   {
-    "A1": "ပထောင်ဗတင်",
-    "B1": "🪟"
+    "keyword": "ပြတင်းပေါက်",
+    "emoji": "🪟"
   },
   {
-    "A1": "ပြတင်းပေါက်",
-    "B1": "🪟"
+    "keyword": "หน้าต่าง",
+    "emoji": "🪟"
   },
   {
-    "A1": "หน้าต่าง",
-    "B1": "🪟"
+    "keyword": "window",
+    "emoji": "🪟"
   },
   {
-    "A1": "window",
-    "B1": "🪟"
+    "keyword": "ဇံင်",
+    "emoji": "🛏️"
   },
   {
-    "A1": "ဇံင်",
-    "B1": "🛏️"
+    "keyword": "ဇံင်ခါတ်",
+    "emoji": "🛏️"
   },
   {
-    "A1": "ဇံင်ခါတ်",
-    "B1": "🛏️"
+    "keyword": "ခါတ်",
+    "emoji": "🛏️"
   },
   {
-    "A1": "ခါတ်",
-    "B1": "🛏️"
+    "keyword": "ကုတင်",
+    "emoji": "🛏️"
   },
   {
-    "A1": "ကုတင်",
-    "B1": "🛏️"
+    "keyword": "เตียง",
+    "emoji": "🛏️"
   },
   {
-    "A1": "เตียง",
-    "B1": "🛏️"
+    "keyword": "ခုင်ဇၞော်",
+    "emoji": "🛋️"
   },
   {
-    "A1": "ခုင်ဇၞော်",
-    "B1": "🛋️"
+    "keyword": "ခုင်ဂ္ဇံ​ဇၞော်",
+    "emoji": "🛋️"
   },
   {
-    "A1": "ခုင်ဂ္ဇံ​ဇၞော်",
-    "B1": "🛋️"
+    "keyword": "ဆိုဖာ",
+    "emoji": "🛋️"
   },
   {
-    "A1": "ဆိုဖာ",
-    "B1": "🛋️"
+    "keyword": "โซฟา",
+    "emoji": "🛋️"
   },
   {
-    "A1": "โซฟา",
-    "B1": "🛋️"
+    "keyword": "couch",
+    "emoji": "🛋️"
   },
   {
-    "A1": "couch",
-    "B1": "🛋️"
+    "keyword": "ဒ္ၚောဝ်",
+    "emoji": "🪞"
   },
   {
-    "A1": "ဒ္ၚောဝ်",
-    "B1": "🪞"
+    "keyword": "กระจก",
+    "emoji": "🪞"
   },
   {
-    "A1": "กระจก",
-    "B1": "🪞"
+    "keyword": "mirror",
+    "emoji": "🪞"
   },
   {
-    "A1": "mirror",
-    "B1": "🪞"
+    "keyword": "နာဍဳ",
+    "emoji": "🕰️"
   },
   {
-    "A1": "နာဍဳ",
-    "B1": "🕰️"
+    "keyword": "နာရီ",
+    "emoji": "🕰️"
   },
   {
-    "A1": "နာရီ",
-    "B1": "🕰️"
+    "keyword": "นาฬิกา",
+    "emoji": "🕰️"
   },
   {
-    "A1": "นาฬิกา",
-    "B1": "🕰️"
+    "keyword": "clock",
+    "emoji": "🕰️"
   },
   {
-    "A1": "clock",
-    "B1": "🕰️"
+    "keyword": "ရုပ်ကွက်",
+    "emoji": "🖼️"
   },
   {
-    "A1": "ရုပ်ကွက်",
-    "B1": "🖼️"
+    "keyword": "ဗီု",
+    "emoji": "🖼️"
   },
   {
-    "A1": "ဗီု",
-    "B1": "🖼️"
+    "keyword": "ပန်းချီကား",
+    "emoji": "🖼️"
   },
   {
-    "A1": "ပန်းချီကား",
-    "B1": "🖼️"
+    "keyword": "รูปภาพ",
+    "emoji": "🖼️"
   },
   {
-    "A1": "รูปภาพ",
-    "B1": "🖼️"
+    "keyword": "picture",
+    "emoji": "🖼️"
   },
   {
-    "A1": "picture",
-    "B1": "🖼️"
+    "keyword": "ဖိုဟ်ကျာ",
+    "emoji": "🎈"
   },
   {
-    "A1": "ဖိုဟ်ကျာ",
-    "B1": "🎈"
+    "keyword": "ခ္ဍံံကျာ်ဓါတ်",
+    "emoji": "🎈"
   },
   {
-    "A1": "ခ္ဍံံကျာ်ဓါတ်",
-    "B1": "🎈"
+    "keyword": "ဗဝ်ဓါတ်",
+    "emoji": "🎈"
   },
   {
-    "A1": "ဗဝ်ဓါတ်",
-    "B1": "🎈"
+    "keyword": "ပူဖောင်း",
+    "emoji": "🎈"
   },
   {
-    "A1": "ပူဖောင်း",
-    "B1": "🎈"
+    "keyword": "ลูกโป่ง",
+    "emoji": "🎈"
   },
   {
-    "A1": "ลูกโป่ง",
-    "B1": "🎈"
+    "keyword": "balloon",
+    "emoji": "🎈"
   },
   {
-    "A1": "balloon",
-    "B1": "🎈"
+    "keyword": "ဇုက်ပ္ကဴ",
+    "emoji": "🎀"
   },
   {
-    "A1": "ဇုက်ပ္ကဴ",
-    "B1": "🎀"
+    "keyword": "ဖဲကြိုး",
+    "emoji": "🎀"
   },
   {
-    "A1": "ဖဲကြိုး",
-    "B1": "🎀"
+    "keyword": "ริบบิ้น",
+    "emoji": "🎀"
   },
   {
-    "A1": "ริบบิ้น",
-    "B1": "🎀"
+    "keyword": "ribbon",
+    "emoji": "🎀"
   },
   {
-    "A1": "ribbon",
-    "B1": "🎀"
+    "keyword": "လေံဓလုမတ်",
+    "emoji": "🪄"
   },
   {
-    "A1": "လေံဓလုမတ်",
-    "B1": "🪄"
+    "keyword": "ဒုတ်ဒြဟတ်",
+    "emoji": "🪄"
   },
   {
-    "A1": "ဒုတ်ဒြဟတ်",
-    "B1": "🪄"
+    "keyword": "မှော်တုတ်",
+    "emoji": "🪄"
   },
   {
-    "A1": "မှော်တုတ်",
-    "B1": "🪄"
+    "keyword": "ไม้กายสิทธิ์",
+    "emoji": "🪄"
   },
   {
-    "A1": "ไม้กายสิทธิ์",
-    "B1": "🪄"
+    "keyword": "magic wand",
+    "emoji": "🪄"
   },
   {
-    "A1": "magic wand",
-    "B1": "🪄"
+    "keyword": "ဆီ",
+    "emoji": "🩸"
   },
   {
-    "A1": "ဆီ",
-    "B1": "🩸"
+    "keyword": "သွေး",
+    "emoji": "🩸"
   },
   {
-    "A1": "သွေး",
-    "B1": "🩸"
+    "keyword": "เลือด",
+    "emoji": "🩸"
   },
   {
-    "A1": "เลือด",
-    "B1": "🩸"
+    "keyword": "blood",
+    "emoji": "🩸"
   },
   {
-    "A1": "blood",
-    "B1": "🩸"
+    "keyword": "ပလာသတာ",
+    "emoji": "🩹"
   },
   {
-    "A1": "ပလာသတာ",
-    "B1": "🩹"
+    "keyword": "ပလာစတာ",
+    "emoji": "🩹"
   },
   {
-    "A1": "ပလာစတာ",
-    "B1": "🩹"
+    "keyword": "พลาสเตอร์",
+    "emoji": "🩹"
   },
   {
-    "A1": "พลาสเตอร์",
-    "B1": "🩹"
+    "keyword": "bandage",
+    "emoji": "🩹"
   },
   {
-    "A1": "bandage",
-    "B1": "🩹"
+    "keyword": "ကိရိယာကလင်ရမျာင်",
+    "emoji": "🩺"
   },
   {
-    "A1": "ကိရိယာကလင်ရမျာင်",
-    "B1": "🩺"
+    "keyword": "နားကြပ်",
+    "emoji": "🩺"
   },
   {
-    "A1": "နားကြပ်",
-    "B1": "🩺"
+    "keyword": "หูฟังแพทย์",
+    "emoji": "🩺"
   },
   {
-    "A1": "หูฟังแพทย์",
-    "B1": "🩺"
+    "keyword": "stethoscope",
+    "emoji": "🩺"
   },
   {
-    "A1": "stethoscope",
-    "B1": "🩺"
+    "keyword": "ဍဳအေန်အေ",
+    "emoji": "🧬"
   },
   {
-    "A1": "ဍဳအေန်အေ",
-    "B1": "🧬"
+    "keyword": "ဒီအန်အေ",
+    "emoji": "🧬"
   },
   {
-    "A1": "ဒီအန်အေ",
-    "B1": "🧬"
+    "keyword": "ดีเอ็นเอ",
+    "emoji": "🧬"
   },
   {
-    "A1": "ดีเอ็นเอ",
-    "B1": "🧬"
+    "keyword": "dna",
+    "emoji": "🧬"
   },
   {
-    "A1": "dna",
-    "B1": "🧬"
+    "keyword": "တ္ၚဲစန်",
+    "emoji": "📅"
   },
   {
-    "A1": "တ္ၚဲစန်",
-    "B1": "📅"
+    "keyword": "တနင်္လာနေ့",
+    "emoji": "📅"
   },
   {
-    "A1": "တနင်္လာနေ့",
-    "B1": "📅"
+    "keyword": "วันจันทร์",
+    "emoji": "📅"
   },
   {
-    "A1": "วันจันทร์",
-    "B1": "📅"
+    "keyword": "monday",
+    "emoji": "📅"
   },
   {
-    "A1": "monday",
-    "B1": "📅"
+    "keyword": "တ္ၚဲအၚာ",
+    "emoji": "📅"
   },
   {
-    "A1": "တ္ၚဲအၚာ",
-    "B1": "📅"
+    "keyword": "အင်္ဂါနေ့",
+    "emoji": "📅"
   },
   {
-    "A1": "အင်္ဂါနေ့",
-    "B1": "📅"
+    "keyword": "วันอังคาร",
+    "emoji": "📅"
   },
   {
-    "A1": "วันอังคาร",
-    "B1": "📅"
+    "keyword": "tuesday",
+    "emoji": "📅"
   },
   {
-    "A1": "tuesday",
-    "B1": "📅"
+    "keyword": "တ္ၚဲဗုဒ္ဓဝါ",
+    "emoji": "📅"
   },
   {
-    "A1": "တ္ၚဲဗုဒ္ဓဝါ",
-    "B1": "📅"
+    "keyword": "ဗုဒ္ဓဟူးနေ့",
+    "emoji": "📅"
   },
   {
-    "A1": "ဗုဒ္ဓဟူးနေ့",
-    "B1": "📅"
+    "keyword": "วันพุธ",
+    "emoji": "📅"
   },
   {
-    "A1": "วันพุธ",
-    "B1": "📅"
+    "keyword": "wednesday",
+    "emoji": "📅"
   },
   {
-    "A1": "wednesday",
-    "B1": "📅"
+    "keyword": "တ္ၚဲဗြဴဗတိ",
+    "emoji": "📅"
   },
   {
-    "A1": "တ္ၚဲဗြဴဗတိ",
-    "B1": "📅"
+    "keyword": "ကြာသပတေးနေ့",
+    "emoji": "📅"
   },
   {
-    "A1": "ကြာသပတေးနေ့",
-    "B1": "📅"
+    "keyword": "วันพฤหัสบดี",
+    "emoji": "📅"
   },
   {
-    "A1": "วันพฤหัสบดี",
-    "B1": "📅"
+    "keyword": "thursday",
+    "emoji": "📅"
   },
   {
-    "A1": "thursday",
-    "B1": "📅"
+    "keyword": "တ္ၚဲသိုက်",
+    "emoji": "📅"
   },
   {
-    "A1": "တ္ၚဲသိုက်",
-    "B1": "📅"
+    "keyword": "သောကြာနေ့",
+    "emoji": "📅"
   },
   {
-    "A1": "သောကြာနေ့",
-    "B1": "📅"
+    "keyword": "วันศุกร์",
+    "emoji": "📅"
   },
   {
-    "A1": "วันศุกร์",
-    "B1": "📅"
+    "keyword": "friday",
+    "emoji": "📅"
   },
   {
-    "A1": "friday",
-    "B1": "📅"
+    "keyword": "တ္ၚဲသ္ၚိသဝ်",
+    "emoji": "📅"
   },
   {
-    "A1": "တ္ၚဲသ္ၚိသဝ်",
-    "B1": "📅"
+    "keyword": "စနေနေ့",
+    "emoji": "📅"
   },
   {
-    "A1": "စနေနေ့",
-    "B1": "📅"
+    "keyword": "วันเสาร์",
+    "emoji": "📅"
   },
   {
-    "A1": "วันเสาร์",
-    "B1": "📅"
+    "keyword": "saturday",
+    "emoji": "📅"
   },
   {
-    "A1": "saturday",
-    "B1": "📅"
+    "keyword": "တ္ၚဲအဒိုတ်",
+    "emoji": "📅"
   },
   {
-    "A1": "တ္ၚဲအဒိုတ်",
-    "B1": "📅"
+    "keyword": "တနင်္ဂနွေနေ့",
+    "emoji": "📅"
   },
   {
-    "A1": "တနင်္ဂနွေနေ့",
-    "B1": "📅"
+    "keyword": "วันอาทิตย์",
+    "emoji": "📅"
   },
   {
-    "A1": "วันอาทิตย์",
-    "B1": "📅"
+    "keyword": "sunday",
+    "emoji": "📅"
   },
   {
-    "A1": "sunday",
-    "B1": "📅"
+    "keyword": "နာဍဳတဲ",
+    "emoji": "⌚"
   },
   {
-    "A1": "နာဍဳတဲ",
-    "B1": "⌚"
+    "keyword": "လက်ပတ်နာရီ",
+    "emoji": "⌚"
   },
   {
-    "A1": "လက်ပတ်နာရီ",
-    "B1": "⌚"
+    "keyword": "นาฬิกาข้อมือ",
+    "emoji": "⌚"
   },
   {
-    "A1": "นาฬิกาข้อมือ",
-    "B1": "⌚"
+    "keyword": "watch",
+    "emoji": "⌚"
   },
   {
-    "A1": "watch",
-    "B1": "⌚"
+    "keyword": "နာဍဳကရေဲ",
+    "emoji": "⏰"
   },
   {
-    "A1": "နာဍဳကရေဲ",
-    "B1": "⏰"
+    "keyword": "နှိုးစက်နာရီ",
+    "emoji": "⏰"
   },
   {
-    "A1": "နှိုးစက်နာရီ",
-    "B1": "⏰"
+    "keyword": "นาฬิกาปลุก",
+    "emoji": "⏰"
   },
   {
-    "A1": "นาฬิกาปลุก",
-    "B1": "⏰"
+    "keyword": "alarm",
+    "emoji": "⏰"
   },
   {
-    "A1": "alarm",
-    "B1": "⏰"
+    "keyword": "နာဍဳဗ္တဳ",
+    "emoji": "⏳"
   },
   {
-    "A1": "နာဍဳဗ္တဳ",
-    "B1": "⏳"
+    "keyword": "သဲနာရီ",
+    "emoji": "⏳"
   },
   {
-    "A1": "သဲနာရီ",
-    "B1": "⏳"
+    "keyword": "นาฬิกาทราย",
+    "emoji": "⏳"
   },
   {
-    "A1": "นาฬิกาทราย",
-    "B1": "⏳"
+    "keyword": "hourglass",
+    "emoji": "⏳"
   },
   {
-    "A1": "hourglass",
-    "B1": "⏳"
+    "keyword": "ပြက္ခဒိန်",
+    "emoji": "📆"
   },
   {
-    "A1": "ပြက္ခဒိန်",
-    "B1": "📆"
+    "keyword": "ကြက္ကဒိန်",
+    "emoji": "📆"
   },
   {
-    "A1": "ကြက္ကဒိန်",
-    "B1": "📆"
+    "keyword": "ปฏิทิน",
+    "emoji": "📆"
   },
   {
-    "A1": "ปฏิทิน",
-    "B1": "📆"
+    "keyword": "calendar",
+    "emoji": "📆"
   },
   {
-    "A1": "calendar",
-    "B1": "📆"
+    "keyword": "သၞာံ",
+    "emoji": "🗓️"
   },
   {
-    "A1": "သၞာံ",
-    "B1": "🗓️"
+    "keyword": "နှစ်",
+    "emoji": "🗓️"
   },
   {
-    "A1": "နှစ်",
-    "B1": "🗓️"
+    "keyword": "ปี",
+    "emoji": "🗓️"
   },
   {
-    "A1": "ปี",
-    "B1": "🗓️"
+    "keyword": "year",
+    "emoji": "🗓️"
   },
   {
-    "A1": "year",
-    "B1": "🗓️"
+    "keyword": "เดือน",
+    "emoji": "🗓️"
   },
   {
-    "A1": "เดือน",
-    "B1": "🗓️"
+    "keyword": "month",
+    "emoji": "🗓️"
   },
   {
-    "A1": "month",
-    "B1": "🗓️"
+    "keyword": "ဂယး",
+    "emoji": "🌅"
   },
   {
-    "A1": "ဂယး",
-    "B1": "🌅"
+    "keyword": "မနက်",
+    "emoji": "🌅"
   },
   {
-    "A1": "မနက်",
-    "B1": "🌅"
+    "keyword": "เช้า",
+    "emoji": "🌅"
   },
   {
-    "A1": "เช้า",
-    "B1": "🌅"
+    "keyword": "morning",
+    "emoji": "🌅"
   },
   {
-    "A1": "morning",
-    "B1": "🌅"
+    "keyword": "လဒေါဝ်တ္ၚဲ",
+    "emoji": "🌤️"
   },
   {
-    "A1": "လဒေါဝ်တ္ၚဲ",
-    "B1": "🌤️"
+    "keyword": "နေ့လည်",
+    "emoji": "🌤️"
   },
   {
-    "A1": "နေ့လည်",
-    "B1": "🌤️"
+    "keyword": "บ่าย",
+    "emoji": "🌤️"
   },
   {
-    "A1": "บ่าย",
-    "B1": "🌤️"
+    "keyword": "afternoon",
+    "emoji": "🌤️"
   },
   {
-    "A1": "afternoon",
-    "B1": "🌤️"
+    "keyword": "သဝ်တ္ၚဲ",
+    "emoji": "🌆"
   },
   {
-    "A1": "သဝ်တ္ၚဲ",
-    "B1": "🌆"
+    "keyword": "ညနေ",
+    "emoji": "🌆"
   },
   {
-    "A1": "ညနေ",
-    "B1": "🌆"
+    "keyword": "เย็น",
+    "emoji": "🌆"
   },
   {
-    "A1": "เย็น",
-    "B1": "🌆"
+    "keyword": "evening",
+    "emoji": "🌆"
   },
   {
-    "A1": "evening",
-    "B1": "🌆"
+    "keyword": "ဗ္တံ",
+    "emoji": "🌃"
   },
   {
-    "A1": "ဗ္တံ",
-    "B1": "🌃"
+    "keyword": "ဗတံ",
+    "emoji": "🌃"
   },
   {
-    "A1": "ဗတံ",
-    "B1": "🌃"
+    "keyword": "ည",
+    "emoji": "🌃"
   },
   {
-    "A1": "ည",
-    "B1": "🌃"
+    "keyword": "กลางคืน",
+    "emoji": "🌃"
   },
   {
-    "A1": "กลางคืน",
-    "B1": "🌃"
+    "keyword": "ကၠံ",
+    "emoji": "💯"
   },
   {
-    "A1": "ကၠံ",
-    "B1": "💯"
+    "keyword": "ရာ",
+    "emoji": "💯"
   },
   {
-    "A1": "ရာ",
-    "B1": "💯"
+    "keyword": "ร้อย",
+    "emoji": "💯"
   },
   {
-    "A1": "ร้อย",
-    "B1": "💯"
+    "keyword": "hundred",
+    "emoji": "💯"
   },
   {
-    "A1": "hundred",
-    "B1": "💯"
+    "keyword": "ပံင်",
+    "emoji": "➕"
   },
   {
-    "A1": "ပံင်",
-    "B1": "➕"
+    "keyword": "အပေါင်း",
+    "emoji": "➕"
   },
   {
-    "A1": "အပေါင်း",
-    "B1": "➕"
+    "keyword": "บวก",
+    "emoji": "➕"
   },
   {
-    "A1": "บวก",
-    "B1": "➕"
+    "keyword": "plus",
+    "emoji": "➕"
   },
   {
-    "A1": "plus",
-    "B1": "➕"
+    "keyword": "နုတ်",
+    "emoji": "➖"
   },
   {
-    "A1": "နုတ်",
-    "B1": "➖"
+    "keyword": "အနုတ်",
+    "emoji": "➖"
   },
   {
-    "A1": "အနုတ်",
-    "B1": "➖"
+    "keyword": "ลบ",
+    "emoji": "➖"
   },
   {
-    "A1": "ลบ",
-    "B1": "➖"
+    "keyword": "minus",
+    "emoji": "➖"
   },
   {
-    "A1": "minus",
-    "B1": "➖"
+    "keyword": "ပၟဝ်",
+    "emoji": "✖️"
   },
   {
-    "A1": "ပၟဝ်",
-    "B1": "✖️"
+    "keyword": "အမြှောက်",
+    "emoji": "✖️"
   },
   {
-    "A1": "အမြှောက်",
-    "B1": "✖️"
+    "keyword": "คูณ",
+    "emoji": "✖️"
   },
   {
-    "A1": "คูณ",
-    "B1": "✖️"
+    "keyword": "multiply",
+    "emoji": "✖️"
   },
   {
-    "A1": "multiply",
-    "B1": "✖️"
+    "keyword": "ပါ်",
+    "emoji": "➗"
   },
   {
-    "A1": "ပါ်",
-    "B1": "➗"
+    "keyword": "အစား",
+    "emoji": "➗"
   },
   {
-    "A1": "အစား",
-    "B1": "➗"
+    "keyword": "หาร",
+    "emoji": "➗"
   },
   {
-    "A1": "หาร",
-    "B1": "➗"
+    "keyword": "divide",
+    "emoji": "➗"
   },
   {
-    "A1": "divide",
-    "B1": "➗"
+    "keyword": "ဒဝ်လာ",
+    "emoji": "💲"
   },
   {
-    "A1": "ဒဝ်လာ",
-    "B1": "💲"
+    "keyword": "ဒေါ်လာ",
+    "emoji": "💲"
   },
   {
-    "A1": "ဒေါ်လာ",
-    "B1": "💲"
+    "keyword": "ดอลลาร์",
+    "emoji": "💲"
   },
   {
-    "A1": "ดอลลาร์",
-    "B1": "💲"
+    "keyword": "dollar",
+    "emoji": "💲"
   },
   {
-    "A1": "dollar",
-    "B1": "💲"
+    "keyword": "ဒေဝတဴ",
+    "emoji": "😇"
   },
   {
-    "A1": "ဒေဝတဴ",
-    "B1": "😇"
+    "keyword": "ကောင်းကင်တမန်",
+    "emoji": "😇"
   },
   {
-    "A1": "ကောင်းကင်တမန်",
-    "B1": "😇"
+    "keyword": "เทวดา",
+    "emoji": "😇"
   },
   {
-    "A1": "เทวดา",
-    "B1": "😇"
+    "keyword": "angel",
+    "emoji": "😇"
   },
   {
-    "A1": "angel",
-    "B1": "😇"
+    "keyword": "ကွးဘာစိုတ်ထတ်",
+    "emoji": "🤓"
   },
   {
-    "A1": "ကွးဘာစိုတ်ထတ်",
-    "B1": "🤓"
+    "keyword": "စာကြမ်းပိုး",
+    "emoji": "🤓"
   },
   {
-    "A1": "စာကြမ်းပိုး",
-    "B1": "🤓"
+    "keyword": "เด็กเรียน",
+    "emoji": "🤓"
   },
   {
-    "A1": "เด็กเรียน",
-    "B1": "🤓"
+    "keyword": "nerd",
+    "emoji": "🤓"
   },
   {
-    "A1": "nerd",
-    "B1": "🤓"
+    "keyword": "ယာတ်ကၟာတ်ပါင်",
+    "emoji": "😷"
   },
   {
-    "A1": "ယာတ်ကၟာတ်ပါင်",
-    "B1": "😷"
+    "keyword": "နှာခေါင်းစည်း",
+    "emoji": "😷"
   },
   {
-    "A1": "နှာခေါင်းစည်း",
-    "B1": "😷"
+    "keyword": "หน้ากาก",
+    "emoji": "😷"
   },
   {
-    "A1": "หน้ากาก",
-    "B1": "😷"
+    "keyword": "mask",
+    "emoji": "😷"
   },
   {
-    "A1": "mask",
-    "B1": "😷"
+    "keyword": "ယဲ",
+    "emoji": "🤢"
   },
   {
-    "A1": "ယဲ",
-    "B1": "🤢"
+    "keyword": "နေမကောင်း",
+    "emoji": "🤢"
   },
   {
-    "A1": "နေမကောင်း",
-    "B1": "🤢"
+    "keyword": "ป่วย",
+    "emoji": "🤢"
   },
   {
-    "A1": "ป่วย",
-    "B1": "🤢"
+    "keyword": "ခဍက်",
+    "emoji": "🤧"
   },
   {
-    "A1": "ခဍက်",
-    "B1": "🤧"
+    "keyword": "နှာချေ",
+    "emoji": "🤧"
   },
   {
-    "A1": "နှာချေ",
-    "B1": "🤧"
+    "keyword": "จาม",
+    "emoji": "🤧"
   },
   {
-    "A1": "จาม",
-    "B1": "🤧"
+    "keyword": "sneeze",
+    "emoji": "🤧"
   },
   {
-    "A1": "sneeze",
-    "B1": "🤧"
+    "keyword": "သၟာဂၠဴ",
+    "emoji": "🤠"
   },
   {
-    "A1": "သၟာဂၠဴ",
-    "B1": "🤠"
+    "keyword": "နွားကျောင်းသား",
+    "emoji": "🤠"
   },
   {
-    "A1": "နွားကျောင်းသား",
-    "B1": "🤠"
+    "keyword": "คาวบอย",
+    "emoji": "🤠"
   },
   {
-    "A1": "คาวบอย",
-    "B1": "🤠"
+    "keyword": "cowboy",
+    "emoji": "🤠"
   },
   {
-    "A1": "cowboy",
-    "B1": "🤠"
+    "keyword": "ကြယ်",
+    "emoji": "⭐"
   },
   {
-    "A1": "ကြယ်",
-    "B1": "⭐"
+    "keyword": "ดาว",
+    "emoji": "⭐"
   },
   {
-    "A1": "ดาว",
-    "B1": "⭐"
+    "keyword": "star",
+    "emoji": "⭐"
   },
   {
-    "A1": "star",
-    "B1": "⭐"
+    "keyword": "သၞံင်",
+    "emoji": "⭐"
   },
   {
-    "A1": "သၞံင်",
-    "B1": "⭐"
+    "keyword": "တိမ်",
+    "emoji": "☁️"
   },
   {
-    "A1": "တိမ်",
-    "B1": "☁️"
+    "keyword": "เมฆ",
+    "emoji": "☁️"
   },
   {
-    "A1": "เมฆ",
-    "B1": "☁️"
+    "keyword": "cloud",
+    "emoji": "☁️"
   },
   {
-    "A1": "cloud",
-    "B1": "☁️"
+    "keyword": "မတ်ဗြဲ",
+    "emoji": "☁️"
   },
   {
-    "A1": "မတ်ဗြဲ",
-    "B1": "☁️"
+    "keyword": "စတော်ဘယ်ရီ",
+    "emoji": "🍓"
   },
   {
-    "A1": "စတော်ဘယ်ရီ",
-    "B1": "🍓"
+    "keyword": "strawberry",
+    "emoji": "🍓"
   },
   {
-    "A1": "strawberry",
-    "B1": "🍓"
+    "keyword": "ဂြိုင်",
+    "emoji": "😀"
   },
   {
-    "A1": "ဂြိုင်",
-    "B1": "😀"
+    "keyword": "ပြုံး",
+    "emoji": "😀"
   },
   {
-    "A1": "ပြုံး",
-    "B1": "😀"
+    "keyword": "ยิ้มกว้าง",
+    "emoji": "😀"
   },
   {
-    "A1": "ยิ้มกว้าง",
-    "B1": "😀"
+    "keyword": "grin",
+    "emoji": "😀"
   },
   {
-    "A1": "grin",
-    "B1": "😀"
+    "keyword": "ဂြိုင်ရမတ်ပြး",
+    "emoji": "😂"
   },
   {
-    "A1": "ဂြိုင်ရမတ်ပြး",
-    "B1": "😂"
+    "keyword": "ရယ်ရလွန်းလို့မျက်ရည်ကျ",
+    "emoji": "😂"
   },
   {
-    "A1": "ရယ်ရလွန်းလို့မျက်ရည်ကျ",
-    "B1": "😂"
+    "keyword": "ขำน้ำตาไหล",
+    "emoji": "😂"
   },
   {
-    "A1": "ขำน้ำตาไหล",
-    "B1": "😂"
+    "keyword": "tears of joy",
+    "emoji": "😂"
   },
   {
-    "A1": "tears of joy",
-    "B1": "😂"
+    "keyword": "က္ဍိုပ်စှ်ေ",
+    "emoji": "🙃"
   },
   {
-    "A1": "က္ဍိုပ်စှ်ေ",
-    "B1": "🙃"
+    "keyword": "ဂတးဂတန်",
+    "emoji": "🙃"
   },
   {
-    "A1": "ဂတးဂတန်",
-    "B1": "🙃"
+    "keyword": "ပြောင်းပြန်",
+    "emoji": "🙃"
   },
   {
-    "A1": "ပြောင်းပြန်",
-    "B1": "🙃"
+    "keyword": "กลับหัว",
+    "emoji": "🙃"
   },
   {
-    "A1": "กลับหัว",
-    "B1": "🙃"
+    "keyword": "upside down",
+    "emoji": "🙃"
   },
   {
-    "A1": "upside down",
-    "B1": "🙃"
+    "keyword": "မတ်ပၠေဲ",
+    "emoji": "😉"
   },
   {
-    "A1": "မတ်ပၠေဲ",
-    "B1": "😉"
+    "keyword": "အေုဲမတ်",
+    "emoji": "😉"
   },
   {
-    "A1": "အေုဲမတ်",
-    "B1": "😉"
+    "keyword": "မျက်စိမှိတ်ပြ",
+    "emoji": "😉"
   },
   {
-    "A1": "မျက်စိမှိတ်ပြ",
-    "B1": "😉"
+    "keyword": "ขยิบตา",
+    "emoji": "😉"
   },
   {
-    "A1": "ขยิบตา",
-    "B1": "😉"
+    "keyword": "wink",
+    "emoji": "😉"
   },
   {
-    "A1": "wink",
-    "B1": "😉"
+    "keyword": "မတ်သ္ဍိုက်",
+    "emoji": "😍"
   },
   {
-    "A1": "မတ်သ္ဍိုက်",
-    "B1": "😍"
+    "keyword": "အချစ်မျက်လုံး",
+    "emoji": "😍"
   },
   {
-    "A1": "အချစ်မျက်လုံး",
-    "B1": "😍"
+    "keyword": "ตารูปหัวใจ",
+    "emoji": "😍"
   },
   {
-    "A1": "ตารูปหัวใจ",
-    "B1": "😍"
+    "keyword": "heart eyes",
+    "emoji": "😍"
   },
   {
-    "A1": "heart eyes",
-    "B1": "😍"
+    "keyword": "ကဵုစုတ်",
+    "emoji": "😘"
   },
   {
-    "A1": "ကဵုစုတ်",
-    "B1": "😘"
+    "keyword": "ကဵုဆုင်",
+    "emoji": "😘"
   },
   {
-    "A1": "ကဵုဆုင်",
-    "B1": "😘"
+    "keyword": "အနမ်းပေး",
+    "emoji": "😘"
   },
   {
-    "A1": "အနမ်းပေး",
-    "B1": "😘"
+    "keyword": "ส่งจูบ",
+    "emoji": "😘"
   },
   {
-    "A1": "ส่งจูบ",
-    "B1": "😘"
+    "keyword": "kiss",
+    "emoji": "😘"
   },
   {
-    "A1": "kiss",
-    "B1": "😘"
+    "keyword": "ရှ်သာခိုဟ်",
+    "emoji": "😋"
   },
   {
-    "A1": "ရှ်သာခိုဟ်",
-    "B1": "😋"
+    "keyword": "အရသာရှိ",
+    "emoji": "😋"
   },
   {
-    "A1": "အရသာရှိ",
-    "B1": "😋"
+    "keyword": "อร่อย",
+    "emoji": "😋"
   },
   {
-    "A1": "อร่อย",
-    "B1": "😋"
+    "keyword": "yummy",
+    "emoji": "😋"
   },
   {
-    "A1": "yummy",
-    "B1": "😋"
+    "keyword": "ဓလဵု",
+    "emoji": "😜"
   },
   {
-    "A1": "ဓလဵု",
-    "B1": "😜"
+    "keyword": "ခလိုန်",
+    "emoji": "😜"
   },
   {
-    "A1": "ခလိုန်",
-    "B1": "😜"
+    "keyword": "ပ္တိတ်လတာ်",
+    "emoji": "😜"
   },
   {
-    "A1": "ပ္တိတ်လတာ်",
-    "B1": "😜"
+    "keyword": "လျှာထုတ်",
+    "emoji": "😜"
   },
   {
-    "A1": "လျှာထုတ်",
-    "B1": "😜"
+    "keyword": "แลบลิ้น",
+    "emoji": "😜"
   },
   {
-    "A1": "แลบลิ้น",
-    "B1": "😜"
+    "keyword": "playful",
+    "emoji": "😜"
   },
   {
-    "A1": "playful",
-    "B1": "😜"
+    "keyword": "ဒွိင်",
+    "emoji": "🤨"
   },
   {
-    "A1": "ဒွိင်",
-    "B1": "🤨"
+    "keyword": "ဂွိင်",
+    "emoji": "🤨"
   },
   {
-    "A1": "ဂွိင်",
-    "B1": "🤨"
+    "keyword": "သၠေဟ်ပၟာ",
+    "emoji": "🤨"
   },
   {
-    "A1": "သၠေဟ်ပၟာ",
-    "B1": "🤨"
+    "keyword": "သံသယ",
+    "emoji": "🤨"
   },
   {
-    "A1": "သံသယ",
-    "B1": "🤨"
+    "keyword": "สงสัย",
+    "emoji": "🤨"
   },
   {
-    "A1": "สงสัย",
-    "B1": "🤨"
+    "keyword": "skeptical",
+    "emoji": "🤨"
   },
   {
-    "A1": "skeptical",
-    "B1": "🤨"
+    "keyword": "စမၠံင်",
+    "emoji": "😎"
   },
   {
-    "A1": "စမၠံင်",
-    "B1": "😎"
+    "keyword": "စှ်ေသၞောတ်",
+    "emoji": "😎"
   },
   {
-    "A1": "စှ်ေသၞောတ်",
-    "B1": "😎"
+    "keyword": "အထာကျ",
+    "emoji": "😎"
   },
   {
-    "A1": "အထာကျ",
-    "B1": "😎"
+    "keyword": "เท่",
+    "emoji": "😎"
   },
   {
-    "A1": "เท่",
-    "B1": "😎"
+    "keyword": "ဝမ်းနည်း",
+    "emoji": "😔"
   },
   {
-    "A1": "ဝမ်းနည်း",
-    "B1": "😔"
+    "keyword": "เศร้า",
+    "emoji": "😔"
   },
   {
-    "A1": "เศร้า",
-    "B1": "😔"
+    "keyword": "က္ဍိုပ်ဂိ",
+    "emoji": "😕"
   },
   {
-    "A1": "က္ဍိုပ်ဂိ",
-    "B1": "😕"
+    "keyword": "ဇဝေဇဝါ",
+    "emoji": "😕"
   },
   {
-    "A1": "ဇဝေဇဝါ",
-    "B1": "😕"
+    "keyword": "สับสน",
+    "emoji": "😕"
   },
   {
-    "A1": "สับสน",
-    "B1": "😕"
+    "keyword": "confused",
+    "emoji": "😕"
   },
   {
-    "A1": "confused",
-    "B1": "😕"
+    "keyword": "ဍောင်",
+    "emoji": "😫"
   },
   {
-    "A1": "ဍောင်",
-    "B1": "😫"
+    "keyword": "ပင်ပန်း",
+    "emoji": "😫"
   },
   {
-    "A1": "ပင်ပန်း",
-    "B1": "😫"
+    "keyword": "เหนื่อย",
+    "emoji": "😫"
   },
   {
-    "A1": "เหนื่อย",
-    "B1": "😫"
+    "keyword": "tired",
+    "emoji": "😫"
   },
   {
-    "A1": "tired",
-    "B1": "😫"
+    "keyword": "ထေဲပၞောတ်",
+    "emoji": "😤"
   },
   {
-    "A1": "ထေဲပၞောတ်",
-    "B1": "😤"
+    "keyword": "ဒေါသထွက်",
+    "emoji": "😤"
   },
   {
-    "A1": "ဒေါသထွက်",
-    "B1": "😤"
+    "keyword": "โมโห",
+    "emoji": "😤"
   },
   {
-    "A1": "โมโห",
-    "B1": "😤"
+    "keyword": "frustrated",
+    "emoji": "😤"
   },
   {
-    "A1": "frustrated",
-    "B1": "😤"
+    "keyword": "ဖေက်",
+    "emoji": "😱"
   },
   {
-    "A1": "ဖေက်",
-    "B1": "😱"
+    "keyword": "လန့်",
+    "emoji": "😱"
   },
   {
-    "A1": "လန့်",
-    "B1": "😱"
+    "keyword": "กลัว",
+    "emoji": "😱"
   },
   {
-    "A1": "กลัว",
-    "B1": "😱"
+    "keyword": "scream",
+    "emoji": "😱"
   },
   {
-    "A1": "scream",
-    "B1": "😱"
+    "keyword": "ဂံက်လောန်",
+    "emoji": "🥶"
   },
   {
-    "A1": "ဂံက်လောန်",
-    "B1": "🥶"
+    "keyword": "အေးခဲ",
+    "emoji": "🥶"
   },
   {
-    "A1": "အေးခဲ",
-    "B1": "🥶"
+    "keyword": "หนาวสั่น",
+    "emoji": "🥶"
   },
   {
-    "A1": "หนาวสั่น",
-    "B1": "🥶"
+    "keyword": "freezing",
+    "emoji": "🥶"
   },
   {
-    "A1": "freezing",
-    "B1": "🥶"
+    "keyword": "ကတဴလောန်",
+    "emoji": "🥵"
   },
   {
-    "A1": "ကတဴလောန်",
-    "B1": "🥵"
+    "keyword": "ပူအိုက်",
+    "emoji": "🥵"
   },
   {
-    "A1": "ပူအိုက်",
-    "B1": "🥵"
+    "keyword": "ร้อน",
+    "emoji": "🥵"
   },
   {
-    "A1": "ร้อน",
-    "B1": "🥵"
+    "keyword": "ချပ်",
+    "emoji": "🤔"
   },
   {
-    "A1": "ချပ်",
-    "B1": "🤔"
+    "keyword": "စဉ်းစား",
+    "emoji": "🤔"
   },
   {
-    "A1": "စဉ်းစား",
-    "B1": "🤔"
+    "keyword": "คิด",
+    "emoji": "🤔"
   },
   {
-    "A1": "คิด",
-    "B1": "🤔"
+    "keyword": "thinking",
+    "emoji": "🤔"
   },
   {
-    "A1": "thinking",
-    "B1": "🤔"
+    "keyword": "လ္ပဟီု",
+    "emoji": "🤫"
   },
   {
-    "A1": "လ္ပဟီု",
-    "B1": "🤫"
+    "keyword": "တိတ်တိတ်နေ",
+    "emoji": "🤫"
   },
   {
-    "A1": "တိတ်တိတ်နေ",
-    "B1": "🤫"
+    "keyword": "เงียบ",
+    "emoji": "🤫"
   },
   {
-    "A1": "เงียบ",
-    "B1": "🤫"
+    "keyword": "shush",
+    "emoji": "🤫"
   },
   {
-    "A1": "shush",
-    "B1": "🤫"
+    "keyword": "ဟအာပ်",
+    "emoji": "🥱"
   },
   {
-    "A1": "ဟအာပ်",
-    "B1": "🥱"
+    "keyword": "ဟာ်",
+    "emoji": "🥱"
   },
   {
-    "A1": "ဟာ်",
-    "B1": "🥱"
+    "keyword": "သမ်း",
+    "emoji": "🥱"
   },
   {
-    "A1": "သမ်း",
-    "B1": "🥱"
+    "keyword": "หาว",
+    "emoji": "🥱"
   },
   {
-    "A1": "หาว",
-    "B1": "🥱"
+    "keyword": "yawn",
+    "emoji": "🥱"
   },
   {
-    "A1": "yawn",
-    "B1": "🥱"
+    "keyword": "ဂကောံသ္ၚိကၟိန်",
+    "emoji": "👪"
   },
   {
-    "A1": "ဂကောံသ္ၚိကၟိန်",
-    "B1": "👪"
+    "keyword": "မိသားစု",
+    "emoji": "👪"
   },
   {
-    "A1": "မိသားစု",
-    "B1": "👪"
+    "keyword": "ครอบครัว",
+    "emoji": "👪"
   },
   {
-    "A1": "ครอบครัว",
-    "B1": "👪"
+    "keyword": "family",
+    "emoji": "👪"
   },
   {
-    "A1": "family",
-    "B1": "👪"
+    "keyword": "ပါ",
+    "emoji": "👨"
   },
   {
-    "A1": "ပါ",
-    "B1": "👨"
+    "keyword": "အဖေ",
+    "emoji": "👨"
   },
   {
-    "A1": "အဖေ",
-    "B1": "👨"
+    "keyword": "พ่อ",
+    "emoji": "👨"
   },
   {
-    "A1": "พ่อ",
-    "B1": "👨"
+    "keyword": "father",
+    "emoji": "👨"
   },
   {
-    "A1": "father",
-    "B1": "👨"
+    "keyword": "အမေ",
+    "emoji": "👩"
   },
   {
-    "A1": "အမေ",
-    "B1": "👩"
+    "keyword": "แม่",
+    "emoji": "👩"
   },
   {
-    "A1": "แม่",
-    "B1": "👩"
+    "keyword": "mother",
+    "emoji": "👩"
   },
   {
-    "A1": "mother",
-    "B1": "👩"
+    "keyword": "ကောန်ဗၠာဲ",
+    "emoji": "👦"
   },
   {
-    "A1": "ကောန်ဗၠာဲ",
-    "B1": "👦"
+    "keyword": "ကောန်တြုံ",
+    "emoji": "👦"
   },
   {
-    "A1": "ကောန်တြုံ",
-    "B1": "👦"
+    "keyword": "ကောန်",
+    "emoji": "👦"
   },
   {
-    "A1": "ကောန်",
-    "B1": "👦"
+    "keyword": "သား",
+    "emoji": "👦"
   },
   {
-    "A1": "သား",
-    "B1": "👦"
+    "keyword": "ลูกชาย",
+    "emoji": "👦"
   },
   {
-    "A1": "ลูกชาย",
-    "B1": "👦"
+    "keyword": "son",
+    "emoji": "👦"
   },
   {
-    "A1": "son",
-    "B1": "👦"
+    "keyword": "ကောန်ဗြဴ",
+    "emoji": "👧"
   },
   {
-    "A1": "ကောန်ဗြဴ",
-    "B1": "👧"
+    "keyword": "ကောန်ဝုတ်",
+    "emoji": "👧"
   },
   {
-    "A1": "ကောန်ဝုတ်",
-    "B1": "👧"
+    "keyword": "သမီး",
+    "emoji": "👧"
   },
   {
-    "A1": "သမီး",
-    "B1": "👧"
+    "keyword": "ลูกสาว",
+    "emoji": "👧"
   },
   {
-    "A1": "ลูกสาว",
-    "B1": "👧"
+    "keyword": "daughter",
+    "emoji": "👧"
   },
   {
-    "A1": "daughter",
-    "B1": "👧"
+    "keyword": "ပါနော်",
+    "emoji": "👴"
   },
   {
-    "A1": "ပါနော်",
-    "B1": "👴"
+    "keyword": "အပါနော်",
+    "emoji": "👴"
   },
   {
-    "A1": "အပါနော်",
-    "B1": "👴"
+    "keyword": "မေနော်",
+    "emoji": "👵"
   },
   {
-    "A1": "မေနော်",
-    "B1": "👵"
+    "keyword": "မေယု",
+    "emoji": "👵"
   },
   {
-    "A1": "မေယု",
-    "B1": "👵"
+    "keyword": "မိနော်",
+    "emoji": "👵"
   },
   {
-    "A1": "မိနော်",
-    "B1": "👵"
+    "keyword": "ညးသၟတ်",
+    "emoji": "👶"
   },
   {
-    "A1": "ညးသၟတ်",
-    "B1": "👶"
+    "keyword": "เด็กทารก",
+    "emoji": "👶"
   },
   {
-    "A1": "เด็กทารก",
-    "B1": "👶"
+    "keyword": "သၟာကမၠောန်",
+    "emoji": "👷"
   },
   {
-    "A1": "သၟာကမၠောန်",
-    "B1": "👷"
+    "keyword": "အလုပ်သမား",
+    "emoji": "👷"
   },
   {
-    "A1": "အလုပ်သမား",
-    "B1": "👷"
+    "keyword": "คนงาน",
+    "emoji": "👷"
   },
   {
-    "A1": "คนงาน",
-    "B1": "👷"
+    "keyword": "worker",
+    "emoji": "👷"
   },
   {
-    "A1": "worker",
-    "B1": "👷"
+    "keyword": "သၟာဗ္ၚ",
+    "emoji": "🧑‍🌾"
   },
   {
-    "A1": "သၟာဗ္ၚ",
-    "B1": "🧑‍🌾"
+    "keyword": "လယ်သမား",
+    "emoji": "🧑‍🌾"
   },
   {
-    "A1": "လယ်သမား",
-    "B1": "🧑‍🌾"
+    "keyword": "ชาวนา",
+    "emoji": "🧑‍🌾"
   },
   {
-    "A1": "ชาวนา",
-    "B1": "🧑‍🌾"
+    "keyword": "farmer",
+    "emoji": "🧑‍🌾"
   },
   {
-    "A1": "farmer",
-    "B1": "🧑‍🌾"
+    "keyword": "အ္စာ",
+    "emoji": "🧑‍🏫"
   },
   {
-    "A1": "အ္စာ",
-    "B1": "🧑‍🏫"
+    "keyword": "အစာ",
+    "emoji": "🧑‍🏫"
   },
   {
-    "A1": "အစာ",
-    "B1": "🧑‍🏫"
+    "keyword": "အာစာ",
+    "emoji": "🧑‍🏫"
   },
   {
-    "A1": "အာစာ",
-    "B1": "🧑‍🏫"
+    "keyword": "ဆရာ",
+    "emoji": "🧑‍🏫"
   },
   {
-    "A1": "ဆရာ",
-    "B1": "🧑‍🏫"
+    "keyword": "ครู",
+    "emoji": "🧑‍🏫"
   },
   {
-    "A1": "ครู",
-    "B1": "🧑‍🏫"
+    "keyword": "teacher",
+    "emoji": "🧑‍🏫"
   },
   {
-    "A1": "teacher",
-    "B1": "🧑‍🏫"
+    "keyword": "ပလိတ်",
+    "emoji": "👮"
   },
   {
-    "A1": "ပလိတ်",
-    "B1": "👮"
+    "keyword": "ပလုက်",
+    "emoji": "👮"
   },
   {
-    "A1": "ပလုက်",
-    "B1": "👮"
+    "keyword": "သရာဲမင်မွဲ",
+    "emoji": "👮"
   },
   {
-    "A1": "သရာဲမင်မွဲ",
-    "B1": "👮"
+    "keyword": "ရဲ",
+    "emoji": "👮"
   },
   {
-    "A1": "ရဲ",
-    "B1": "👮"
+    "keyword": "ตำรวจ",
+    "emoji": "👮"
   },
   {
-    "A1": "ตำรวจ",
-    "B1": "👮"
+    "keyword": "police",
+    "emoji": "👮"
   },
   {
-    "A1": "police",
-    "B1": "👮"
+    "keyword": "သၟာလှ်ေ",
+    "emoji": "💃"
   },
   {
-    "A1": "သၟာလှ်ေ",
-    "B1": "💃"
+    "keyword": "ကချေသည်",
+    "emoji": "💃"
   },
   {
-    "A1": "ကချေသည်",
-    "B1": "💃"
+    "keyword": "นักเต้น",
+    "emoji": "💃"
   },
   {
-    "A1": "นักเต้น",
-    "B1": "💃"
+    "keyword": "dancer",
+    "emoji": "💃"
   },
   {
-    "A1": "dancer",
-    "B1": "💃"
+    "keyword": "ကွဳပၟတ်",
+    "emoji": "🚆"
   },
   {
-    "A1": "ကွဳပၟတ်",
-    "B1": "🚆"
+    "keyword": "ရထား",
+    "emoji": "🚆"
   },
   {
-    "A1": "ရထား",
-    "B1": "🚆"
+    "keyword": "รถไฟ",
+    "emoji": "🚆"
   },
   {
-    "A1": "รถไฟ",
-    "B1": "🚆"
+    "keyword": "train",
+    "emoji": "🚆"
   },
   {
-    "A1": "train",
-    "B1": "🚆"
+    "keyword": "က္ၜင်",
+    "emoji": "🚢"
   },
   {
-    "A1": "က္ၜင်",
-    "B1": "🚢"
+    "keyword": "သင်္ဘော",
+    "emoji": "🚢"
   },
   {
-    "A1": "သင်္ဘော",
-    "B1": "🚢"
+    "keyword": "ship",
+    "emoji": "🚢"
   },
   {
-    "A1": "ship",
-    "B1": "🚢"
+    "keyword": "ဒၞာဲဒီု",
+    "emoji": "🏨"
   },
   {
-    "A1": "ဒၞာဲဒီု",
-    "B1": "🏨"
+    "keyword": "ဒၞာဲဲဇူ",
+    "emoji": "🏨"
   },
   {
-    "A1": "ဒၞာဲဲဇူ",
-    "B1": "🏨"
+    "keyword": "ဟိုတေဝ်",
+    "emoji": "🏨"
   },
   {
-    "A1": "ဟိုတေဝ်",
-    "B1": "🏨"
+    "keyword": "ဟိုတယ်",
+    "emoji": "🏨"
   },
   {
-    "A1": "ဟိုတယ်",
-    "B1": "🏨"
+    "keyword": "โรงแรม",
+    "emoji": "🏨"
   },
   {
-    "A1": "โรงแรม",
-    "B1": "🏨"
+    "keyword": "hotel",
+    "emoji": "🏨"
   },
   {
-    "A1": "hotel",
-    "B1": "🏨"
+    "keyword": "တာဲ",
+    "emoji": "⛺"
   },
   {
-    "A1": "တာဲ",
-    "B1": "⛺"
+    "keyword": "เต็นท์",
+    "emoji": "⛺"
   },
   {
-    "A1": "เต็นท์",
-    "B1": "⛺"
+    "keyword": "tent",
+    "emoji": "⛺"
   },
   {
-    "A1": "tent",
-    "B1": "⛺"
+    "keyword": "တကအ်",
+    "emoji": "🏝️"
   },
   {
-    "A1": "တကအ်",
-    "B1": "🏝️"
+    "keyword": "တ္ကံ",
+    "emoji": "🏝️"
   },
   {
-    "A1": "တ္ကံ",
-    "B1": "🏝️"
+    "keyword": "ကျွန်း",
+    "emoji": "🏝️"
   },
   {
-    "A1": "ကျွန်း",
-    "B1": "🏝️"
+    "keyword": "เกาะ",
+    "emoji": "🏝️"
   },
   {
-    "A1": "เกาะ",
-    "B1": "🏝️"
+    "keyword": "island",
+    "emoji": "🏝️"
   },
   {
-    "A1": "island",
-    "B1": "🏝️"
+    "keyword": "ပြင်ၜဳ",
+    "emoji": "🏖️"
   },
   {
-    "A1": "ပြင်ၜဳ",
-    "B1": "🏖️"
+    "keyword": "ကမ်းခြေ",
+    "emoji": "🏖️"
   },
   {
-    "A1": "ကမ်းခြေ",
-    "B1": "🏖️"
+    "keyword": "ชายหาด",
+    "emoji": "🏖️"
   },
   {
-    "A1": "ชายหาด",
-    "B1": "🏖️"
+    "keyword": "beach",
+    "emoji": "🏖️"
   },
   {
-    "A1": "beach",
-    "B1": "🏖️"
+    "keyword": "လိက်စၟတ်",
+    "emoji": "🎫"
   },
   {
-    "A1": "လိက်စၟတ်",
-    "B1": "🎫"
+    "keyword": "လက်မှတ်",
+    "emoji": "🎫"
   },
   {
-    "A1": "လက်မှတ်",
-    "B1": "🎫"
+    "keyword": "ตั๋ว",
+    "emoji": "🎫"
   },
   {
-    "A1": "ตั๋ว",
-    "B1": "🎫"
+    "keyword": "ticket",
+    "emoji": "🎫"
   },
   {
-    "A1": "ticket",
-    "B1": "🎫"
+    "keyword": "ထိုင်ယိုက်",
+    "emoji": "🧳"
   },
   {
-    "A1": "ထိုင်ယိုက်",
-    "B1": "🧳"
+    "keyword": "ခရီးဆောင်အိတ်",
+    "emoji": "🧳"
   },
   {
-    "A1": "ခရီးဆောင်အိတ်",
-    "B1": "🧳"
+    "keyword": "กระเป๋าเดินทาง",
+    "emoji": "🧳"
   },
   {
-    "A1": "กระเป๋าเดินทาง",
-    "B1": "🧳"
+    "keyword": "luggage",
+    "emoji": "🧳"
   },
   {
-    "A1": "luggage",
-    "B1": "🧳"
+    "keyword": "က္ၜင်ကျာရဟတ်",
+    "emoji": "🚁"
   },
   {
-    "A1": "က္ၜင်ကျာရဟတ်",
-    "B1": "🚁"
+    "keyword": "ရဟတ်ယာဉ်",
+    "emoji": "🚁"
   },
   {
-    "A1": "ရဟတ်ယာဉ်",
-    "B1": "🚁"
+    "keyword": "เฮลิคอปเตอร์",
+    "emoji": "🚁"
   },
   {
-    "A1": "เฮลิคอปเตอร์",
-    "B1": "🚁"
+    "keyword": "helicopter",
+    "emoji": "🚁"
   },
   {
-    "A1": "helicopter",
-    "B1": "🚁"
+    "keyword": "ကာလိင်",
+    "emoji": "🚕"
   },
   {
-    "A1": "ကာလိင်",
-    "B1": "🚕"
+    "keyword": "ကွဳဳစက်လိင်",
+    "emoji": "🚕"
   },
   {
-    "A1": "ကွဳဳစက်လိင်",
-    "B1": "🚕"
+    "keyword": "တက္ကသဳ",
+    "emoji": "🚕"
   },
   {
-    "A1": "တက္ကသဳ",
-    "B1": "🚕"
+    "keyword": "အငှားကား",
+    "emoji": "🚕"
   },
   {
-    "A1": "အငှားကား",
-    "B1": "🚕"
+    "keyword": "แท็กซี่",
+    "emoji": "🚕"
   },
   {
-    "A1": "แท็กซี่",
-    "B1": "🚕"
+    "keyword": "taxi",
+    "emoji": "🚕"
   },
   {
-    "A1": "taxi",
-    "B1": "🚕"
+    "keyword": "ရုင်ကွဳစက်ပၟတ်",
+    "emoji": "🚉"
   },
   {
-    "A1": "ရုင်ကွဳစက်ပၟတ်",
-    "B1": "🚉"
+    "keyword": "ဘူတာ",
+    "emoji": "🚉"
   },
   {
-    "A1": "ဘူတာ",
-    "B1": "🚉"
+    "keyword": "ဘူတာရုံ",
+    "emoji": "🚉"
   },
   {
-    "A1": "ဘူတာရုံ",
-    "B1": "🚉"
+    "keyword": "สถานี",
+    "emoji": "🚉"
   },
   {
-    "A1": "สถานี",
-    "B1": "🚉"
+    "keyword": "station",
+    "emoji": "🚉"
   },
   {
-    "A1": "station",
-    "B1": "🚉"
+    "keyword": "ရုင်ကၠေင်",
+    "emoji": "⛽"
   },
   {
-    "A1": "ရုင်ကၠေင်",
-    "B1": "⛽"
+    "keyword": "ဆီဆိုင်",
+    "emoji": "⛽"
   },
   {
-    "A1": "ဆီဆိုင်",
-    "B1": "⛽"
+    "keyword": "ปั๊มน้ำมัน",
+    "emoji": "⛽"
   },
   {
-    "A1": "ปั๊มน้ำมัน",
-    "B1": "⛽"
+    "keyword": "gas station",
+    "emoji": "⛽"
   },
   {
-    "A1": "gas station",
-    "B1": "⛽"
+    "keyword": "ကဵုသတိ",
+    "emoji": "🚥"
   },
   {
-    "A1": "ကဵုသတိ",
-    "B1": "🚥"
+    "keyword": "ပၟတ်ကဵုသတိ",
+    "emoji": "🚥"
   },
   {
-    "A1": "ပၟတ်ကဵုသတိ",
-    "B1": "🚥"
+    "keyword": "ပၟတ်ဂၠံင်",
+    "emoji": "🚥"
   },
   {
-    "A1": "ပၟတ်ဂၠံင်",
-    "B1": "🚥"
+    "keyword": "မီးပွိုင့်",
+    "emoji": "🚥"
   },
   {
-    "A1": "မီးပွိုင့်",
-    "B1": "🚥"
+    "keyword": "ไฟจราจร",
+    "emoji": "🚥"
   },
   {
-    "A1": "ไฟจราจร",
-    "B1": "🚥"
+    "keyword": "traffic light",
+    "emoji": "🚥"
   },
   {
-    "A1": "traffic light",
-    "B1": "🚥"
+    "keyword": "ဗီုတိ",
+    "emoji": "🗺️"
   },
   {
-    "A1": "ဗီုတိ",
-    "B1": "🗺️"
+    "keyword": "မြေပုံ",
+    "emoji": "🗺️"
   },
   {
-    "A1": "မြေပုံ",
-    "B1": "🗺️"
+    "keyword": "แผนที่",
+    "emoji": "🗺️"
   },
   {
-    "A1": "แผนที่",
-    "B1": "🗺️"
+    "keyword": "တ္ၚဲတိုန်",
+    "emoji": "🌅"
   },
   {
-    "A1": "တ္ၚဲတိုန်",
-    "B1": "🌅"
+    "keyword": "နေထွက်",
+    "emoji": "🌅"
   },
   {
-    "A1": "နေထွက်",
-    "B1": "🌅"
+    "keyword": "พระอาทิตย์ขึ้น",
+    "emoji": "🌅"
   },
   {
-    "A1": "พระอาทิตย์ขึ้น",
-    "B1": "🌅"
+    "keyword": "sunrise",
+    "emoji": "🌅"
   },
   {
-    "A1": "sunrise",
-    "B1": "🌅"
+    "keyword": "တ္ၚဲပၠိုတ်",
+    "emoji": "🌇"
   },
   {
-    "A1": "တ္ၚဲပၠိုတ်",
-    "B1": "🌇"
+    "keyword": "နေဝင်",
+    "emoji": "🌇"
   },
   {
-    "A1": "နေဝင်",
-    "B1": "🌇"
+    "keyword": "พระอาทิตย์ตก",
+    "emoji": "🌇"
   },
   {
-    "A1": "พระอาทิตย์ตก",
-    "B1": "🌇"
+    "keyword": "sunset",
+    "emoji": "🌇"
   },
   {
-    "A1": "sunset",
-    "B1": "🌇"
+    "keyword": "သၠာကျာဝေင်",
+    "emoji": "🎡"
   },
   {
-    "A1": "သၠာကျာဝေင်",
-    "B1": "🎡"
+    "keyword": "ချားရဟတ်",
+    "emoji": "🎡"
   },
   {
-    "A1": "ချားရဟတ်",
-    "B1": "🎡"
+    "keyword": "ชิงช้าสวรรค์",
+    "emoji": "🎡"
   },
   {
-    "A1": "ชิงช้าสวรรค์",
-    "B1": "🎡"
+    "keyword": "ferris wheel",
+    "emoji": "🎡"
   },
   {
-    "A1": "ferris wheel",
-    "B1": "🎡"
+    "keyword": "ရထာဒဵု",
+    "emoji": "🎢"
   },
   {
-    "A1": "ရထာဒဵု",
-    "B1": "🎢"
+    "keyword": "ရိုလာကိုစတာ",
+    "emoji": "🎢"
   },
   {
-    "A1": "ရိုလာကိုစတာ",
-    "B1": "🎢"
+    "keyword": "รถไฟเหาะ",
+    "emoji": "🎢"
   },
   {
-    "A1": "รถไฟเหาะ",
-    "B1": "🎢"
+    "keyword": "တၠသ္ၚိ",
+    "emoji": "👨"
   },
   {
-    "A1": "တၠသ္ၚိ",
-    "B1": "👨"
+    "keyword": "တြုံတၠသ္ၚိ",
+    "emoji": "👨"
   },
   {
-    "A1": "တြုံတၠသ္ၚိ",
-    "B1": "👨"
+    "keyword": "အဓဳ",
+    "emoji": "👨"
   },
   {
-    "A1": "အဓဳ",
-    "B1": "👨"
+    "keyword": "လဓဳ",
+    "emoji": "👨"
   },
   {
-    "A1": "လဓဳ",
-    "B1": "👨"
+    "keyword": "ခင်ပွန်း",
+    "emoji": "👨"
   },
   {
-    "A1": "ခင်ပွန်း",
-    "B1": "👨"
+    "keyword": "สามี",
+    "emoji": "👨"
   },
   {
-    "A1": "สามี",
-    "B1": "👨"
+    "keyword": "husband",
+    "emoji": "👨"
   },
   {
-    "A1": "husband",
-    "B1": "👨"
+    "keyword": "သမ္ဘာ",
+    "emoji": "👩"
   },
   {
-    "A1": "သမ္ဘာ",
-    "B1": "👩"
+    "keyword": "ဗြဲ",
+    "emoji": "👩"
   },
   {
-    "A1": "ဗြဲ",
-    "B1": "👩"
+    "keyword": "မဂဳ",
+    "emoji": "👩"
   },
   {
-    "A1": "မဂဳ",
-    "B1": "👩"
+    "keyword": "ဇနီး",
+    "emoji": "👩"
   },
   {
-    "A1": "ဇနီး",
-    "B1": "👩"
+    "keyword": "ภรรยา",
+    "emoji": "👩"
   },
   {
-    "A1": "ภรรยา",
-    "B1": "👩"
+    "keyword": "wife",
+    "emoji": "👩"
   },
   {
-    "A1": "wife",
-    "B1": "👩"
+    "keyword": "ကော",
+    "emoji": "👦"
   },
   {
-    "A1": "ကော",
-    "B1": "👦"
+    "keyword": "ကေဇၞော်",
+    "emoji": "👦"
   },
   {
-    "A1": "ကေဇၞော်",
-    "B1": "👦"
+    "keyword": "ကေ",
+    "emoji": "👦"
   },
   {
-    "A1": "ကေ",
-    "B1": "👦"
+    "keyword": "အဝဴ",
+    "emoji": "👦"
   },
   {
-    "A1": "အဝဴ",
-    "B1": "👦"
+    "keyword": "အစ်ကို",
+    "emoji": "👦"
   },
   {
-    "A1": "အစ်ကို",
-    "B1": "👦"
+    "keyword": "พี่ชาย",
+    "emoji": "👦"
   },
   {
-    "A1": "พี่ชาย",
-    "B1": "👦"
+    "keyword": "older brother",
+    "emoji": "👦"
   },
   {
-    "A1": "older brother",
-    "B1": "👦"
+    "keyword": "ဒေံတြုံ",
+    "emoji": "👦"
   },
   {
-    "A1": "ဒေံတြုံ",
-    "B1": "👦"
+    "keyword": "ဒေံ",
+    "emoji": "👦"
   },
   {
-    "A1": "ဒေံ",
-    "B1": "👦"
+    "keyword": "ဒေံဍောတ်",
+    "emoji": "👦"
   },
   {
-    "A1": "ဒေံဍောတ်",
-    "B1": "👦"
+    "keyword": "ညီ",
+    "emoji": "👦"
   },
   {
-    "A1": "ညီ",
-    "B1": "👦"
+    "keyword": "น้องชาย",
+    "emoji": "👦"
   },
   {
-    "A1": "น้องชาย",
-    "B1": "👦"
+    "keyword": "younger brother",
+    "emoji": "👦"
   },
   {
-    "A1": "younger brother",
-    "B1": "👦"
+    "keyword": "ၝဲ",
+    "emoji": "👧"
   },
   {
-    "A1": "ၝဲ",
-    "B1": "👧"
+    "keyword": "ၝဲဲဇၞော်",
+    "emoji": "👧"
   },
   {
-    "A1": "ၝဲဲဇၞော်",
-    "B1": "👧"
+    "keyword": "ဣစဳ",
+    "emoji": "👧"
   },
   {
-    "A1": "ဣစဳ",
-    "B1": "👧"
+    "keyword": "အစ်မ",
+    "emoji": "👧"
   },
   {
-    "A1": "အစ်မ",
-    "B1": "👧"
+    "keyword": "พี่สาว",
+    "emoji": "👧"
   },
   {
-    "A1": "พี่สาว",
-    "B1": "👧"
+    "keyword": "older sister",
+    "emoji": "👧"
   },
   {
-    "A1": "older sister",
-    "B1": "👧"
+    "keyword": "ဒေံဗြဴ",
+    "emoji": "👧"
   },
   {
-    "A1": "ဒေံဗြဴ",
-    "B1": "👧"
+    "keyword": "ညီမ",
+    "emoji": "👧"
   },
   {
-    "A1": "ညီမ",
-    "B1": "👧"
+    "keyword": "น้องสาว",
+    "emoji": "👧"
   },
   {
-    "A1": "น้องสาว",
-    "B1": "👧"
+    "keyword": "younger sister",
+    "emoji": "👧"
   },
   {
-    "A1": "younger sister",
-    "B1": "👧"
+    "keyword": "အမူ",
+    "emoji": "👨"
   },
   {
-    "A1": "အမူ",
-    "B1": "👨"
+    "keyword": "အမူဇၞော်",
+    "emoji": "👨"
   },
   {
-    "A1": "အမူဇၞော်",
-    "B1": "👨"
+    "keyword": "အမူဗၠာဲ",
+    "emoji": "👨"
   },
   {
-    "A1": "အမူဗၠာဲ",
-    "B1": "👨"
+    "keyword": "ဦးလေး",
+    "emoji": "👨"
   },
   {
-    "A1": "ဦးလေး",
-    "B1": "👨"
+    "keyword": "ลุง",
+    "emoji": "👨"
   },
   {
-    "A1": "ลุง",
-    "B1": "👨"
+    "keyword": "uncle",
+    "emoji": "👨"
   },
   {
-    "A1": "uncle",
-    "B1": "👨"
+    "keyword": "ဣစဳဳဇၞော်",
+    "emoji": "👩"
   },
   {
-    "A1": "ဣစဳဳဇၞော်",
-    "B1": "👩"
+    "keyword": "အဒေါ်",
+    "emoji": "👩"
   },
   {
-    "A1": "အဒေါ်",
-    "B1": "👩"
+    "keyword": "ป้า",
+    "emoji": "👩"
   },
   {
-    "A1": "ป้า",
-    "B1": "👩"
+    "keyword": "aunt",
+    "emoji": "👩"
   },
   {
-    "A1": "aunt",
-    "B1": "👩"
+    "keyword": "သမ္ဘာကဵုတၠသ္ၚိ",
+    "emoji": "👫"
   },
   {
-    "A1": "သမ္ဘာကဵုတၠသ္ၚိ",
-    "B1": "👫"
+    "keyword": "ဇနီးမောင်နှံ",
+    "emoji": "👫"
   },
   {
-    "A1": "ဇနီးမောင်နှံ",
-    "B1": "👫"
+    "keyword": "คู่รัก",
+    "emoji": "👫"
   },
   {
-    "A1": "คู่รัก",
-    "B1": "👫"
+    "keyword": "couple",
+    "emoji": "👫"
   },
   {
-    "A1": "couple",
-    "B1": "👫"
+    "keyword": "တန်ပဋိိသန္ဓိ",
+    "emoji": "🤰"
   },
   {
-    "A1": "တန်ပဋိိသန္ဓိ",
-    "B1": "🤰"
+    "keyword": "တန်ပဋိသန္ဓေ",
+    "emoji": "🤰"
   },
   {
-    "A1": "တန်ပဋိသန္ဓေ",
-    "B1": "🤰"
+    "keyword": "ကိုယ်ဝန်ဆောင်",
+    "emoji": "🤰"
   },
   {
-    "A1": "ကိုယ်ဝန်ဆောင်",
-    "B1": "🤰"
+    "keyword": "ตั้งครรภ์",
+    "emoji": "🤰"
   },
   {
-    "A1": "ตั้งครรภ์",
-    "B1": "🤰"
+    "keyword": "pregnant",
+    "emoji": "🤰"
   },
   {
-    "A1": "pregnant",
-    "B1": "🤰"
+    "keyword": "ဗှ်",
+    "emoji": "📖"
   },
   {
-    "A1": "ဗှ်",
-    "B1": "📖"
+    "keyword": "ဖတ်",
+    "emoji": "📖"
   },
   {
-    "A1": "ဖတ်",
-    "B1": "📖"
+    "keyword": "อ่าน",
+    "emoji": "📖"
   },
   {
-    "A1": "อ่าน",
-    "B1": "📖"
+    "keyword": "read",
+    "emoji": "📖"
   },
   {
-    "A1": "read",
-    "B1": "📖"
+    "keyword": "book",
+    "emoji": "📖"
   },
   {
-    "A1": "book",
-    "B1": "📖"
+    "keyword": "ချူ",
+    "emoji": "✍️"
   },
   {
-    "A1": "ချူ",
-    "B1": "✍️"
+    "keyword": "ရေး",
+    "emoji": "✍️"
   },
   {
-    "A1": "ရေး",
-    "B1": "✍️"
+    "keyword": "เขียน",
+    "emoji": "✍️"
   },
   {
-    "A1": "เขียน",
-    "B1": "✍️"
+    "keyword": "write",
+    "emoji": "✍️"
   },
   {
-    "A1": "write",
-    "B1": "✍️"
+    "keyword": "note",
+    "emoji": "✍️"
   },
   {
-    "A1": "note",
-    "B1": "✍️"
+    "keyword": "ဒယှ်ေ",
+    "emoji": "🎤"
   },
   {
-    "A1": "ဒယှ်ေ",
-    "B1": "🎤"
+    "keyword": "သီချင်းဆို",
+    "emoji": "🎤"
   },
   {
-    "A1": "သီချင်းဆို",
-    "B1": "🎤"
+    "keyword": "ร้องเพลง",
+    "emoji": "🎤"
   },
   {
-    "A1": "ร้องเพลง",
-    "B1": "🎤"
+    "keyword": "sing",
+    "emoji": "🎤"
   },
   {
-    "A1": "sing",
-    "B1": "🎤"
+    "keyword": "song",
+    "emoji": "🎤"
   },
   {
-    "A1": "song",
-    "B1": "🎤"
+    "keyword": "music",
+    "emoji": "🎤"
   },
   {
-    "A1": "music",
-    "B1": "🎤"
+    "keyword": "ဓာတ်ပုံ",
+    "emoji": "📸"
   },
   {
-    "A1": "ဓာတ်ပုံ",
-    "B1": "📸"
+    "keyword": "ถ่ายรูป",
+    "emoji": "📸"
   },
   {
-    "A1": "ถ่ายรูป",
-    "B1": "📸"
+    "keyword": "photo",
+    "emoji": "📸"
   },
   {
-    "A1": "photo",
-    "B1": "📸"
+    "keyword": "image",
+    "emoji": "📸"
   },
   {
-    "A1": "image",
-    "B1": "📸"
+    "keyword": "ရုပ်",
+    "emoji": "🎨"
   },
   {
-    "A1": "ရုပ်",
-    "B1": "🎨"
+    "keyword": "ပန်းချီ",
+    "emoji": "🎨"
   },
   {
-    "A1": "ပန်းချီ",
-    "B1": "🎨"
+    "keyword": "วาดรูป",
+    "emoji": "🎨"
   },
   {
-    "A1": "วาดรูป",
-    "B1": "🎨"
+    "keyword": "art",
+    "emoji": "🎨"
   },
   {
-    "A1": "art",
-    "B1": "🎨"
+    "keyword": "draw",
+    "emoji": "🎨"
   },
   {
-    "A1": "draw",
-    "B1": "🎨"
+    "keyword": "paint",
+    "emoji": "🎨"
   },
   {
-    "A1": "paint",
-    "B1": "🎨"
+    "keyword": "လိုန်",
+    "emoji": "🚲"
   },
   {
-    "A1": "လိုန်",
-    "B1": "🚲"
+    "keyword": "ကွဳလိုန်",
+    "emoji": "🚲"
   },
   {
-    "A1": "ကွဳလိုန်",
-    "B1": "🚲"
+    "keyword": "စက်ဘီး",
+    "emoji": "🚲"
   },
   {
-    "A1": "စက်ဘီး",
-    "B1": "🚲"
+    "keyword": "จักรยาน",
+    "emoji": "🚲"
   },
   {
-    "A1": "จักรยาน",
-    "B1": "🚲"
+    "keyword": "bike",
+    "emoji": "🚲"
   },
   {
-    "A1": "bike",
-    "B1": "🚲"
+    "keyword": "bicycle",
+    "emoji": "🚲"
   },
   {
-    "A1": "bicycle",
-    "B1": "🚲"
+    "keyword": "ကွဳလိုန်ဓါတ်",
+    "emoji": "🛵"
   },
   {
-    "A1": "ကွဳလိုန်ဓါတ်",
-    "B1": "🛵"
+    "keyword": "ဆိုင်ကယ်",
+    "emoji": "🛵"
   },
   {
-    "A1": "ဆိုင်ကယ်",
-    "B1": "🛵"
+    "keyword": "มอเตอร์ไซค์",
+    "emoji": "🛵"
   },
   {
-    "A1": "มอเตอร์ไซค์",
-    "B1": "🛵"
+    "keyword": "motorcycle",
+    "emoji": "🛵"
   },
   {
-    "A1": "motorcycle",
-    "B1": "🛵"
+    "keyword": "ကာဇၞော်",
+    "emoji": "🚌"
   },
   {
-    "A1": "ကာဇၞော်",
-    "B1": "🚌"
+    "keyword": "ကားကြီး",
+    "emoji": "🚌"
   },
   {
-    "A1": "ကားကြီး",
-    "B1": "🚌"
+    "keyword": "รถบัส",
+    "emoji": "🚌"
   },
   {
-    "A1": "รถบัส",
-    "B1": "🚌"
+    "keyword": "bus",
+    "emoji": "🚌"
   },
   {
-    "A1": "bus",
-    "B1": "🚌"
+    "keyword": "က္ၜင်ကျာ",
+    "emoji": "✈️"
   },
   {
-    "A1": "က္ၜင်ကျာ",
-    "B1": "✈️"
+    "keyword": "လေယာဉ်",
+    "emoji": "✈️"
   },
   {
-    "A1": "လေယာဉ်",
-    "B1": "✈️"
+    "keyword": "เครื่องบิน",
+    "emoji": "✈️"
   },
   {
-    "A1": "เครื่องบิน",
-    "B1": "✈️"
+    "keyword": "plane",
+    "emoji": "✈️"
   },
   {
-    "A1": "plane",
-    "B1": "✈️"
+    "keyword": "flight",
+    "emoji": "✈️"
   },
   {
-    "A1": "flight",
-    "B1": "✈️"
+    "keyword": "အခိင်",
+    "emoji": "⌛"
   },
   {
-    "A1": "အခိင်",
-    "B1": "⌛"
+    "keyword": "အချိန်",
+    "emoji": "⌛"
   },
   {
-    "A1": "အချိန်",
-    "B1": "⌛"
+    "keyword": "เวลา",
+    "emoji": "⌛"
   },
   {
-    "A1": "เวลา",
-    "B1": "⌛"
+    "keyword": "time",
+    "emoji": "⌛"
   },
   {
-    "A1": "time",
-    "B1": "⌛"
+    "keyword": "ဟမတ်",
+    "emoji": "🐜"
   },
   {
-    "A1": "ဟမတ်",
-    "B1": "🐜"
+    "keyword": "သတ်ကြုက်",
+    "emoji": "🥭"
   },
   {
-    "A1": "သတ်ကြုက်",
-    "B1": "🥭"
+    "keyword": "ကြုက်",
+    "emoji": "🥭"
   },
   {
-    "A1": "ကြုက်",
-    "B1": "🥭"
+    "keyword": "သရက်သီး",
+    "emoji": "🥭"
   },
   {
-    "A1": "သရက်သီး",
-    "B1": "🥭"
+    "keyword": "มะม่วง",
+    "emoji": "🥭"
   },
   {
-    "A1": "มะม่วง",
-    "B1": "🥭"
+    "keyword": "mango",
+    "emoji": "🥭"
   },
   {
-    "A1": "mango",
-    "B1": "🥭"
+    "keyword": "သတ်ကၞာတ်",
+    "emoji": "🍍"
   },
   {
-    "A1": "သတ်ကၞာတ်",
-    "B1": "🍍"
+    "keyword": "နာနတ်သီး",
+    "emoji": "🍍"
   },
   {
-    "A1": "နာနတ်သီး",
-    "B1": "🍍"
+    "keyword": "สับปะรด",
+    "emoji": "🍍"
   },
   {
-    "A1": "สับปะรด",
-    "B1": "🍍"
+    "keyword": "pineapple",
+    "emoji": "🍍"
   },
   {
-    "A1": "pineapple",
-    "B1": "🍍"
+    "keyword": "သတ်မုဒြာတ်",
+    "emoji": "🍇"
   },
   {
-    "A1": "သတ်မုဒြာတ်",
-    "B1": "🍇"
+    "keyword": "စပျစ်သီး",
+    "emoji": "🍇"
   },
   {
-    "A1": "စပျစ်သီး",
-    "B1": "🍇"
+    "keyword": "องุ่น",
+    "emoji": "🍇"
   },
   {
-    "A1": "องุ่น",
-    "B1": "🍇"
+    "keyword": "grape",
+    "emoji": "🍇"
   },
   {
-    "A1": "grape",
-    "B1": "🍇"
+    "keyword": "သတ်ဗြဴ",
+    "emoji": "🥥"
   },
   {
-    "A1": "သတ်ဗြဴ",
-    "B1": "🥥"
+    "keyword": "အုန်းသီး",
+    "emoji": "🥥"
   },
   {
-    "A1": "အုန်းသီး",
-    "B1": "🥥"
+    "keyword": "มะพร้าว",
+    "emoji": "🥥"
   },
   {
-    "A1": "มะพร้าว",
-    "B1": "🥥"
+    "keyword": "coconut",
+    "emoji": "🥥"
   },
   {
-    "A1": "coconut",
-    "B1": "🥥"
+    "keyword": "သတ်လိမ္မော",
+    "emoji": "🍊"
   },
   {
-    "A1": "သတ်လိမ္မော",
-    "B1": "🍊"
+    "keyword": "လိမ္မော်သီး",
+    "emoji": "🍊"
   },
   {
-    "A1": "လိမ္မော်သီး",
-    "B1": "🍊"
+    "keyword": "ส้ม",
+    "emoji": "🍊"
   },
   {
-    "A1": "ส้ม",
-    "B1": "🍊"
+    "keyword": "orange",
+    "emoji": "🍊"
   },
   {
-    "A1": "orange",
-    "B1": "🍊"
+    "keyword": "သတ်သတဝ်ဗာရဳ",
+    "emoji": "🍓"
   },
   {
-    "A1": "သတ်သတဝ်ဗာရဳ",
-    "B1": "🍓"
+    "keyword": "สตรอว์เบอร์รี่",
+    "emoji": "🍓"
   },
   {
-    "A1": "สตรอว์เบอร์รี่",
-    "B1": "🍓"
+    "keyword": "သတ်ပၞဴ",
+    "emoji": "🍋"
   },
   {
-    "A1": "သတ်ပၞဴ",
-    "B1": "🍋"
+    "keyword": "ပၞဴ",
+    "emoji": "🍋"
   },
   {
-    "A1": "ပၞဴ",
-    "B1": "🍋"
+    "keyword": "သံပုရာသီး",
+    "emoji": "🍋"
   },
   {
-    "A1": "သံပုရာသီး",
-    "B1": "🍋"
+    "keyword": "มะนาว",
+    "emoji": "🍋"
   },
   {
-    "A1": "มะนาว",
-    "B1": "🍋"
+    "keyword": "lemon",
+    "emoji": "🍋"
   },
   {
-    "A1": "lemon",
-    "B1": "🍋"
+    "keyword": "ထောပတ်သတ်",
+    "emoji": "🥑"
   },
   {
-    "A1": "ထောပတ်သတ်",
-    "B1": "🥑"
+    "keyword": "ထောပတ်သီး",
+    "emoji": "🥑"
   },
   {
-    "A1": "ထောပတ်သီး",
-    "B1": "🥑"
+    "keyword": "อะโวคาโด",
+    "emoji": "🥑"
   },
   {
-    "A1": "อะโวคาโด",
-    "B1": "🥑"
+    "keyword": "avocado",
+    "emoji": "🥑"
   },
   {
-    "A1": "avocado",
-    "B1": "🥑"
+    "keyword": "သြောံဂန်",
+    "emoji": "🌽"
   },
   {
-    "A1": "သြောံဂန်",
-    "B1": "🌽"
+    "keyword": "ပြောင်းဖူး",
+    "emoji": "🌽"
   },
   {
-    "A1": "ပြောင်းဖူး",
-    "B1": "🌽"
+    "keyword": "ข้าวโพด",
+    "emoji": "🌽"
   },
   {
-    "A1": "ข้าวโพด",
-    "B1": "🌽"
+    "keyword": "corn",
+    "emoji": "🌽"
   },
   {
-    "A1": "corn",
-    "B1": "🌽"
+    "keyword": "အာလူ",
+    "emoji": "🥔"
   },
   {
-    "A1": "အာလူ",
-    "B1": "🥔"
+    "keyword": "အာလူး",
+    "emoji": "🥔"
   },
   {
-    "A1": "အာလူး",
-    "B1": "🥔"
+    "keyword": "มันฝรั่ง",
+    "emoji": "🥔"
   },
   {
-    "A1": "มันฝรั่ง",
-    "B1": "🥔"
+    "keyword": "potato",
+    "emoji": "🥔"
   },
   {
-    "A1": "potato",
-    "B1": "🥔"
+    "keyword": "ကာရောတ်",
+    "emoji": "🥕"
   },
   {
-    "A1": "ကာရောတ်",
-    "B1": "🥕"
+    "keyword": "ရာဲ",
+    "emoji": "🥕"
   },
   {
-    "A1": "ရာဲ",
-    "B1": "🥕"
+    "keyword": "သတ်ရာဲ",
+    "emoji": "🥕"
   },
   {
-    "A1": "သတ်ရာဲ",
-    "B1": "🥕"
+    "keyword": "မုန်လာဥနီ",
+    "emoji": "🥕"
   },
   {
-    "A1": "မုန်လာဥနီ",
-    "B1": "🥕"
+    "keyword": "แครอท",
+    "emoji": "🥕"
   },
   {
-    "A1": "แครอท",
-    "B1": "🥕"
+    "keyword": "carrot",
+    "emoji": "🥕"
   },
   {
-    "A1": "carrot",
-    "B1": "🥕"
+    "keyword": "သတ်ခဍောင်",
+    "emoji": "🍆"
   },
   {
-    "A1": "သတ်ခဍောင်",
-    "B1": "🍆"
+    "keyword": "ခဍောင်",
+    "emoji": "🍆"
   },
   {
-    "A1": "ခဍောင်",
-    "B1": "🍆"
+    "keyword": "ခရမ်းသီး",
+    "emoji": "🍆"
   },
   {
-    "A1": "ခရမ်းသီး",
-    "B1": "🍆"
+    "keyword": "มะเขือยาว",
+    "emoji": "🍆"
   },
   {
-    "A1": "มะเขือยาว",
-    "B1": "🍆"
+    "keyword": "eggplant",
+    "emoji": "🍆"
   },
   {
-    "A1": "eggplant",
-    "B1": "🍆"
+    "keyword": "သတ်ခအဳ",
+    "emoji": "🥒"
   },
   {
-    "A1": "သတ်ခအဳ",
-    "B1": "🥒"
+    "keyword": "ခအဳ",
+    "emoji": "🥒"
   },
   {
-    "A1": "ခအဳ",
-    "B1": "🥒"
+    "keyword": "သခွားသီး",
+    "emoji": "🥒"
   },
   {
-    "A1": "သခွားသီး",
-    "B1": "🥒"
+    "keyword": "แตงกวา",
+    "emoji": "🥒"
   },
   {
-    "A1": "แตงกวา",
-    "B1": "🥒"
+    "keyword": "cucumber",
+    "emoji": "🥒"
   },
   {
-    "A1": "cucumber",
-    "B1": "🥒"
+    "keyword": "ဝုန်",
+    "emoji": "🍠"
   },
   {
-    "A1": "ဝုန်",
-    "B1": "🍠"
+    "keyword": "ကန်စွန်းဥ",
+    "emoji": "🍠"
   },
   {
-    "A1": "ကန်စွန်းဥ",
-    "B1": "🍠"
+    "keyword": "มันเทศ",
+    "emoji": "🍠"
   },
   {
-    "A1": "มันเทศ",
-    "B1": "🍠"
+    "keyword": "sweet potato",
+    "emoji": "🍠"
   },
   {
-    "A1": "sweet potato",
-    "B1": "🍠"
+    "keyword": "ခၟာဲစာင်",
+    "emoji": "🥚"
   },
   {
-    "A1": "ခၟာဲစာင်",
-    "B1": "🥚"
+    "keyword": "ခၟာဲ",
+    "emoji": "🥚"
   },
   {
-    "A1": "ခၟာဲ",
-    "B1": "🥚"
+    "keyword": "ဥ",
+    "emoji": "🥚"
   },
   {
-    "A1": "ဥ",
-    "B1": "🥚"
+    "keyword": "ไข่",
+    "emoji": "🥚"
   },
   {
-    "A1": "ไข่",
-    "B1": "🥚"
+    "keyword": "egg",
+    "emoji": "🥚"
   },
   {
-    "A1": "egg",
-    "B1": "🥚"
+    "keyword": "သတ်မြေက်",
+    "emoji": "🌶️"
   },
   {
-    "A1": "သတ်မြေက်",
-    "B1": "🌶️"
+    "keyword": "မြေက်",
+    "emoji": "🌶️"
   },
   {
-    "A1": "မြေက်",
-    "B1": "🌶️"
+    "keyword": "ငရုတ်သီး",
+    "emoji": "🌶️"
   },
   {
-    "A1": "ငရုတ်သီး",
-    "B1": "🌶️"
+    "keyword": "พริก",
+    "emoji": "🌶️"
   },
   {
-    "A1": "พริก",
-    "B1": "🌶️"
+    "keyword": "chili",
+    "emoji": "🌶️"
   },
   {
-    "A1": "chili",
-    "B1": "🌶️"
+    "keyword": "တၞးဆု",
+    "emoji": "🍀"
   },
   {
-    "A1": "တၞးဆု",
-    "B1": "🍀"
+    "keyword": "တၞးကံခိုဟ်",
+    "emoji": "🍀"
   },
   {
-    "A1": "တၞးကံခိုဟ်",
-    "B1": "🍀"
+    "keyword": "ကံကောင်းသောသစ်ရွက်",
+    "emoji": "🍀"
   },
   {
-    "A1": "ကံကောင်းသောသစ်ရွက်",
-    "B1": "🍀"
+    "keyword": "ใบไม้โชคดี",
+    "emoji": "🍀"
   },
   {
-    "A1": "ใบไม้โชคดี",
-    "B1": "🍀"
+    "keyword": "clover",
+    "emoji": "🍀"
   },
   {
-    "A1": "clover",
-    "B1": "🍀"
+    "keyword": "တၞံကၠတ်",
+    "emoji": "🌱"
   },
   {
-    "A1": "တၞံကၠတ်",
-    "B1": "🌱"
+    "keyword": "အပင်ပေါက်",
+    "emoji": "🌱"
   },
   {
-    "A1": "အပင်ပေါက်",
-    "B1": "🌱"
+    "keyword": "ต้นกล้า",
+    "emoji": "🌱"
   },
   {
-    "A1": "ต้นกล้า",
-    "B1": "🌱"
+    "keyword": "seedling",
+    "emoji": "🌱"
   },
   {
-    "A1": "seedling",
-    "B1": "🌱"
+    "keyword": "ပ္ကဴအေဲ",
+    "emoji": "🥀"
   },
   {
-    "A1": "ပ္ကဴအေဲ",
-    "B1": "🥀"
+    "keyword": "ညှိုးနွမ်းသောပန်း",
+    "emoji": "🥀"
   },
   {
-    "A1": "ညှိုးနွမ်းသောပန်း",
-    "B1": "🥀"
+    "keyword": "ดอกไม้เหี่ยว",
+    "emoji": "🥀"
   },
   {
-    "A1": "ดอกไม้เหี่ยว",
-    "B1": "🥀"
+    "keyword": "wilted flower",
+    "emoji": "🥀"
   },
   {
-    "A1": "wilted flower",
-    "B1": "🥀"
+    "keyword": "ပ္ကဴဏှင်ဇဳ",
+    "emoji": "🌹"
   },
   {
-    "A1": "ပ္ကဴဏှင်ဇဳ",
-    "B1": "🌹"
+    "keyword": "နှင်းဆီ",
+    "emoji": "🌹"
   },
   {
-    "A1": "နှင်းဆီ",
-    "B1": "🌹"
+    "keyword": "กุหลาบ",
+    "emoji": "🌹"
   },
   {
-    "A1": "กุหลาบ",
-    "B1": "🌹"
+    "keyword": "မြူ",
+    "emoji": "🌫️"
   },
   {
-    "A1": "မြူ",
-    "B1": "🌫️"
+    "keyword": "หมอก",
+    "emoji": "🌫️"
   },
   {
-    "A1": "หมอก",
-    "B1": "🌫️"
+    "keyword": "fog",
+    "emoji": "🌫️"
   },
   {
-    "A1": "fog",
-    "B1": "🌫️"
+    "keyword": "ကွာင်",
+    "emoji": "🎂"
   },
   {
-    "A1": "ကွာင်",
-    "B1": "🎂"
+    "keyword": "ကိတ်မုန့်",
+    "emoji": "🎂"
   },
   {
-    "A1": "ကိတ်မုန့်",
-    "B1": "🎂"
+    "keyword": "เค้ก",
+    "emoji": "🎂"
   },
   {
-    "A1": "เค้ก",
-    "B1": "🎂"
+    "keyword": "ဍေင်ဍာ်တှ်",
+    "emoji": "🍼"
   },
   {
-    "A1": "ဍေင်ဍာ်တှ်",
-    "B1": "🍼"
+    "keyword": "နို့ဘူး",
+    "emoji": "🍼"
   },
   {
-    "A1": "နို့ဘူး",
-    "B1": "🍼"
+    "keyword": "ขวดนม",
+    "emoji": "🍼"
   },
   {
-    "A1": "ขวดนม",
-    "B1": "🍼"
+    "keyword": "baby bottle",
+    "emoji": "🍼"
   },
   {
-    "A1": "baby bottle",
-    "B1": "🍼"
+    "keyword": "စက်ရမ္သာင်",
+    "emoji": "🎙️"
   },
   {
-    "A1": "စက်ရမ္သာင်",
-    "B1": "🎙️"
+    "keyword": "မိုက်ခရိုဖုန်း",
+    "emoji": "🎙️"
   },
   {
-    "A1": "မိုက်ခရိုဖုန်း",
-    "B1": "🎙️"
+    "keyword": "ไมโครโฟน",
+    "emoji": "🎙️"
   },
   {
-    "A1": "ไมโครโฟน",
-    "B1": "🎙️"
+    "keyword": "microphone",
+    "emoji": "🎙️"
   },
   {
-    "A1": "microphone",
-    "B1": "🎙️"
+    "keyword": "ပၞာင်",
+    "emoji": "🕯️"
   },
   {
-    "A1": "ပၞာင်",
-    "B1": "🕯️"
+    "keyword": "ဖယောင်းတိုင်",
+    "emoji": "🕯️"
   },
   {
-    "A1": "ဖယောင်းတိုင်",
-    "B1": "🕯️"
+    "keyword": "เทียน",
+    "emoji": "🕯️"
   },
   {
-    "A1": "เทียน",
-    "B1": "🕯️"
+    "keyword": "candle",
+    "emoji": "🕯️"
   },
   {
-    "A1": "candle",
-    "B1": "🕯️"
+    "keyword": "မတ်ဗြဲ",
+    "emoji": "☁️"
   },
   {
-    "A1": "မတ်ဗြဲ",
-    "B1": "☁️"
+    "keyword": "တိမ်",
+    "emoji": "☁️"
   },
   {
-    "A1": "တိမ်",
-    "B1": "☁️"
+    "keyword": "เมฆ",
+    "emoji": "☁️"
   },
   {
-    "A1": "เมฆ",
-    "B1": "☁️"
+    "keyword": "cloud",
+    "emoji": "☁️"
   },
   {
-    "A1": "cloud",
-    "B1": "☁️"
+    "keyword": "လတိုပ်",
+    "emoji": "❄️"
   },
   {
-    "A1": "လတိုပ်",
-    "B1": "❄️"
+    "keyword": "နှင်း",
+    "emoji": "❄️"
   },
   {
-    "A1": "နှင်း",
-    "B1": "❄️"
+    "keyword": "หิมะ",
+    "emoji": "❄️"
   },
   {
-    "A1": "หิมะ",
-    "B1": "❄️"
+    "keyword": "snow",
+    "emoji": "❄️"
   },
   {
-    "A1": "snow",
-    "B1": "❄️"
+    "keyword": "ဂၠးတိ",
+    "emoji": "🌍"
   },
   {
-    "A1": "ဂၠးတိ",
-    "B1": "🌍"
+    "keyword": "ကမ္ဘာ",
+    "emoji": "🌍"
   },
   {
-    "A1": "ကမ္ဘာ",
-    "B1": "🌍"
+    "keyword": "โลก",
+    "emoji": "🌍"
   },
   {
-    "A1": "โลก",
-    "B1": "🌍"
+    "keyword": "earth",
+    "emoji": "🌍"
   },
   {
-    "A1": "earth",
-    "B1": "🌍"
+    "keyword": "က္ၜင်ကျာသၞေင်ကွဲ",
+    "emoji": "🚁"
   },
   {
-    "A1": "က္ၜင်ကျာသၞေင်ကွဲ",
-    "B1": "🚁"
+    "keyword": "ရဟတ်ယာဉ်",
+    "emoji": "🚁"
   },
   {
-    "A1": "ရဟတ်ယာဉ်",
-    "B1": "🚁"
+    "keyword": "เฮลิคอปเตอร์",
+    "emoji": "🚁"
   },
   {
-    "A1": "เฮลิคอปเตอร์",
-    "B1": "🚁"
+    "keyword": "helicopter",
+    "emoji": "🚁"
   },
   {
-    "A1": "helicopter",
-    "B1": "🚁"
+    "keyword": "က္ၜင်",
+    "emoji": "🚢"
   },
   {
-    "A1": "က္ၜင်",
-    "B1": "🚢"
+    "keyword": "သင်္ဘော",
+    "emoji": "🚢"
   },
   {
-    "A1": "သင်္ဘော",
-    "B1": "🚢"
+    "keyword": "เรือ",
+    "emoji": "🚢"
   },
   {
-    "A1": "เรือ",
-    "B1": "🚢"
+    "keyword": "ship",
+    "emoji": "🚢"
   },
   {
-    "A1": "ship",
-    "B1": "🚢"
+    "keyword": "ၛာရဳ",
+    "emoji": "🍒"
   },
   {
-    "A1": "ၛာရဳ",
-    "B1": "🍒"
+    "keyword": "ချယ်ရီ",
+    "emoji": "🍒"
   },
   {
-    "A1": "ချယ်ရီ",
-    "B1": "🍒"
+    "keyword": "เชอร์รี่",
+    "emoji": "🍒"
   },
   {
-    "A1": "เชอร์รี่",
-    "B1": "🍒"
+    "keyword": "cherry",
+    "emoji": "🍒"
   },
   {
-    "A1": "cherry",
-    "B1": "🍒"
+    "keyword": "ဍာ်တှ်ဓီု",
+    "emoji": "🧀"
   },
   {
-    "A1": "ဍာ်တှ်ဓီု",
-    "B1": "🧀"
+    "keyword": "ဒိန်ခဲ",
+    "emoji": "🧀"
   },
   {
-    "A1": "ဒိန်ခဲ",
-    "B1": "🧀"
+    "keyword": "ชีส",
+    "emoji": "🧀"
   },
   {
-    "A1": "ชีส",
-    "B1": "🧀"
+    "keyword": "cheese",
+    "emoji": "🧀"
   },
   {
-    "A1": "cheese",
-    "B1": "🧀"
+    "keyword": "ကွာင်ဍာ်ကဠောံ",
+    "emoji": "🍦"
   },
   {
-    "A1": "ကွာင်ဍာ်ကဠောံ",
-    "B1": "🍦"
+    "keyword": "ရေခဲမုန့်",
+    "emoji": "🍦"
   },
   {
-    "A1": "ရေခဲမုန့်",
-    "B1": "🍦"
+    "keyword": "ไอศกรีม",
+    "emoji": "🍦"
   },
   {
-    "A1": "ไอศกรีม",
-    "B1": "🍦"
+    "keyword": "ice cream",
+    "emoji": "🍦"
   },
   {
-    "A1": "ice cream",
-    "B1": "🍦"
+    "keyword": "ချဝ်ကလေတ်",
+    "emoji": "🍫"
   },
   {
-    "A1": "ချဝ်ကလေတ်",
-    "B1": "🍫"
+    "keyword": "ချောကလက်",
+    "emoji": "🍫"
   },
   {
-    "A1": "ချောကလက်",
-    "B1": "🍫"
+    "keyword": "ช็อกโกแลต",
+    "emoji": "🍫"
   },
   {
-    "A1": "ช็อกโกแลต",
-    "B1": "🍫"
+    "keyword": "chocolate",
+    "emoji": "🍫"
   },
   {
-    "A1": "chocolate",
-    "B1": "🍫"
+    "keyword": "ဓမင်သုင်ဍာ်",
+    "emoji": "🌈"
   },
   {
-    "A1": "ဓမင်သုင်ဍာ်",
-    "B1": "🌈"
+    "keyword": "သက်တံ",
+    "emoji": "🌈"
   },
   {
-    "A1": "သက်တံ",
-    "B1": "🌈"
+    "keyword": "รุ้ง",
+    "emoji": "🌈"
   },
   {
-    "A1": "รุ้ง",
-    "B1": "🌈"
+    "keyword": "rainbow",
+    "emoji": "🌈"
   },
   {
-    "A1": "rainbow",
-    "B1": "🌈"
+    "keyword": "သၞံင်",
+    "emoji": "⭐"
   },
   {
-    "A1": "သၞံင်",
-    "B1": "⭐"
+    "keyword": "ကြယ်",
+    "emoji": "⭐"
   },
   {
-    "A1": "ကြယ်",
-    "B1": "⭐"
+    "keyword": "ดาว",
+    "emoji": "⭐"
   },
   {
-    "A1": "ดาว",
-    "B1": "⭐"
+    "keyword": "star",
+    "emoji": "⭐"
   },
   {
-    "A1": "star",
-    "B1": "⭐"
+    "keyword": "ဍာ်",
+    "emoji": "💧"
   },
   {
-    "A1": "ဍာ်",
-    "B1": "💧"
+    "keyword": "ရေ",
+    "emoji": "💧"
   },
   {
-    "A1": "ရေ",
-    "B1": "💧"
+    "keyword": "น้ำ",
+    "emoji": "💧"
   },
   {
-    "A1": "น้ำ",
-    "B1": "💧"
+    "keyword": "water",
+    "emoji": "💧"
   },
   {
-    "A1": "water",
-    "B1": "💧"
+    "keyword": "ကွာင်",
+    "emoji": "🍞"
   },
   {
-    "A1": "ကွာင်",
-    "B1": "🍞"
+    "keyword": "ပေါင်မုန့်",
+    "emoji": "🍞"
   },
   {
-    "A1": "ပေါင်မုန့်",
-    "B1": "🍞"
+    "keyword": "ขนมปัง",
+    "emoji": "🍞"
   },
   {
-    "A1": "ขนมปัง",
-    "B1": "🍞"
+    "keyword": "bread",
+    "emoji": "🍞"
   },
   {
-    "A1": "bread",
-    "B1": "🍞"
+    "keyword": "ဇုတ်",
+    "emoji": "🦴"
   },
   {
-    "A1": "ဇုတ်",
-    "B1": "🦴"
+    "keyword": "အရိုး",
+    "emoji": "🦴"
   },
   {
-    "A1": "အရိုး",
-    "B1": "🦴"
+    "keyword": "กระดูก",
+    "emoji": "🦴"
   },
   {
-    "A1": "กระดูก",
-    "B1": "🦴"
+    "keyword": "bone",
+    "emoji": "🦴"
   },
   {
-    "A1": "bone",
-    "B1": "🦴"
+    "keyword": "ဆီ",
+    "emoji": "🩸"
   },
   {
-    "A1": "ဆီ",
-    "B1": "🩸"
+    "keyword": "သွေး",
+    "emoji": "🩸"
   },
   {
-    "A1": "သွေး",
-    "B1": "🩸"
+    "keyword": "เลือด",
+    "emoji": "🩸"
   },
   {
-    "A1": "เลือด",
-    "B1": "🩸"
+    "keyword": "blood",
+    "emoji": "🩸"
   },
   {
-    "A1": "blood",
-    "B1": "🩸"
+    "keyword": "သၞေဝ်ကေဝ်",
+    "emoji": "🥗"
   },
   {
-    "A1": "သၞေဝ်ကေဝ်",
-    "B1": "🥗"
+    "keyword": "သုပ်",
+    "emoji": "🥗"
   },
   {
-    "A1": "သုပ်",
-    "B1": "🥗"
+    "keyword": "สลัด",
+    "emoji": "🥗"
   },
   {
-    "A1": "สลัด",
-    "B1": "🥗"
+    "keyword": "salad",
+    "emoji": "🥗"
   },
   {
-    "A1": "salad",
-    "B1": "🥗"
+    "keyword": "ခၞံဂၠိင်",
+    "emoji": "🍜"
   },
   {
-    "A1": "ခၞံဂၠိင်",
-    "B1": "🍜"
+    "keyword": "ခေါက်ဆွဲ",
+    "emoji": "🍜"
   },
   {
-    "A1": "ခေါက်ဆွဲ",
-    "B1": "🍜"
+    "keyword": "ก๋วยเตี๋ยว",
+    "emoji": "🍜"
   },
   {
-    "A1": "ก๋วยเตี๋ยว",
-    "B1": "🍜"
+    "keyword": "noodles",
+    "emoji": "🍜"
   },
   {
-    "A1": "noodles",
-    "B1": "🍜"
+    "keyword": "ဖျု​န်ပၠေင်ခၟဴ",
+    "emoji": "🍣"
   },
   {
-    "A1": "ဖျု​န်ပၠေင်ခၟဴ",
-    "B1": "🍣"
+    "keyword": "ဆူရှီ",
+    "emoji": "🍣"
   },
   {
-    "A1": "ဆူရှီ",
-    "B1": "🍣"
+    "keyword": "ซูชิ",
+    "emoji": "🍣"
   },
   {
-    "A1": "ซูชิ",
-    "B1": "🍣"
+    "keyword": "sushi",
+    "emoji": "🍣"
   },
   {
-    "A1": "sushi",
-    "B1": "🍣"
+    "keyword": "ဟတ်ဒတ်",
+    "emoji": "🌭"
   },
   {
-    "A1": "ဟတ်ဒတ်",
-    "B1": "🌭"
+    "keyword": "ဟော့ဒေါ့",
+    "emoji": "🌭"
   },
   {
-    "A1": "ဟော့ဒေါ့",
-    "B1": "🌭"
+    "keyword": "ฮอทดอก",
+    "emoji": "🌭"
   },
   {
-    "A1": "ฮอทดอก",
-    "B1": "🌭"
+    "keyword": "hot dog",
+    "emoji": "🌭"
   },
   {
-    "A1": "hot dog",
-    "B1": "🌭"
+    "keyword": "ဒကဩောံဂန်",
+    "emoji": "🍿"
   },
   {
-    "A1": "ဒကဩောံဂန်",
-    "B1": "🍿"
+    "keyword": "ပေါက်ပေါက်",
+    "emoji": "🍿"
   },
   {
-    "A1": "ပေါက်ပေါက်",
-    "B1": "🍿"
+    "keyword": "ป๊อปคอร์น",
+    "emoji": "🍿"
   },
   {
-    "A1": "ป๊อปคอร์น",
-    "B1": "🍿"
+    "keyword": "popcorn",
+    "emoji": "🍿"
   },
   {
-    "A1": "popcorn",
-    "B1": "🍿"
+    "keyword": "ကွာင်ပ္ကဴ",
+    "emoji": "🥞"
   },
   {
-    "A1": "ကွာင်ပ္ကဴ",
-    "B1": "🥞"
+    "keyword": "ပန်ကိတ်",
+    "emoji": "🥞"
   },
   {
-    "A1": "ပန်ကိတ်",
-    "B1": "🥞"
+    "keyword": "แพนเค้ก",
+    "emoji": "🥞"
   },
   {
-    "A1": "แพนเค้ก",
-    "B1": "🥞"
+    "keyword": "pancake",
+    "emoji": "🥞"
   },
   {
-    "A1": "pancake",
-    "B1": "🥞"
+    "keyword": "ကွာင်ဝါဝှန်",
+    "emoji": "🧇"
   },
   {
-    "A1": "ကွာင်ဝါဝှန်",
-    "B1": "🧇"
+    "keyword": "ဝါဖယ်",
+    "emoji": "🧇"
   },
   {
-    "A1": "ဝါဖယ်",
-    "B1": "🧇"
+    "keyword": "วาฟเฟิล",
+    "emoji": "🧇"
   },
   {
-    "A1": "วาฟเฟิล",
-    "B1": "🧇"
+    "keyword": "waffle",
+    "emoji": "🧇"
   },
   {
-    "A1": "waffle",
-    "B1": "🧇"
+    "keyword": "ကွာင်ဖျုန်ကြဳ",
+    "emoji": "🥓"
   },
   {
-    "A1": "ကွာင်ဖျုန်ကြဳ",
-    "B1": "🥓"
+    "keyword": "ဘေကွန်",
+    "emoji": "🥓"
   },
   {
-    "A1": "ဘေကွန်",
-    "B1": "🥓"
+    "keyword": "เบคอน",
+    "emoji": "🥓"
   },
   {
-    "A1": "เบคอน",
-    "B1": "🥓"
+    "keyword": "bacon",
+    "emoji": "🥓"
   },
   {
-    "A1": "bacon",
-    "B1": "🥓"
+    "keyword": "ကွာင်ခရောဇြန်",
+    "emoji": "🥐"
   },
   {
-    "A1": "ကွာင်ခရောဇြန်",
-    "B1": "🥐"
+    "keyword": "ခရိုဆန်",
+    "emoji": "🥐"
   },
   {
-    "A1": "ခရိုဆန်",
-    "B1": "🥐"
+    "keyword": "ครัวซองต์",
+    "emoji": "🥐"
   },
   {
-    "A1": "ครัวซองต์",
-    "B1": "🥐"
+    "keyword": "croissant",
+    "emoji": "🥐"
   },
   {
-    "A1": "croissant",
-    "B1": "🥐"
+    "keyword": "ပရက်ဇြဴ",
+    "emoji": "🥨"
   },
   {
-    "A1": "ပရက်ဇြဴ",
-    "B1": "🥨"
+    "keyword": "ပရက်ဇယ်",
+    "emoji": "🥨"
   },
   {
-    "A1": "ပရက်ဇယ်",
-    "B1": "🥨"
+    "keyword": "เพรทเซล",
+    "emoji": "🥨"
   },
   {
-    "A1": "เพรทเซล",
-    "B1": "🥨"
+    "keyword": "pretzel",
+    "emoji": "🥨"
   },
   {
-    "A1": "pretzel",
-    "B1": "🥨"
+    "keyword": "ဇြေန်ဒဝစ်",
+    "emoji": "🥪"
   },
   {
-    "A1": "ဇြေန်ဒဝစ်",
-    "B1": "🥪"
+    "keyword": "ဆင်းဒဝစ်",
+    "emoji": "🥪"
   },
   {
-    "A1": "ဆင်းဒဝစ်",
-    "B1": "🥪"
+    "keyword": "แซนด์วิช",
+    "emoji": "🥪"
   },
   {
-    "A1": "แซนด์วิช",
-    "B1": "🥪"
+    "keyword": "sandwich",
+    "emoji": "🥪"
   },
   {
-    "A1": "sandwich",
-    "B1": "🥪"
+    "keyword": "ကွာင်ကဝေက်",
+    "emoji": "🌮"
   },
   {
-    "A1": "ကွာင်ကဝေက်",
-    "B1": "🌮"
+    "keyword": "တာကို",
+    "emoji": "🌮"
   },
   {
-    "A1": "တာကို",
-    "B1": "🌮"
+    "keyword": "ทาโก้",
+    "emoji": "🌮"
   },
   {
-    "A1": "ทาโก้",
-    "B1": "🌮"
+    "keyword": "taco",
+    "emoji": "🌮"
   },
   {
-    "A1": "taco",
-    "B1": "🌮"
+    "keyword": "ဗူရဳတို",
+    "emoji": "🌯"
   },
   {
-    "A1": "ဗူရဳတို",
-    "B1": "🌯"
+    "keyword": "ဘူရီတို",
+    "emoji": "🌯"
   },
   {
-    "A1": "ဘူရီတို",
-    "B1": "🌯"
+    "keyword": "บูร์ริโต",
+    "emoji": "🌯"
   },
   {
-    "A1": "บูร์ริโต",
-    "B1": "🌯"
+    "keyword": "burrito",
+    "emoji": "🌯"
   },
   {
-    "A1": "burrito",
-    "B1": "🌯"
+    "keyword": "ပဳတာ",
+    "emoji": "🥙"
   },
   {
-    "A1": "ပဳတာ",
-    "B1": "🥙"
+    "keyword": "ပီတာ",
+    "emoji": "🥙"
   },
   {
-    "A1": "ပီတာ",
-    "B1": "🥙"
+    "keyword": "พีต้า",
+    "emoji": "🥙"
   },
   {
-    "A1": "พีต้า",
-    "B1": "🥙"
+    "keyword": "pita",
+    "emoji": "🥙"
   },
   {
-    "A1": "pita",
-    "B1": "🥙"
+    "keyword": "ဒေဝ်ခၞာ",
+    "emoji": "🥘"
   },
   {
-    "A1": "ဒေဝ်ခၞာ",
-    "B1": "🥘"
+    "keyword": "ဒယ်အိုး",
+    "emoji": "🥘"
   },
   {
-    "A1": "ဒယ်အိုး",
-    "B1": "🥘"
+    "keyword": "กระทะ",
+    "emoji": "🥘"
   },
   {
-    "A1": "กระทะ",
-    "B1": "🥘"
+    "keyword": "pan",
+    "emoji": "🥘"
   },
   {
-    "A1": "pan",
-    "B1": "🥘"
+    "keyword": "ခွသောတ်",
+    "emoji": "🍲"
   },
   {
-    "A1": "ခွသောတ်",
-    "B1": "🍲"
+    "keyword": "စွပ်ပြုတ်",
+    "emoji": "🍲"
   },
   {
-    "A1": "စွပ်ပြုတ်",
-    "B1": "🍲"
+    "keyword": "สตูว์",
+    "emoji": "🍲"
   },
   {
-    "A1": "สตูว์",
-    "B1": "🍲"
+    "keyword": "stew",
+    "emoji": "🍲"
   },
   {
-    "A1": "stew",
-    "B1": "🍲"
+    "keyword": "ပ္ၚာန်ဝိုင်",
+    "emoji": "🥣"
   },
   {
-    "A1": "ပ္ၚာန်ဝိုင်",
-    "B1": "🥣"
+    "keyword": "ပန်းကန်လုံး",
+    "emoji": "🥣"
   },
   {
-    "A1": "ပန်းကန်လုံး",
-    "B1": "🥣"
+    "keyword": "ชาม",
+    "emoji": "🥣"
   },
   {
-    "A1": "ชาม",
-    "B1": "🥣"
+    "keyword": "bowl",
+    "emoji": "🥣"
   },
   {
-    "A1": "bowl",
-    "B1": "🥣"
+    "keyword": "သိုဝ်ဍာ",
+    "emoji": "🥤"
   },
   {
-    "A1": "သိုဝ်ဍာ",
-    "B1": "🥤"
+    "keyword": "ဆိုဒါ",
+    "emoji": "🥤"
   },
   {
-    "A1": "ဆိုဒါ",
-    "B1": "🥤"
+    "keyword": "โซดา",
+    "emoji": "🥤"
   },
   {
-    "A1": "โซดา",
-    "B1": "🥤"
+    "keyword": "soda",
+    "emoji": "🥤"
   },
   {
-    "A1": "soda",
-    "B1": "🥤"
+    "keyword": "ဍာ်ပၠာဲ",
+    "emoji": "🧃"
   },
   {
-    "A1": "ဍာ်ပၠာဲ",
-    "B1": "🧃"
+    "keyword": "ဖျော်ရည်",
+    "emoji": "🧃"
   },
   {
-    "A1": "ဖျော်ရည်",
-    "B1": "🧃"
+    "keyword": "น้ำผลไม้",
+    "emoji": "🧃"
   },
   {
-    "A1": "น้ำผลไม้",
-    "B1": "🧃"
+    "keyword": "juice",
+    "emoji": "🧃"
   },
   {
-    "A1": "juice",
-    "B1": "🧃"
+    "keyword": "မက်တေ",
+    "emoji": "🧉"
   },
   {
-    "A1": "မက်တေ",
-    "B1": "🧉"
+    "keyword": "မက်တေး",
+    "emoji": "🧉"
   },
   {
-    "A1": "မက်တေး",
-    "B1": "🧉"
+    "keyword": "มาเต",
+    "emoji": "🧉"
   },
   {
-    "A1": "มาเต",
-    "B1": "🧉"
+    "keyword": "mate",
+    "emoji": "🧉"
   },
   {
-    "A1": "mate",
-    "B1": "🧉"
+    "keyword": "ချေံကၠ",
+    "emoji": "🦓"
   },
   {
-    "A1": "ချေံကၠ",
-    "B1": "🦓"
+    "keyword": "မြင်းကျား",
+    "emoji": "🦓"
   },
   {
-    "A1": "မြင်းကျား",
-    "B1": "🦓"
+    "keyword": "ม้าลาย",
+    "emoji": "🦓"
   },
   {
-    "A1": "ม้าลาย",
-    "B1": "🦓"
+    "keyword": "zebra",
+    "emoji": "🦓"
   },
   {
-    "A1": "zebra",
-    "B1": "🦓"
+    "keyword": "ချေံကအ်ဂၠိင်",
+    "emoji": "🦒"
   },
   {
-    "A1": "ချေံကအ်ဂၠိင်",
-    "B1": "🦒"
+    "keyword": "သစ်ကုလားအုတ်",
+    "emoji": "🦒"
   },
   {
-    "A1": "သစ်ကုလားအုတ်",
-    "B1": "🦒"
+    "keyword": "ยีราฟ",
+    "emoji": "🦒"
   },
   {
-    "A1": "ยีราฟ",
-    "B1": "🦒"
+    "keyword": "giraffe",
+    "emoji": "🦒"
   },
   {
-    "A1": "giraffe",
-    "B1": "🦒"
+    "keyword": "ပၞုက်ကောန်",
+    "emoji": "🦘"
   },
   {
-    "A1": "ပၞုက်ကောန်",
-    "B1": "🦘"
+    "keyword": "သားပိုက်ကောင်",
+    "emoji": "🦘"
   },
   {
-    "A1": "သားပိုက်ကောင်",
-    "B1": "🦘"
+    "keyword": "จิงโจ้",
+    "emoji": "🦘"
   },
   {
-    "A1": "จิงโจ้",
-    "B1": "🦘"
+    "keyword": "kangaroo",
+    "emoji": "🦘"
   },
   {
-    "A1": "kangaroo",
-    "B1": "🦘"
+    "keyword": "ကဝ",
+    "emoji": "🦇"
   },
   {
-    "A1": "ကဝ",
-    "B1": "🦇"
+    "keyword": "လင်းနို့",
+    "emoji": "🦇"
   },
   {
-    "A1": "လင်းနို့",
-    "B1": "🦇"
+    "keyword": "ค้างคาว",
+    "emoji": "🦇"
   },
   {
-    "A1": "ค้างคาว",
-    "B1": "🦇"
+    "keyword": "bat",
+    "emoji": "🦇"
   },
   {
-    "A1": "bat",
-    "B1": "🦇"
+    "keyword": "ဂစေံကလော်",
+    "emoji": "🦉"
   },
   {
-    "A1": "ဂစေံကလော်",
-    "B1": "🦉"
+    "keyword": "ဇီးကွက်",
+    "emoji": "🦉"
   },
   {
-    "A1": "ဇီးကွက်",
-    "B1": "🦉"
+    "keyword": "นกฮูก",
+    "emoji": "🦉"
   },
   {
-    "A1": "นกฮูก",
-    "B1": "🦉"
+    "keyword": "owl",
+    "emoji": "🦉"
   },
   {
-    "A1": "owl",
-    "B1": "🦉"
+    "keyword": "ဂစေံံၚေက်",
+    "emoji": "🦜"
   },
   {
-    "A1": "ဂစေံံၚေက်",
-    "B1": "🦜"
+    "keyword": "ကြက်တူရွေး",
+    "emoji": "🦜"
   },
   {
-    "A1": "ကြက်တူရွေး",
-    "B1": "🦜"
+    "keyword": "นกแก้ว",
+    "emoji": "🦜"
   },
   {
-    "A1": "นกแก้ว",
-    "B1": "🦜"
+    "keyword": "parrot",
+    "emoji": "🦜"
   },
   {
-    "A1": "parrot",
-    "B1": "🦜"
+    "keyword": "ဂၜေ",
+    "emoji": "🦥"
   },
   {
-    "A1": "ဂၜေ",
-    "B1": "🦥"
+    "keyword": "ပျင်းရိကောင်",
+    "emoji": "🦥"
   },
   {
-    "A1": "ပျင်းရိကောင်",
-    "B1": "🦥"
+    "keyword": "สลอธ",
+    "emoji": "🦥"
   },
   {
-    "A1": "สลอธ",
-    "B1": "🦥"
+    "keyword": "sloth",
+    "emoji": "🦥"
   },
   {
-    "A1": "sloth",
-    "B1": "🦥"
+    "keyword": "ဖောအ်",
+    "emoji": "🦦"
   },
   {
-    "A1": "ဖောအ်",
-    "B1": "🦦"
+    "keyword": "ဖျံ",
+    "emoji": "🦦"
   },
   {
-    "A1": "ဖျံ",
-    "B1": "🦦"
+    "keyword": "นาก",
+    "emoji": "🦦"
   },
   {
-    "A1": "นาก",
-    "B1": "🦦"
+    "keyword": "otter",
+    "emoji": "🦦"
   },
   {
-    "A1": "otter",
-    "B1": "🦦"
+    "keyword": "ယန််ကၞင်",
+    "emoji": "🦨"
   },
   {
-    "A1": "ယန််ကၞင်",
-    "B1": "🦨"
+    "keyword": "စကန့်",
+    "emoji": "🦨"
   },
   {
-    "A1": "စကန့်",
-    "B1": "🦨"
+    "keyword": "สกังก์",
+    "emoji": "🦨"
   },
   {
-    "A1": "สกังก์",
-    "B1": "🦨"
+    "keyword": "skunk",
+    "emoji": "🦨"
   },
   {
-    "A1": "skunk",
-    "B1": "🦨"
+    "keyword": "ယန််",
+    "emoji": "🐿️"
   },
   {
-    "A1": "ယန််",
-    "B1": "🐿️"
+    "keyword": "ရှဉ့်",
+    "emoji": "🐿️"
   },
   {
-    "A1": "ရှဉ့်",
-    "B1": "🐿️"
+    "keyword": "ชิปมังก์",
+    "emoji": "🐿️"
   },
   {
-    "A1": "ชิปมังก์",
-    "B1": "🐿️"
+    "keyword": "chipmunk",
+    "emoji": "🐿️"
   },
   {
-    "A1": "chipmunk",
-    "B1": "🐿️"
+    "keyword": "ဗၠေင်",
+    "emoji": "🦔"
   },
   {
-    "A1": "ဗၠေင်",
-    "B1": "🦔"
+    "keyword": "ဖြူကောင်",
+    "emoji": "🦔"
   },
   {
-    "A1": "ဖြူကောင်",
-    "B1": "🦔"
+    "keyword": "เม่น",
+    "emoji": "🦔"
   },
   {
-    "A1": "เม่น",
-    "B1": "🦔"
+    "keyword": "hedgehog",
+    "emoji": "🦔"
   },
   {
-    "A1": "hedgehog",
-    "B1": "🦔"
+    "keyword": "ဂေါဇဳဠာ",
+    "emoji": "🦕"
   },
   {
-    "A1": "ဂေါဇဳဠာ",
-    "B1": "🦕"
+    "keyword": "ဒိုင်နိုဆော",
+    "emoji": "🦕"
   },
   {
-    "A1": "ဒိုင်နိုဆော",
-    "B1": "🦕"
+    "keyword": "ไดโนเสาร์",
+    "emoji": "🦕"
   },
   {
-    "A1": "ไดโนเสาร์",
-    "B1": "🦕"
+    "keyword": "dinosaur",
+    "emoji": "🦕"
   },
   {
-    "A1": "dinosaur",
-    "B1": "🦕"
+    "keyword": "တီရက်စ်",
+    "emoji": "🦖"
   },
   {
-    "A1": "တီရက်စ်",
-    "B1": "🦖"
+    "keyword": "တီရက်စ်",
+    "emoji": "🦖"
   },
   {
-    "A1": "တီရက်စ်",
-    "B1": "🦖"
+    "keyword": "ทีเร็กซ์",
+    "emoji": "🦖"
   },
   {
-    "A1": "ทีเร็กซ์",
-    "B1": "🦖"
+    "keyword": "t-rex",
+    "emoji": "🦖"
   },
   {
-    "A1": "t-rex",
-    "B1": "🦖"
+    "keyword": "စၟကဴ",
+    "emoji": "🐛"
   },
   {
-    "A1": "စၟကဴ",
-    "B1": "🐛"
+    "keyword": "ပိုးကောင်",
+    "emoji": "🐛"
   },
   {
-    "A1": "ပိုးကောင်",
-    "B1": "🐛"
+    "keyword": "แมลง",
+    "emoji": "🐛"
   },
   {
-    "A1": "แมลง",
-    "B1": "🐛"
+    "keyword": "bug",
+    "emoji": "🐛"
   },
   {
-    "A1": "bug",
-    "B1": "🐛"
+    "keyword": "ဂမိတ်",
+    "emoji": "🦟"
   },
   {
-    "A1": "ဂမိတ်",
-    "B1": "🦟"
+    "keyword": "ခြင်",
+    "emoji": "🦟"
   },
   {
-    "A1": "ခြင်",
-    "B1": "🦟"
+    "keyword": "ยุง",
+    "emoji": "🦟"
   },
   {
-    "A1": "ยุง",
-    "B1": "🦟"
+    "keyword": "mosquito",
+    "emoji": "🦟"
   },
   {
-    "A1": "mosquito",
-    "B1": "🦟"
+    "keyword": "စံင်ရောတ်",
+    "emoji": "🦗"
   },
   {
-    "A1": "စံင်ရောတ်",
-    "B1": "🦗"
+    "keyword": "ပုရစ်",
+    "emoji": "🦗"
   },
   {
-    "A1": "ပုရစ်",
-    "B1": "🦗"
+    "keyword": "จิ้งหรีด",
+    "emoji": "🦗"
   },
   {
-    "A1": "จิ้งหรีด",
-    "B1": "🦗"
+    "keyword": "cricket",
+    "emoji": "🦗"
   },
   {
-    "A1": "cricket",
-    "B1": "🦗"
+    "keyword": "ဗဝ်တိုဝ်",
+    "emoji": "🎾"
   },
   {
-    "A1": "ဗဝ်တိုဝ်",
-    "B1": "🎾"
+    "keyword": "တင်းနစ်",
+    "emoji": "🎾"
   },
   {
-    "A1": "တင်းနစ်",
-    "B1": "🎾"
+    "keyword": "เทนนิส",
+    "emoji": "🎾"
   },
   {
-    "A1": "เทนนิส",
-    "B1": "🎾"
+    "keyword": "tennis",
+    "emoji": "🎾"
   },
   {
-    "A1": "tennis",
-    "B1": "🎾"
+    "keyword": "ဗဝ်လီဘော",
+    "emoji": "🏐"
   },
   {
-    "A1": "ဗဝ်လီဘော",
-    "B1": "🏐"
+    "keyword": "ဘော်လီဘော",
+    "emoji": "🏐"
   },
   {
-    "A1": "ဘော်လီဘော",
-    "B1": "🏐"
+    "keyword": "วอลเลย์บอล",
+    "emoji": "🏐"
   },
   {
-    "A1": "วอลเลย์บอล",
-    "B1": "🏐"
+    "keyword": "volleyball",
+    "emoji": "🏐"
   },
   {
-    "A1": "volleyball",
-    "B1": "🏐"
+    "keyword": "ဗဝ်ကၠဟ်",
+    "emoji": "🏉"
   },
   {
-    "A1": "ဗဝ်ကၠဟ်",
-    "B1": "🏉"
+    "keyword": "ရပ်ဘီ",
+    "emoji": "🏉"
   },
   {
-    "A1": "ရပ်ဘီ",
-    "B1": "🏉"
+    "keyword": "รักบี้",
+    "emoji": "🏉"
   },
   {
-    "A1": "รักบี้",
-    "B1": "🏉"
+    "keyword": "rugby",
+    "emoji": "🏉"
   },
   {
-    "A1": "rugby",
-    "B1": "🏉"
+    "keyword": "ဗဳလေတ်",
+    "emoji": "🎱"
   },
   {
-    "A1": "ဗဳလေတ်",
-    "B1": "🎱"
+    "keyword": "ဘိလိယက်",
+    "emoji": "🎱"
   },
   {
-    "A1": "ဘိလိယက်",
-    "B1": "🎱"
+    "keyword": "บิลเลียด",
+    "emoji": "🎱"
   },
   {
-    "A1": "บิลเลียด",
-    "B1": "🎱"
+    "keyword": "billiards",
+    "emoji": "🎱"
   },
   {
-    "A1": "billiards",
-    "B1": "🎱"
+    "keyword": "ပေန်ဘောင်",
+    "emoji": "🏓"
   },
   {
-    "A1": "ပေန်ဘောင်",
-    "B1": "🏓"
+    "keyword": "ပင်ပေါင်",
+    "emoji": "🏓"
   },
   {
-    "A1": "ပင်ပေါင်",
-    "B1": "🏓"
+    "keyword": "ปิงปอง",
+    "emoji": "🏓"
   },
   {
-    "A1": "ปิงปอง",
-    "B1": "🏓"
+    "keyword": "ping pong",
+    "emoji": "🏓"
   },
   {
-    "A1": "ping pong",
-    "B1": "🏓"
+    "keyword": "သၞေင်စာင်",
+    "emoji": "🏸"
   },
   {
-    "A1": "သၞေင်စာင်",
-    "B1": "🏸"
+    "keyword": "ကြက်တောင်",
+    "emoji": "🏸"
   },
   {
-    "A1": "ကြက်တောင်",
-    "B1": "🏸"
+    "keyword": "แบดมินตัน",
+    "emoji": "🏸"
   },
   {
-    "A1": "แบดมินตัน",
-    "B1": "🏸"
+    "keyword": "badminton",
+    "emoji": "🏸"
   },
   {
-    "A1": "badminton",
-    "B1": "🏸"
+    "keyword": "တိုင်ပ္ကဴ",
+    "emoji": "🥅"
   },
   {
-    "A1": "တိုင်ပ္ကဴ",
-    "B1": "🥅"
+    "keyword": "ဂေါ",
+    "emoji": "🥅"
   },
   {
-    "A1": "ဂေါ",
-    "B1": "🥅"
+    "keyword": "ဂိုး",
+    "emoji": "🥅"
   },
   {
-    "A1": "ဂိုး",
-    "B1": "🥅"
+    "keyword": "ประตู",
+    "emoji": "🥅"
   },
   {
-    "A1": "ประตู",
-    "B1": "🥅"
+    "keyword": "goal",
+    "emoji": "🥅"
   },
   {
-    "A1": "goal",
-    "B1": "🥅"
+    "keyword": "ခရေပ်ထိုင်တဲ",
+    "emoji": "🥊"
   },
   {
-    "A1": "ခရေပ်ထိုင်တဲ",
-    "B1": "🥊"
+    "keyword": "လက်ဝှေ့",
+    "emoji": "🥊"
   },
   {
-    "A1": "လက်ဝှေ့",
-    "B1": "🥊"
+    "keyword": "ชกมวย",
+    "emoji": "🥊"
   },
   {
-    "A1": "ชกมวย",
-    "B1": "🥊"
+    "keyword": "boxing",
+    "emoji": "🥊"
   },
   {
-    "A1": "boxing",
-    "B1": "🥊"
+    "keyword": "ကွတ်",
+    "emoji": "🥋"
   },
   {
-    "A1": "ကွတ်",
-    "B1": "🥋"
+    "keyword": "သိုင်း",
+    "emoji": "🥋"
   },
   {
-    "A1": "သိုင်း",
-    "B1": "🥋"
+    "keyword": "ศิลปะการต่อสู้",
+    "emoji": "🥋"
   },
   {
-    "A1": "ศิลปะการต่อสู้",
-    "B1": "🥋"
+    "keyword": "martial arts",
+    "emoji": "🥋"
   },
   {
-    "A1": "martial arts",
-    "B1": "🥋"
+    "keyword": "ဂေါက်",
+    "emoji": "⛳"
   },
   {
-    "A1": "ဂေါက်",
-    "B1": "⛳"
+    "keyword": "ဂေါက်",
+    "emoji": "⛳"
   },
   {
-    "A1": "ဂေါက်",
-    "B1": "⛳"
+    "keyword": "กอล์ฟ",
+    "emoji": "⛳"
   },
   {
-    "A1": "กอล์ฟ",
-    "B1": "⛳"
+    "keyword": "golf",
+    "emoji": "⛳"
   },
   {
-    "A1": "golf",
-    "B1": "⛳"
+    "keyword": "ကောန်ဂစက်",
+    "emoji": "🧭"
   },
   {
-    "A1": "ကောန်ဂစက်",
-    "B1": "🧭"
+    "keyword": "သံလိုက်အိမ်မြှောင်",
+    "emoji": "🧭"
   },
   {
-    "A1": "သံလိုက်အိမ်မြှောင်",
-    "B1": "🧭"
+    "keyword": "เข็มทิศ",
+    "emoji": "🧭"
   },
   {
-    "A1": "เข็มทิศ",
-    "B1": "🧭"
+    "keyword": "compass",
+    "emoji": "🧭"
   },
   {
-    "A1": "compass",
-    "B1": "🧭"
+    "keyword": "ဍတ်",
+    "emoji": "🧱"
   },
   {
-    "A1": "ဍတ်",
-    "B1": "🧱"
+    "keyword": "အုတ်",
+    "emoji": "🧱"
   },
   {
-    "A1": "အုတ်",
-    "B1": "🧱"
+    "keyword": "อิฐ",
+    "emoji": "🧱"
   },
   {
-    "A1": "อิฐ",
-    "B1": "🧱"
+    "keyword": "brick",
+    "emoji": "🧱"
   },
   {
-    "A1": "brick",
-    "B1": "🧱"
+    "keyword": "ဇိုင်သၠာ",
+    "emoji": "🛹"
   },
   {
-    "A1": "ဇိုင်သၠာ",
-    "B1": "🛹"
+    "keyword": "စကိတ်",
+    "emoji": "🛹"
   },
   {
-    "A1": "စကိတ်",
-    "B1": "🛹"
+    "keyword": "สเกตบอร์ด",
+    "emoji": "🛹"
   },
   {
-    "A1": "สเกตบอร์ด",
-    "B1": "🛹"
+    "keyword": "skateboard",
+    "emoji": "🛹"
   },
   {
-    "A1": "skateboard",
-    "B1": "🛹"
+    "keyword": "ဒၞပ်သၠာ",
+    "emoji": "🛼"
   },
   {
-    "A1": "ဒၞပ်သၠာ",
-    "B1": "🛼"
+    "keyword": "ဒလိမ့်ဘီး",
+    "emoji": "🛼"
   },
   {
-    "A1": "ဒလိမ့်ဘီး",
-    "B1": "🛼"
+    "keyword": "โรลเลอร์สเกต",
+    "emoji": "🛼"
   },
   {
-    "A1": "โรลเลอร์สเกต",
-    "B1": "🛼"
+    "keyword": "roller skate",
+    "emoji": "🛼"
   },
   {
-    "A1": "roller skate",
-    "B1": "🛼"
+    "keyword": "သတ်ပ္ကဴ",
+    "emoji": ""
   },
   {
-    "A1": "သတ်ပ္ကဴ",
-    "B1": ""
+    "keyword": "ပန်းသီး",
+    "emoji": ""
   },
   {
-    "A1": "ပန်းသီး",
-    "B1": ""
+    "keyword": "แอปเปิ้ล",
+    "emoji": ""
   },
   {
-    "A1": "แอปเปิ้ล",
-    "B1": ""
+    "keyword": "apple",
+    "emoji": ""
   },
   {
-    "A1": "apple",
-    "B1": ""
+    "keyword": "macOS",
+    "emoji": ""
   },
   {
-    "A1": "macOS",
-    "B1": ""
+    "keyword": "iPhone ",
+    "emoji": ""
   },
   {
-    "A1": "iPhone ",
-    "B1": ""
+    "keyword": "iPad",
+    "emoji": ""
   },
   {
-    "A1": "iPad",
-    "B1": ""
-  },
-  {
-    "A1": "macbook",
-    "B1": ""
+    "keyword": "macbook",
+    "emoji": ""
   }
 ]
