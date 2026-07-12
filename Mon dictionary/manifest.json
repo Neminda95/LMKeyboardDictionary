@@ -1,14 +1,38 @@
 {
   "version": 1,
+  "updated": "2026-07-12T17:30:00Z",
   "files": [
-    "Mon dictionary/suggestions/emoji.json",
-    "Mon dictionary/suggestions/english.json",
-    "Mon dictionary/suggestions/mon.json",
-    "Mon dictionary/suggestions/myanmar.json",
-    "Mon dictionary/suggestions/thai.json",
-
-    "Mon dictionary/dictionary/eng_mon.json",
-    "Mon dictionary/dictionary/mon_eng_mya_pali.json",
-    "Mon dictionary/dictionary/mon_thai_eng_mya.json"
+    {
+      "name": "emoji",
+      "path": "Mon dictionary/suggestions/emoji.json"
+    },
+    {
+      "name": "english",
+      "path": "Mon dictionary/suggestions/english.json"
+    },
+    {
+      "name": "mon",
+      "path": "Mon dictionary/suggestions/mon.json"
+    },
+    {
+      "name": "myanmar",
+      "path": "Mon dictionary/suggestions/myanmar.json"
+    },
+    {
+      "name": "thai",
+      "path": "Mon dictionary/suggestions/thai.json"
+    },
+    {
+      "name": "eng_mon",
+      "path": "Mon dictionary/dictionary/eng_mon.json"
+    },
+    {
+      "name": "mon_eng_mya_pali",
+      "path": "Mon dictionary/dictionary/mon_eng_mya_pali.json"
+    },
+    {
+      "name": "mon_thai_eng_mya",
+      "path": "Mon dictionary/dictionary/mon_thai_eng_mya.json"
+    }
   ]
 }
