@@ -6,7 +6,9 @@
     "Part of Speech": "Adjective",
     "definition": "",
     "myanmar meaning": "(adj) အလားလာရှိ (n) စွမ်းရည်",
-    "thai meaning": ""
+    "thai meaning": "",
+    "audio": "EM000001.mp3",
+    "audioUrl": "https://drive.google.com/uc?export=download&id=1eIxMbt0lUH9cG3m2YXIriwNsKLgUChWc"
   },
   {
     "ID": "EM000002",
@@ -15,7 +17,9 @@
     "Part of Speech": "Adjective",
     "definition": "Answered letters Several questions about the crime remain unanswered.",
     "myanmar meaning": "မဖြေသော၊ မရှင်းသေးသော",
-    "thai meaning": ""
+    "thai meaning": "",
+    "audio": "",
+    "audioUrl": ""
   },
   {
     "ID": "EM000003",
@@ -24,7 +28,9 @@
     "Part of Speech": "",
     "definition": "",
     "myanmar meaning": "အိမ်",
-    "thai meaning": "บ้าน"
+    "thai meaning": "บ้าน",
+    "audio": "",
+    "audioUrl": ""
   },
   {
     "ID": "EM000004",
@@ -33,7 +39,9 @@
     "Part of Speech": "",
     "definition": "",
     "myanmar meaning": "နတ်အကပွဲအတွက် တဲထိုးထားသည်။",
-    "thai meaning": "บูธที่สร้างขึ้นสำหรับการเต้นรำวิญญาณ"
+    "thai meaning": "บูธที่สร้างขึ้นสำหรับการเต้นรำวิญญาณ",
+    "audio": "",
+    "audioUrl": ""
   },
   {
     "ID": "EM000005",
@@ -42,6 +50,8 @@
     "Part of Speech": "Noun",
     "definition": "",
     "myanmar meaning": "ပြသာဒ်",
-    "thai meaning": "โชวาร์ด"
+    "thai meaning": "โชวาร์ด",
+    "audio": "",
+    "audioUrl": ""
   }
 ]
