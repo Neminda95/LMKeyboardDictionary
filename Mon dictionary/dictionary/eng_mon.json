@@ -8,8 +8,8 @@
     "myanmar_meaning": "(adj) အလားလာရှိ (n) စွမ်းရည်",
     "thai_meaning": "",
     "pali": "",
-    "audio": "EM000001.mp3",
-    "audio_url": "https://drive.google.com/uc?export=download&id=1eIxMbt0lUH9cG3m2YXIriwNsKLgUChWc"
+    "mon_audio": "EM000001.mp3",
+    "mon_audio_url": "https://drive.google.com/uc?export=download&id=1eIxMbt0lUH9cG3m2YXIriwNsKLgUChWc"
   },
   {
     "ID": "EM000002",
@@ -20,8 +20,8 @@
     "myanmar_meaning": "မဖြေသော၊ မရှင်းသေးသော",
     "thai_meaning": "",
     "pali": "",
-    "audio": "EM000002.mp3",
-    "audio_url": ""
+    "mon_audio": "EM000002.mp3",
+    "mon_audio_url": ""
   },
   {
     "ID": "EM000003",
@@ -32,8 +32,8 @@
     "myanmar_meaning": "အိမ်",
     "thai_meaning": "บ้าน",
     "pali": "",
-    "audio": "EM000003.mp3",
-    "audio_url": ""
+    "mon_audio": "EM000003.mp3",
+    "mon_audio_url": ""
   },
   {
     "ID": "EM000004",
@@ -44,8 +44,8 @@
     "myanmar_meaning": "နတ်အကပွဲအတွက် တဲထိုးထားသည်။",
     "thai_meaning": "บูธที่สร้างขึ้นสำหรับการเต้นรำวิญญาณ",
     "pali": "",
-    "audio": "EM000004.mp3",
-    "audio_url": ""
+    "mon_audio": "EM000004.mp3",
+    "mon_audio_url": ""
   },
   {
     "ID": "EM000005",
@@ -56,8 +56,8 @@
     "myanmar_meaning": "ပြသာဒ်",
     "thai_meaning": "โชวาร์ด",
     "pali": "",
-    "audio": "EM000005.mp3",
-    "audio_url": ""
+    "mon_audio": "EM000005.mp3",
+    "mon_audio_url": ""
   },
   {
     "ID": "EM000006",
@@ -68,7 +68,7 @@
     "myanmar_meaning": "ဖြုတ်ချဖို့",
     "thai_meaning": "เพื่อลบออก",
     "pali": "",
-    "audio": "EM000006.mp3",
-    "audio_url": "https://drive.google.com/uc?export=download&id=1iTTdngPAO84IJqM4_3JiswSnb3zriSEV"
+    "mon_audio": "EM000006.mp3",
+    "mon_audio_url": "https://drive.google.com/uc?export=download&id=1wU3Dul8y6H3DaBc-TMt8wuKqlxqUHeHE"
   }
 ]
